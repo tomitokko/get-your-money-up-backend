@@ -5,7 +5,7 @@ import uuid
 
 class Transaction(models.Model):
     id = models.AutoField(primary_key=True)
-    bank_statement_uid = models.UUIDField(default=uuid.uuid4, editable=False, unique=True)
+    bank_statement_uid = models.UUIDField(editable=False)
     date = models.DateField()
     time = models.TimeField()
     name = models.CharField(max_length=255)
@@ -21,8 +21,10 @@ class Transaction(models.Model):
 
 class CategorisedTransaction(models.Model):
     id = models.AutoField(primary_key=True)
-    bank_statement_uid = models.UUIDField(default=uuid.uuid4, editable=False, unique=True)
+    bank_statement_uid = models.UUIDField(editable=False)
     category = models.CharField(max_length=255)
     total_amount = models.DecimalField(max_digits=10, decimal_places=2)
+    money_out = models.DecimalField(max_digits=1000, decimal_places=2, blank=True, null=True)
+    money_in = models.DecimalField(max_digits=1000, decimal_places=2, blank=True, null=True)
     currency = models.CharField(max_length=10)
 

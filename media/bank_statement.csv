@@ -1,0 +1,1669 @@
+ID,Date/Time,Name,Category,Amount,Currency,Money out,Money In,Description
+4a4e5d85-98c4-4c73-be01-c385cce512dd,2010-01-01,John Doe,Income,1904.08,USD,0.0,1904.08,
+a7ebb9a0-ec8b-4111-a4d3-da1c1355d6c8,2010-01-01,John Doe,Rent,408.01,USD,408.01,0.0,
+9510973b-9783-42a5-b9d0-a2cc28cb01ea,2010-01-02,John Doe,Utilities,273.96,USD,273.96,0.0,
+6fc50722-15b9-4f13-a376-546ee7e51d5e,2010-01-23,John Doe,Dining,138.51,USD,138.51,0.0,Restaurant meal
+d41db922-30e4-4453-a004-e4af243f2937,2010-01-03,John Doe,Entertainment,152.3,USD,152.3,0.0,Concert tickets
+aa5e9471-4214-4cd8-9154-b3a98ab0c62c,2010-01-12,John Doe,Entertainment,104.23,USD,104.23,0.0,Streaming subscription
+dab5f732-b66a-4fbd-a7ba-c018f7227cd7,2010-01-26,John Doe,Dining,179.81,USD,179.81,0.0,Cafe purchase
+fb85ec8d-4d20-4ac4-9b52-2113244b4875,2010-01-04,John Doe,Groceries,86.39,USD,86.39,0.0,Weekly groceries
+013ae67b-16ee-41ff-a483-3437071a6fd2,2010-01-03,John Doe,Shopping,120.57,USD,120.57,0.0,Clothing store
+ce791743-46bb-4740-8f14-24cedf1d07ac,2010-01-13,John Doe,Dining,77.48,USD,77.48,0.0,Restaurant meal
+8549c2a8-a995-4d5a-bed3-c01ad2248159,2010-01-12,John Doe,Shopping,66.88,USD,66.88,0.0,Clothing store
+18acef4f-7062-45fd-993e-753ec1971da0,2010-01-15,John Doe,Dining,52.78,USD,52.78,0.0,Takeaway order
+360244e1-e14d-427e-ad3c-8e2bd0a6dcb1,2010-01-28,John Doe,Shopping,70.06,USD,70.06,0.0,Online purchase
+16b3688b-0e51-430b-abd5-8031786a68dd,2010-02-01,John Doe,Income,1868.27,USD,0.0,1868.27,
+13701491-0e42-4d67-822e-b9c3e25a0c46,2010-02-01,John Doe,Rent,794.33,USD,794.33,0.0,
+0a3505cd-256d-440c-9408-c3c322e418cb,2010-02-02,John Doe,Utilities,191.28,USD,191.28,0.0,
+766fa537-fbe6-4f1a-b8a0-4f37b7c94313,2010-02-11,John Doe,Shopping,97.28,USD,97.28,0.0,Clothing store
+c39be12f-6be6-439c-8d22-766f4a49c332,2010-02-12,John Doe,Dining,59.36,USD,59.36,0.0,Restaurant meal
+f21797ec-b572-4d31-9867-f8be437864e1,2010-02-16,John Doe,Shopping,177.0,USD,177.0,0.0,Online purchase
+6dcfe713-4d4a-4deb-800b-8ae060a8cd47,2010-02-13,John Doe,Groceries,156.41,USD,156.41,0.0,Weekly groceries
+76f27113-d4f8-44ee-becc-4171a1d49df4,2010-02-04,John Doe,Groceries,130.36,USD,130.36,0.0,Grocery store purchase
+78b695ed-7da9-4d6a-b16c-54c358606b1f,2010-02-26,John Doe,Travel,92.41,USD,92.41,0.0,Hotel booking
+779b2022-42d4-4a90-a10a-972e54a5dee0,2010-03-01,John Doe,Income,2116.35,USD,0.0,2116.35,
+1c128e8f-acfa-4843-9010-86167f4d3c22,2010-03-01,John Doe,Rent,657.35,USD,657.35,0.0,
+9fa789e0-95cf-4c98-9c0a-e3ad2daf1fee,2010-03-02,John Doe,Utilities,172.29,USD,172.29,0.0,
+8cd9b766-764b-40a7-be3c-cfd6a893abe0,2010-03-24,John Doe,Groceries,132.26,USD,132.26,0.0,Weekly groceries
+ac01e402-05f8-4d26-a878-9dea8de96442,2010-03-09,John Doe,Travel,121.85,USD,121.85,0.0,Hotel booking
+d250ca3c-1627-472d-aec9-f3450b62cec2,2010-03-14,John Doe,Groceries,190.72,USD,190.72,0.0,Supermarket shopping
+031507fc-fd59-4a62-a5ac-43cb5e35c814,2010-03-08,John Doe,Dining,184.43,USD,184.43,0.0,Restaurant meal
+be1845b1-d1b6-4705-963b-b29c170cce6c,2010-03-10,John Doe,Shopping,52.72,USD,52.72,0.0,Online purchase
+80eab262-db39-4159-ad29-1e85b4363501,2010-03-27,John Doe,Dining,106.5,USD,106.5,0.0,Takeaway order
+a5ffc2a7-d0b5-42d2-93e9-ee66bc4ef64a,2010-03-07,John Doe,Entertainment,80.77,USD,80.77,0.0,Concert tickets
+19b26c62-8d73-4222-9c65-5be3c08b4e82,2010-03-25,John Doe,Dining,65.19,USD,65.19,0.0,Restaurant meal
+bfdcb52e-784f-4474-98b4-3346500d916d,2010-03-06,John Doe,Entertainment,101.21,USD,101.21,0.0,Movie tickets
+bd888701-551d-45e8-be19-0573e4ade30b,2010-03-23,John Doe,Travel,58.66,USD,58.66,0.0,Hotel booking
+b2228031-d189-42af-bee0-d10093920886,2010-04-01,John Doe,Income,2247.22,USD,0.0,2247.22,
+8b9502b9-13ab-4959-80f8-53f3c34db2cd,2010-04-01,John Doe,Rent,722.25,USD,722.25,0.0,
+fa745a2f-203a-40b3-a094-e03a10a8eb83,2010-04-02,John Doe,Utilities,107.06,USD,107.06,0.0,
+22aae15f-0c04-4cb4-ba01-4a7ec8da6045,2010-04-28,John Doe,Entertainment,133.7,USD,133.7,0.0,Streaming subscription
+1418f519-632d-478f-b35e-29d2cf5dee8d,2010-04-24,John Doe,Groceries,66.77,USD,66.77,0.0,Weekly groceries
+a34dfb42-a190-4082-b9d8-5af8ea2bb23e,2010-04-26,John Doe,Entertainment,173.29,USD,173.29,0.0,Streaming subscription
+fdeeb824-22e3-4b68-b400-1693e965dc02,2010-04-25,John Doe,Groceries,66.9,USD,66.9,0.0,Supermarket shopping
+96124ec4-33e8-4aa3-94a3-c9090a4c0445,2010-04-05,John Doe,Travel,160.28,USD,160.28,0.0,Hotel booking
+5fe7bb65-5657-4308-8900-aeb36125f757,2010-04-13,John Doe,Entertainment,179.61,USD,179.61,0.0,Streaming subscription
+bf33a361-82b8-4973-a2d3-20718cc4daef,2010-04-17,John Doe,Dining,120.35,USD,120.35,0.0,Cafe purchase
+381f0885-7c30-43e3-9a8b-e3b9e3f669e4,2010-04-28,John Doe,Groceries,194.54,USD,194.54,0.0,Supermarket shopping
+b54f2a72-13a1-4963-86e3-dc9d0a43737a,2010-04-04,John Doe,Entertainment,118.18,USD,118.18,0.0,Streaming subscription
+3076551f-a27b-4a6e-9c00-4e11508eecd1,2010-05-01,John Doe,Income,1626.46,USD,0.0,1626.46,
+65b8b63c-6005-44f4-bd25-c73f4f052f1c,2010-05-01,John Doe,Rent,582.81,USD,582.81,0.0,
+174d7b34-7635-4e37-93f1-34122a1435b7,2010-05-02,John Doe,Utilities,208.39,USD,208.39,0.0,
+e870e42f-cf4f-42ed-8642-98f484c7ee25,2010-05-26,John Doe,Dining,114.66,USD,114.66,0.0,Takeaway order
+c60e1062-16a9-4091-8615-dafe8da8535c,2010-05-04,John Doe,Groceries,123.12,USD,123.12,0.0,Grocery store purchase
+1c8c80e4-ff88-4668-ba75-de6df9f63e1c,2010-05-12,John Doe,Dining,125.07,USD,125.07,0.0,Restaurant meal
+11c6d671-a7e5-4e23-b879-4fb3d4d46594,2010-05-20,John Doe,Dining,68.37,USD,68.37,0.0,Restaurant meal
+510ccad9-371c-4476-98de-805422902e67,2010-05-12,John Doe,Dining,73.11,USD,73.11,0.0,Restaurant meal
+7c9bbf68-7499-48f8-848f-b40cad5e5cec,2010-05-05,John Doe,Entertainment,183.07,USD,183.07,0.0,Concert tickets
+eb80fda9-2dfd-4de1-8fd0-b5768ecbc8ca,2010-06-01,John Doe,Income,1929.39,USD,0.0,1929.39,
+38457a9a-04e9-41bd-a0bd-7586e32916cb,2010-06-01,John Doe,Rent,692.01,USD,692.01,0.0,
+a58ab1b2-29ec-4968-9e1b-061b483cd37d,2010-06-02,John Doe,Utilities,194.48,USD,194.48,0.0,
+21efbeae-9de5-4072-b313-6760fa02cd87,2010-06-16,John Doe,Groceries,53.39,USD,53.39,0.0,Grocery store purchase
+f935d669-e42e-435d-b8ba-efdfeeac0393,2010-06-10,John Doe,Entertainment,120.96,USD,120.96,0.0,Streaming subscription
+93552dfc-5682-4d1e-97af-0317add15e8e,2010-06-10,John Doe,Entertainment,105.52,USD,105.52,0.0,Concert tickets
+a63ac31c-81de-40aa-88e7-9c5f3aa7dcaa,2010-06-13,John Doe,Entertainment,160.8,USD,160.8,0.0,Concert tickets
+872fdd7e-c99a-401a-95f2-375d1b2d4c8f,2010-06-07,John Doe,Travel,82.8,USD,82.8,0.0,Hotel booking
+25881cf0-8b88-4d50-9d9e-227276d2c4b7,2010-06-20,John Doe,Shopping,122.42,USD,122.42,0.0,Electronics store
+2e1a7fb0-6d48-4481-9311-c1ddc4dc98f7,2010-06-03,John Doe,Groceries,54.3,USD,54.3,0.0,Weekly groceries
+88290352-7de7-4d74-8cc0-e1708ed8fb13,2010-06-04,John Doe,Groceries,167.31,USD,167.31,0.0,Weekly groceries
+43eb9d19-e217-4f0e-9cd4-aad83c9556da,2010-07-01,John Doe,Income,1387.66,USD,0.0,1387.66,
+e48a95fd-21cf-4ac1-b7ab-a7357a7d7006,2010-07-01,John Doe,Rent,478.82,USD,478.82,0.0,
+7dc47b67-4305-4f57-aa96-af36c36d75f5,2010-07-02,John Doe,Utilities,180.88,USD,180.88,0.0,
+caf8d88a-06b0-4402-ac4d-f2a48dae7d64,2010-07-17,John Doe,Entertainment,101.02,USD,101.02,0.0,Streaming subscription
+f0a55503-6da4-42cf-9767-7a0075dc87d2,2010-07-10,John Doe,Travel,134.22,USD,134.22,0.0,Hotel booking
+e0c11d26-9894-47b1-a7b2-d8adbb4f3f87,2010-07-24,John Doe,Travel,119.07,USD,119.07,0.0,Hotel booking
+b3d97599-f523-4949-82f9-7cf242e512d9,2010-07-05,John Doe,Groceries,194.14,USD,194.14,0.0,Grocery store purchase
+ba2da508-b708-4c5f-8ab6-6a25cedf16f1,2010-07-24,John Doe,Dining,53.36,USD,53.36,0.0,Restaurant meal
+a2b9875f-9c9f-48c5-9dbd-2763b92b05a2,2010-08-01,John Doe,Income,1824.39,USD,0.0,1824.39,
+c2f889aa-6701-456a-b1bb-dd86614bc6cb,2010-08-01,John Doe,Rent,370.37,USD,370.37,0.0,
+54969b9d-65c7-49d9-92eb-51ebd3fa46bb,2010-08-02,John Doe,Utilities,138.98,USD,138.98,0.0,
+2d4d06d6-5929-4ae6-af0a-95b075500fe6,2010-08-06,John Doe,Groceries,143.94,USD,143.94,0.0,Supermarket shopping
+24038e0b-237a-47b2-b286-06f5a1596ed2,2010-08-10,John Doe,Dining,125.4,USD,125.4,0.0,Cafe purchase
+4b739591-7a0c-43a9-8618-9ad670f68dd4,2010-08-07,John Doe,Shopping,177.63,USD,177.63,0.0,Electronics store
+cf62c131-577e-4486-a2a7-3448b820bf26,2010-08-15,John Doe,Dining,51.62,USD,51.62,0.0,Restaurant meal
+728ea22e-bbae-49e4-8c50-f1b95bf244c5,2010-08-08,John Doe,Travel,127.17,USD,127.17,0.0,Taxi ride
+d7f2b2dc-cadd-4ed4-9f94-fddb3e7ba6c1,2010-08-12,John Doe,Entertainment,189.83,USD,189.83,0.0,Streaming subscription
+c04ef548-4ab5-4a55-8b90-66d7427d8d7a,2010-08-12,John Doe,Groceries,129.67,USD,129.67,0.0,Supermarket shopping
+9bc57b56-2646-4ed8-8245-548211a23e5f,2010-08-23,John Doe,Travel,146.87,USD,146.87,0.0,Flight ticket
+6002833e-0465-4f94-b282-b105450f021a,2010-08-18,John Doe,Travel,57.06,USD,57.06,0.0,Flight ticket
+7ab63117-23a9-4967-8b32-9339d5254993,2010-09-01,John Doe,Income,1812.11,USD,0.0,1812.11,
+20c7387b-fc7e-4057-bb01-8761d8897caa,2010-09-01,John Doe,Rent,639.89,USD,639.89,0.0,
+dc7e1c14-f3af-4340-9b57-05c25d281e97,2010-09-02,John Doe,Utilities,225.86,USD,225.86,0.0,
+c91b88d8-a234-47eb-afea-b7cb515bc14e,2010-09-04,John Doe,Shopping,69.18,USD,69.18,0.0,Electronics store
+93cfa026-e842-4c31-83bd-6e5aee5c6f06,2010-09-06,John Doe,Entertainment,127.69,USD,127.69,0.0,Concert tickets
+4e492029-15bd-496b-96ad-5e29150c1e79,2010-09-03,John Doe,Groceries,86.27,USD,86.27,0.0,Weekly groceries
+f958f66d-1ca3-406c-b426-33d392e83cee,2010-09-03,John Doe,Travel,59.13,USD,59.13,0.0,Hotel booking
+55fd7a44-896b-424a-b9d5-c68f4b58603c,2010-09-25,John Doe,Groceries,73.86,USD,73.86,0.0,Weekly groceries
+d314bbb6-3401-42de-8dd7-289748355c7d,2010-09-04,John Doe,Dining,117.5,USD,117.5,0.0,Restaurant meal
+dc777914-cbad-435b-86f5-63434248b15f,2010-09-05,John Doe,Shopping,128.84,USD,128.84,0.0,Online purchase
+232bc6cd-7207-43d9-90f4-6f32b8d4bd77,2010-09-12,John Doe,Travel,119.15,USD,119.15,0.0,Flight ticket
+cc8cb04c-623e-458d-8062-2ea25ae17baf,2010-10-01,John Doe,Income,1504.29,USD,0.0,1504.29,
+0cf01d5a-2534-4ed4-ad20-e5198046db56,2010-10-01,John Doe,Rent,390.34,USD,390.34,0.0,
+82f8f2eb-9092-4d51-b193-d2c1f2fb434a,2010-10-02,John Doe,Utilities,223.67,USD,223.67,0.0,
+7b4b4756-781d-40de-b32a-6b197201aeb1,2010-10-16,John Doe,Travel,62.69,USD,62.69,0.0,Flight ticket
+33719c11-2a31-4e25-ae80-70ae79385b46,2010-10-23,John Doe,Dining,151.76,USD,151.76,0.0,Cafe purchase
+740df0a1-253d-4f9d-ab84-54e34afef339,2010-10-27,John Doe,Travel,83.0,USD,83.0,0.0,Hotel booking
+6cb8cba8-f0cd-4ac4-8dca-6a46b75c939c,2010-10-13,John Doe,Shopping,179.93,USD,179.93,0.0,Online purchase
+87260dae-100b-4b59-bcf4-42e575f8a53f,2010-10-20,John Doe,Shopping,84.66,USD,84.66,0.0,Clothing store
+7dd2ffbc-faf8-4604-888a-f6569a7d0ae4,2010-10-20,John Doe,Shopping,90.83,USD,90.83,0.0,Electronics store
+dd50c9e3-652d-464d-bb20-bb4786f74909,2010-10-08,John Doe,Travel,100.66,USD,100.66,0.0,Flight ticket
+a42dc0e5-8783-473e-b8ed-3d12c5d78062,2010-11-01,John Doe,Income,2089.79,USD,0.0,2089.79,
+db2dcade-a330-43c7-94ee-dfa0619aaeba,2010-11-01,John Doe,Rent,757.76,USD,757.76,0.0,
+b4122da0-b2ad-4bf9-9492-90803d0aa4b3,2010-11-02,John Doe,Utilities,157.09,USD,157.09,0.0,
+ddfe6976-9020-47c1-bbc8-8737ad928136,2010-11-28,John Doe,Shopping,114.64,USD,114.64,0.0,Electronics store
+7f291123-abd0-4509-915a-3856abfb4620,2010-11-24,John Doe,Dining,52.26,USD,52.26,0.0,Restaurant meal
+d81073c6-795f-4dd6-bc7a-ff485bb53d77,2010-11-08,John Doe,Travel,197.96,USD,197.96,0.0,Taxi ride
+8d1bd1b0-6980-4ab1-97b9-4276c81cd698,2010-11-12,John Doe,Groceries,191.27,USD,191.27,0.0,Supermarket shopping
+a0930584-6a70-45b3-b27f-05ea8ccf7525,2010-11-21,John Doe,Dining,64.34,USD,64.34,0.0,Takeaway order
+c5638d16-1b2e-48d4-8b9d-60919531f92c,2010-11-09,John Doe,Dining,195.41,USD,195.41,0.0,Cafe purchase
+68170c7b-80d0-44da-b8df-616f3da3359e,2010-11-28,John Doe,Entertainment,169.08,USD,169.08,0.0,Streaming subscription
+a1fc1a96-278b-499f-9750-48d326b12bad,2010-12-01,John Doe,Income,2027.96,USD,0.0,2027.96,
+ce4f870d-3064-4048-8455-f2aa20f97e27,2010-12-01,John Doe,Rent,600.22,USD,600.22,0.0,
+a87b7a37-8370-4881-9e11-921de76b1af8,2010-12-02,John Doe,Utilities,161.85,USD,161.85,0.0,
+491861af-260b-4147-82bd-6d89bd880537,2010-12-18,John Doe,Travel,158.69,USD,158.69,0.0,Hotel booking
+d053e3a2-7abc-4a78-82a7-2ba44a4bd47e,2010-12-15,John Doe,Travel,102.4,USD,102.4,0.0,Taxi ride
+613acc77-1a8e-4e78-8661-725ca4e5b28b,2010-12-13,John Doe,Shopping,177.48,USD,177.48,0.0,Online purchase
+d994652f-02b5-46c7-9d88-c3967200e1f5,2010-12-18,John Doe,Shopping,96.56,USD,96.56,0.0,Clothing store
+3cb91ec8-b90a-4fe4-87cf-1d9bf9c36501,2010-12-04,John Doe,Entertainment,111.22,USD,111.22,0.0,Movie tickets
+57d5e20d-2016-4eed-b625-284a82f67eb1,2010-12-14,John Doe,Shopping,81.54,USD,81.54,0.0,Online purchase
+20daf148-ca3e-4bae-84bc-ae83e0413e8e,2010-12-14,John Doe,Entertainment,82.84,USD,82.84,0.0,Streaming subscription
+e4aff857-ed4b-44d0-b2b3-8c57eb38ec7a,2010-12-12,John Doe,Entertainment,70.27,USD,70.27,0.0,Concert tickets
+400d19cb-3809-424c-9731-ec7fceb00a54,2010-12-09,John Doe,Entertainment,88.67,USD,88.67,0.0,Movie tickets
+168fbcc3-b686-4c5c-8dc6-8e39442c3b50,2010-12-10,John Doe,Shopping,111.86,USD,111.86,0.0,Online purchase
+2bffaf1f-41c1-4116-83e7-b44c4e7529cf,2011-01-01,John Doe,Income,1859.35,USD,0.0,1859.35,
+09283daf-e894-4631-a2ee-b9351bb22b2e,2011-01-01,John Doe,Rent,635.74,USD,635.74,0.0,
+88656990-0783-45f5-a5c5-3d16f10766b7,2011-01-02,John Doe,Utilities,294.28,USD,294.28,0.0,
+83abfe45-5223-4fc4-97d4-bcc7d9af63be,2011-01-18,John Doe,Travel,137.4,USD,137.4,0.0,Flight ticket
+6bd98463-b541-437f-83d6-40a182e19652,2011-01-28,John Doe,Dining,53.13,USD,53.13,0.0,Takeaway order
+28033edb-3e64-408a-974b-a78377252c40,2011-01-16,John Doe,Shopping,151.9,USD,151.9,0.0,Electronics store
+25497106-3970-4d70-9271-720c2429c08d,2011-01-24,John Doe,Dining,166.27,USD,166.27,0.0,Cafe purchase
+c563bb6f-64fb-48f8-a0a3-f967d93d7353,2011-01-23,John Doe,Entertainment,150.07,USD,150.07,0.0,Movie tickets
+9c5a209c-0f0a-4e8f-9f5f-d436810e69be,2011-01-18,John Doe,Shopping,101.53,USD,101.53,0.0,Electronics store
+76306504-bed8-4c16-8d9b-475e7d49ec58,2011-02-01,John Doe,Income,2029.21,USD,0.0,2029.21,
+95be0aa2-2673-4571-af3b-c51f6200ced1,2011-02-01,John Doe,Rent,515.18,USD,515.18,0.0,
+ad67cc9e-a731-4c43-b59f-07aa742f7352,2011-02-02,John Doe,Utilities,194.34,USD,194.34,0.0,
+e165ac5f-02fd-426a-a269-471c495a2abc,2011-02-26,John Doe,Shopping,136.74,USD,136.74,0.0,Online purchase
+3f8fc973-7cb5-4eec-a84a-f429a7e1a058,2011-02-25,John Doe,Groceries,107.26,USD,107.26,0.0,Grocery store purchase
+33b8fc36-84fa-4068-9921-e787fa73b478,2011-02-17,John Doe,Shopping,150.62,USD,150.62,0.0,Clothing store
+697c8f9e-cee5-4df7-afaf-3adb01a384a2,2011-02-04,John Doe,Travel,151.95,USD,151.95,0.0,Taxi ride
+f2729b1e-df08-461b-ad12-5b2cd034bb13,2011-02-03,John Doe,Groceries,52.57,USD,52.57,0.0,Grocery store purchase
+deaff05c-4404-442a-8f3f-9c729b17149c,2011-02-20,John Doe,Groceries,144.19,USD,144.19,0.0,Supermarket shopping
+9a030e20-27ee-4477-958c-abd1658ed79e,2011-02-11,John Doe,Entertainment,105.54,USD,105.54,0.0,Concert tickets
+4e4d9424-958c-495a-b7ae-f0c3cfc03a70,2011-02-22,John Doe,Entertainment,136.96,USD,136.96,0.0,Streaming subscription
+53212749-d44a-4fca-933a-caae4bfa0cb6,2011-02-14,John Doe,Groceries,149.39,USD,149.39,0.0,Grocery store purchase
+033b2889-c5d3-4248-90f8-49a7c17d5795,2011-03-01,John Doe,Income,1557.52,USD,0.0,1557.52,
+a4dd01a6-2ce4-4a8a-bc0d-70bac6ebc131,2011-03-01,John Doe,Rent,500.35,USD,500.35,0.0,
+6ca5479e-e55c-4317-8551-0569e2b859a7,2011-03-02,John Doe,Utilities,185.06,USD,185.06,0.0,
+02d49d1e-3e62-4184-ab4c-ad7abc5ba78f,2011-03-16,John Doe,Entertainment,93.08,USD,93.08,0.0,Streaming subscription
+ff7c8c65-2584-4fb2-9d89-7b9b5c8eedaa,2011-03-13,John Doe,Groceries,181.18,USD,181.18,0.0,Supermarket shopping
+744d8b87-347e-46ae-a121-08e4f0d5b64d,2011-03-21,John Doe,Dining,149.23,USD,149.23,0.0,Takeaway order
+7b34151f-0829-4a38-a3d2-c9861d4bcf94,2011-03-03,John Doe,Travel,114.18,USD,114.18,0.0,Hotel booking
+966d5801-4cf5-4959-a2da-c46107cd6064,2011-03-27,John Doe,Travel,122.56,USD,122.56,0.0,Flight ticket
+049b3864-1e38-457e-be1d-65e070c50de4,2011-03-20,John Doe,Shopping,70.29,USD,70.29,0.0,Online purchase
+b8bd0b40-8eb1-4f08-b1b9-fd546658102d,2011-04-01,John Doe,Income,1913.74,USD,0.0,1913.74,
+a499dc2e-cc21-4a60-87f7-e6752ae6661a,2011-04-01,John Doe,Rent,695.76,USD,695.76,0.0,
+267a8669-1829-46f4-b663-58e4df5544cb,2011-04-02,John Doe,Utilities,268.26,USD,268.26,0.0,
+49a80ac1-bdf7-4ad9-896c-033608b66ce9,2011-04-17,John Doe,Travel,185.62,USD,185.62,0.0,Taxi ride
+c7037cbd-d002-4508-a80d-40bf552fadfd,2011-04-26,John Doe,Shopping,72.1,USD,72.1,0.0,Online purchase
+17f5bce7-eacd-4bdb-ab10-32d987dbb073,2011-04-08,John Doe,Travel,71.94,USD,71.94,0.0,Flight ticket
+4a47e88f-f6e0-45e7-b90f-f4a331160150,2011-04-04,John Doe,Travel,112.73,USD,112.73,0.0,Hotel booking
+2ab08f80-b97d-4ca6-911a-e6902e7781ea,2011-04-24,John Doe,Travel,170.28,USD,170.28,0.0,Hotel booking
+ac2c2ef9-7ed1-4356-ade0-3924f971dd1e,2011-04-07,John Doe,Travel,163.07,USD,163.07,0.0,Flight ticket
+2c56d508-3982-42da-84e9-0939e5db757b,2011-05-01,John Doe,Income,1607.74,USD,0.0,1607.74,
+c211c9a2-a509-4814-ade6-ad8a31a510d1,2011-05-01,John Doe,Rent,640.47,USD,640.47,0.0,
+06155d35-eaa8-4715-80dc-3a60abf5938e,2011-05-02,John Doe,Utilities,232.26,USD,232.26,0.0,
+9152097d-c936-46a7-acf9-859aed52e738,2011-05-23,John Doe,Shopping,166.33,USD,166.33,0.0,Electronics store
+303d7ba7-36a6-4623-85f8-1ce62837a3c6,2011-05-25,John Doe,Groceries,124.29,USD,124.29,0.0,Grocery store purchase
+2184b1b1-9470-4ac2-b7b0-402e653ae796,2011-05-09,John Doe,Shopping,70.49,USD,70.49,0.0,Electronics store
+1a8faf8b-afc5-40f8-b824-6eb07bce0fe4,2011-05-03,John Doe,Travel,145.66,USD,145.66,0.0,Flight ticket
+ebdbef49-68ba-4fe7-a59c-d83a091662d9,2011-05-15,John Doe,Travel,82.08,USD,82.08,0.0,Flight ticket
+5fd5a100-0f61-40ff-a868-da111e9b0515,2011-06-01,John Doe,Income,2068.62,USD,0.0,2068.62,
+279b1956-9407-43fb-8d64-23706acb7c36,2011-06-01,John Doe,Rent,667.36,USD,667.36,0.0,
+a447b0cf-a35b-4bab-bfab-c304c5bd293c,2011-06-02,John Doe,Utilities,180.69,USD,180.69,0.0,
+e6b45809-bf43-47fb-a2a0-68514a254f58,2011-06-11,John Doe,Groceries,165.69,USD,165.69,0.0,Supermarket shopping
+41b92cef-655c-4af9-bbc8-5d7811e636eb,2011-06-23,John Doe,Groceries,124.27,USD,124.27,0.0,Weekly groceries
+50da6c6d-9c60-42fd-8c03-50f3381eca7f,2011-06-07,John Doe,Travel,130.6,USD,130.6,0.0,Taxi ride
+7b7a3134-bfdb-4c1d-ae30-107eb048a6ee,2011-06-04,John Doe,Groceries,148.3,USD,148.3,0.0,Weekly groceries
+69bffbd8-e0e4-419e-a910-e472fd4228a2,2011-06-13,John Doe,Travel,113.6,USD,113.6,0.0,Flight ticket
+4b32f532-654b-48ff-bdc8-95371ac43c25,2011-06-14,John Doe,Groceries,180.28,USD,180.28,0.0,Supermarket shopping
+0d56b604-0f61-4e1d-84b1-166e4caab365,2011-06-07,John Doe,Groceries,169.77,USD,169.77,0.0,Grocery store purchase
+ceb2793d-cee7-43a1-a651-82ab447ca420,2011-07-01,John Doe,Income,2404.17,USD,0.0,2404.17,
+2bf46052-99c8-40bb-a8c7-e79fda7b082c,2011-07-01,John Doe,Rent,682.71,USD,682.71,0.0,
+64782c26-d7d3-428c-b344-e953b9794f4a,2011-07-02,John Doe,Utilities,227.55,USD,227.55,0.0,
+09bda543-c9dd-433a-81f5-fa2a17656f14,2011-07-08,John Doe,Groceries,199.64,USD,199.64,0.0,Weekly groceries
+29f4d129-6816-41be-b7e5-24860c04feba,2011-07-11,John Doe,Shopping,147.9,USD,147.9,0.0,Electronics store
+cc80ef5e-0c5d-4915-9a59-b5d2dc6ec485,2011-07-15,John Doe,Groceries,131.79,USD,131.79,0.0,Supermarket shopping
+91eddb4a-6d14-4fe2-adfa-0781b88b2204,2011-07-26,John Doe,Travel,84.28,USD,84.28,0.0,Taxi ride
+2784a946-ae9d-4916-8ff9-e9d342959228,2011-07-22,John Doe,Entertainment,129.76,USD,129.76,0.0,Streaming subscription
+b8abd395-c477-4e56-90a1-14963cd2cf12,2011-07-22,John Doe,Shopping,162.11,USD,162.11,0.0,Electronics store
+aa5bca2c-edfd-48f0-b824-a287b01e1cf2,2011-07-22,John Doe,Dining,64.27,USD,64.27,0.0,Cafe purchase
+855d2848-55b2-4a48-bc8b-fca390c81cb3,2011-07-26,John Doe,Shopping,129.39,USD,129.39,0.0,Online purchase
+00e0e4f4-379c-4c27-a430-4fc4fcce820e,2011-07-11,John Doe,Entertainment,63.65,USD,63.65,0.0,Movie tickets
+f69ef8cb-52e0-4ae1-8911-247614a3f78c,2011-07-19,John Doe,Dining,162.56,USD,162.56,0.0,Cafe purchase
+203c0dc3-f916-40b9-8dec-dd83b981f342,2011-08-01,John Doe,Income,1946.96,USD,0.0,1946.96,
+3137537f-5887-4d29-97c7-97eb276c928f,2011-08-01,John Doe,Rent,488.72,USD,488.72,0.0,
+dc06e678-567c-4f0b-af10-7fac184e8136,2011-08-02,John Doe,Utilities,263.96,USD,263.96,0.0,
+5acca2ba-9f57-4637-8b92-754e116068c2,2011-08-23,John Doe,Shopping,135.56,USD,135.56,0.0,Electronics store
+81524c23-0372-4198-bdd5-124acfbe2da5,2011-08-24,John Doe,Entertainment,80.78,USD,80.78,0.0,Movie tickets
+5141284b-93c2-4ac0-982b-e3d0c1069341,2011-08-10,John Doe,Entertainment,84.08,USD,84.08,0.0,Streaming subscription
+ec991d1e-1cea-483d-9f03-e0ed21ca5c27,2011-08-22,John Doe,Dining,159.48,USD,159.48,0.0,Takeaway order
+b88c2870-6626-482b-9df4-49e073043ed9,2011-08-13,John Doe,Shopping,74.03,USD,74.03,0.0,Electronics store
+87cbd2d8-07fc-453e-8b7e-161252097c65,2011-08-24,John Doe,Shopping,91.41,USD,91.41,0.0,Clothing store
+367ccec2-4b15-4199-bddb-3b14479a0dae,2011-08-09,John Doe,Entertainment,89.48,USD,89.48,0.0,Streaming subscription
+50d2dc54-1509-4852-92da-04d0bd70757f,2011-08-19,John Doe,Shopping,138.86,USD,138.86,0.0,Electronics store
+6208554b-bc35-4ea7-bddb-9c125e42e0f1,2011-08-25,John Doe,Dining,96.17,USD,96.17,0.0,Cafe purchase
+afb79dac-c3b9-4c98-833e-62d614724a38,2011-08-22,John Doe,Groceries,67.43,USD,67.43,0.0,Weekly groceries
+e60001b9-e613-4055-ba68-5fd418cad8e7,2011-09-01,John Doe,Income,1658.01,USD,0.0,1658.01,
+0302a402-52d1-4405-a49b-1a517ff83a5e,2011-09-01,John Doe,Rent,741.87,USD,741.87,0.0,
+9549f2fa-8a5b-4757-8eba-f428581bd669,2011-09-02,John Doe,Utilities,181.57,USD,181.57,0.0,
+31597714-00bc-40f0-b39e-2fc899e8272a,2011-09-11,John Doe,Groceries,122.18,USD,122.18,0.0,Supermarket shopping
+c7fc3c37-1de0-4ef6-b12e-e710ae60b8b2,2011-09-09,John Doe,Entertainment,120.17,USD,120.17,0.0,Movie tickets
+7949b444-5506-461a-b151-c1023b9ee03f,2011-09-18,John Doe,Shopping,191.84,USD,191.84,0.0,Electronics store
+b655b2f8-385d-4ae0-bc83-5c8741a6ef96,2011-09-05,John Doe,Travel,94.79,USD,94.79,0.0,Hotel booking
+4550ccf0-4278-4fae-bc25-0184675f733f,2011-09-26,John Doe,Groceries,54.86,USD,54.86,0.0,Weekly groceries
+d6b22cd9-3bd7-4eaf-a99a-ab6dd4721563,2011-10-01,John Doe,Income,2010.71,USD,0.0,2010.71,
+111eba5e-e18a-47d5-ae76-943a04a04af4,2011-10-01,John Doe,Rent,746.17,USD,746.17,0.0,
+510fa06a-1252-486c-a5fb-4cf8ea8aeda4,2011-10-02,John Doe,Utilities,196.68,USD,196.68,0.0,
+6a6df71e-e198-4f88-aa88-fa107795c93a,2011-10-22,John Doe,Entertainment,75.6,USD,75.6,0.0,Movie tickets
+9ab56b04-c66f-4c73-aa5f-a06b2191a323,2011-10-15,John Doe,Entertainment,129.51,USD,129.51,0.0,Streaming subscription
+2d181f1d-0122-4c7b-8c10-1af3adbc39f9,2011-10-25,John Doe,Shopping,181.93,USD,181.93,0.0,Clothing store
+ef18cecc-72a3-47cc-a2c9-f1671000575a,2011-10-12,John Doe,Entertainment,135.69,USD,135.69,0.0,Movie tickets
+4763dbde-8f2d-4f45-b406-1fb741bba51f,2011-10-20,John Doe,Dining,111.02,USD,111.02,0.0,Restaurant meal
+63959558-c091-4d45-b98f-570706009360,2011-10-27,John Doe,Groceries,175.53,USD,175.53,0.0,Weekly groceries
+43010514-f802-4799-a175-38d2a891180a,2011-10-26,John Doe,Groceries,75.79,USD,75.79,0.0,Grocery store purchase
+2ff54e8a-74a7-4bd0-a3f3-b9873c1e1347,2011-11-01,John Doe,Income,1864.13,USD,0.0,1864.13,
+35ca4837-615a-4a22-83ae-53b6d3dd8aa6,2011-11-01,John Doe,Rent,398.97,USD,398.97,0.0,
+e756f79a-df5e-45ea-9415-cf9ac96055f5,2011-11-02,John Doe,Utilities,111.46,USD,111.46,0.0,
+40a7b350-a538-415f-8aac-d8a7a9bac70e,2011-11-15,John Doe,Entertainment,121.64,USD,121.64,0.0,Concert tickets
+38c41775-7f9b-4db0-b8fc-db9935d9f9be,2011-11-23,John Doe,Shopping,108.3,USD,108.3,0.0,Electronics store
+64504199-68f9-479d-b270-730dc4c59ea6,2011-11-19,John Doe,Dining,123.2,USD,123.2,0.0,Restaurant meal
+40b35698-78ef-44d0-aee2-849ded0ed6e5,2011-11-05,John Doe,Dining,56.69,USD,56.69,0.0,Cafe purchase
+f7236e02-2277-4ac5-b6ef-05adf7ead3a6,2011-11-11,John Doe,Groceries,170.85,USD,170.85,0.0,Supermarket shopping
+b74697f6-1c11-4932-be14-fa1caf18a3a5,2011-11-25,John Doe,Dining,107.81,USD,107.81,0.0,Restaurant meal
+cbc60da6-82eb-4843-8458-d119265e9cac,2011-11-15,John Doe,Entertainment,70.33,USD,70.33,0.0,Movie tickets
+b2ebfbda-c1ce-4492-abfd-755ebf4d033e,2011-11-05,John Doe,Shopping,165.57,USD,165.57,0.0,Online purchase
+62cc3db8-d7ff-4cf0-8dce-05af351f3604,2011-11-23,John Doe,Shopping,125.9,USD,125.9,0.0,Online purchase
+76bf9bfb-7562-45e5-88dc-a056faac4830,2011-11-20,John Doe,Groceries,133.94,USD,133.94,0.0,Supermarket shopping
+1be2bce0-badd-45cb-b07d-65b1a10791f1,2011-12-01,John Doe,Income,1756.81,USD,0.0,1756.81,
+67fc83aa-11ae-460b-8a36-a73e14135fbb,2011-12-01,John Doe,Rent,765.55,USD,765.55,0.0,
+823ade17-9a8d-41f8-b942-6278e43a9bdf,2011-12-02,John Doe,Utilities,211.35,USD,211.35,0.0,
+1e77e30c-796a-4922-b5bf-366944c11e26,2011-12-14,John Doe,Entertainment,96.82,USD,96.82,0.0,Streaming subscription
+6eaae9c1-eda9-4daa-82e6-a9a0d2081e10,2011-12-04,John Doe,Travel,100.34,USD,100.34,0.0,Hotel booking
+fa185cd1-f3af-4e81-b4cb-1e7107629728,2011-12-16,John Doe,Dining,168.14,USD,168.14,0.0,Takeaway order
+fe2f69e9-d411-414c-995b-109ed17c3898,2011-12-09,John Doe,Groceries,73.31,USD,73.31,0.0,Grocery store purchase
+e54f351d-f2a2-4e02-82c8-4b923aee6069,2011-12-10,John Doe,Shopping,181.59,USD,181.59,0.0,Clothing store
+6b497b2c-1b8c-4d19-adb4-c1e21851e61b,2012-01-01,John Doe,Income,1180.73,USD,0.0,1180.73,
+4c97f28e-6ef6-405a-9f18-45cfa138897a,2012-01-01,John Doe,Rent,403.76,USD,403.76,0.0,
+4a83b82e-9e66-4835-bb0c-ee6bb5358da4,2012-01-02,John Doe,Utilities,108.62,USD,108.62,0.0,
+5900c4f5-4bb9-4a48-8c72-c32629fd77ec,2012-01-20,John Doe,Groceries,139.26,USD,139.26,0.0,Supermarket shopping
+cff8e445-c40f-4ce4-9d67-af6534706c07,2012-01-21,John Doe,Dining,161.17,USD,161.17,0.0,Cafe purchase
+fdd2b563-229c-4e59-8cdf-093b3dd51d04,2012-01-16,John Doe,Groceries,63.62,USD,63.62,0.0,Weekly groceries
+ac0d168a-a77b-48bd-bbe2-4f508cc053e2,2012-01-05,John Doe,Groceries,97.7,USD,97.7,0.0,Grocery store purchase
+8431f4bf-9084-49d2-97e0-749e8a6a0f68,2012-01-24,John Doe,Groceries,99.26,USD,99.26,0.0,Grocery store purchase
+7c2927a1-1cff-4dde-918d-810097841e67,2012-02-01,John Doe,Income,1348.23,USD,0.0,1348.23,
+e045d702-6a3b-469d-90f7-a0edcf2d51ce,2012-02-01,John Doe,Rent,350.82,USD,350.82,0.0,
+1962540f-60b6-46ad-b1a0-e112d0f2c2e1,2012-02-02,John Doe,Utilities,246.91,USD,246.91,0.0,
+6acb838d-d839-4d08-b1a0-5027835b216f,2012-02-18,John Doe,Travel,89.06,USD,89.06,0.0,Flight ticket
+019db471-0b3d-4fd6-83f4-541aa6550685,2012-02-20,John Doe,Entertainment,124.4,USD,124.4,0.0,Movie tickets
+682292a0-35e4-4248-abde-791f8f39e198,2012-02-15,John Doe,Travel,75.62,USD,75.62,0.0,Taxi ride
+02fd0c3a-e796-40b5-b805-64f90b3c230f,2012-02-13,John Doe,Dining,144.65,USD,144.65,0.0,Cafe purchase
+c8e63415-c9fb-4063-a4ce-fe9d25f50f1b,2012-02-18,John Doe,Groceries,194.2,USD,194.2,0.0,Weekly groceries
+1ffbb760-f1e9-42a3-8a64-76053f117639,2012-03-01,John Doe,Income,1540.58,USD,0.0,1540.58,
+86ac874b-5768-4229-a975-b2039f59474a,2012-03-01,John Doe,Rent,587.47,USD,587.47,0.0,
+16c50368-4bc7-49ed-96da-18543ad3f4ff,2012-03-02,John Doe,Utilities,158.94,USD,158.94,0.0,
+513574d9-f750-46b1-8281-02dedc00a0cc,2012-03-18,John Doe,Groceries,178.79,USD,178.79,0.0,Supermarket shopping
+c6f68da6-6f87-4af6-8542-4f66dd4b0b78,2012-03-05,John Doe,Entertainment,86.82,USD,86.82,0.0,Movie tickets
+31180020-c20c-46b6-a017-537cbbf8c405,2012-03-25,John Doe,Travel,79.07,USD,79.07,0.0,Hotel booking
+8e7cc11f-aa06-4886-a353-8e7b3bc694fc,2012-03-08,John Doe,Groceries,183.67,USD,183.67,0.0,Grocery store purchase
+9a75f908-eaf4-40ff-b436-1a71c35d530d,2012-03-03,John Doe,Entertainment,125.77,USD,125.77,0.0,Movie tickets
+8940a608-8c5b-458d-8847-e98ad42a7e4e,2012-04-01,John Doe,Income,2241.92,USD,0.0,2241.92,
+d2799e5b-dbbc-4d10-aa43-120b94edcf70,2012-04-01,John Doe,Rent,395.61,USD,395.61,0.0,
+8e876b87-79a6-4545-943d-693aa9719bf0,2012-04-02,John Doe,Utilities,159.0,USD,159.0,0.0,
+877af269-038c-47df-ae90-cfa61428309e,2012-04-12,John Doe,Shopping,197.98,USD,197.98,0.0,Clothing store
+757de786-4fb5-43fe-88b1-e2cef99efdd5,2012-04-12,John Doe,Groceries,167.4,USD,167.4,0.0,Supermarket shopping
+16cc083b-3383-4699-8da4-aaba26fa232d,2012-04-12,John Doe,Entertainment,139.07,USD,139.07,0.0,Streaming subscription
+e2b2b929-ae27-471f-99f2-0f44191a826c,2012-04-11,John Doe,Dining,150.0,USD,150.0,0.0,Takeaway order
+856e12fd-25f2-4099-a6c2-478b6a8dd7e9,2012-04-21,John Doe,Travel,92.06,USD,92.06,0.0,Hotel booking
+22f39c20-b024-4de7-9a73-8f16fe908b21,2012-04-20,John Doe,Dining,148.44,USD,148.44,0.0,Takeaway order
+23d7fe1c-9011-4ffb-a0e3-4908214f0441,2012-04-20,John Doe,Entertainment,179.07,USD,179.07,0.0,Concert tickets
+50ba4061-8fdc-4a37-b86e-534dedf3d012,2012-04-17,John Doe,Dining,196.65,USD,196.65,0.0,Takeaway order
+e61e8903-8a21-44a7-aee8-5c6014db3cfe,2012-04-05,John Doe,Dining,157.09,USD,157.09,0.0,Takeaway order
+54bf54d4-a7ba-451f-821c-eade882918f2,2012-04-14,John Doe,Shopping,55.74,USD,55.74,0.0,Electronics store
+a1f9a587-48d4-48ab-90ae-dc7515a87089,2012-05-01,John Doe,Income,2292.85,USD,0.0,2292.85,
+68002fe4-55b5-4128-ad3a-62ed20fc22c3,2012-05-01,John Doe,Rent,721.15,USD,721.15,0.0,
+3a098a00-4142-4d84-a8db-3c2711b52b09,2012-05-02,John Doe,Utilities,145.46,USD,145.46,0.0,
+dc467f08-a97f-4a31-b885-49a807e84314,2012-05-21,John Doe,Shopping,64.99,USD,64.99,0.0,Online purchase
+3ca94e7b-a989-4f7d-aa4d-be532b57096a,2012-05-19,John Doe,Entertainment,107.31,USD,107.31,0.0,Concert tickets
+449676d0-2d6e-4eaa-9bf9-93f3a04ac3ce,2012-05-16,John Doe,Entertainment,136.41,USD,136.41,0.0,Movie tickets
+38ab0c68-4744-48eb-8649-efb024062b44,2012-05-16,John Doe,Shopping,164.09,USD,164.09,0.0,Clothing store
+0dc71526-b0a5-45e1-9bb3-8fec7480d6d8,2012-05-06,John Doe,Dining,67.24,USD,67.24,0.0,Restaurant meal
+e38de5b2-d23b-4cb3-a81a-01f8f7a3bc88,2012-05-28,John Doe,Dining,140.37,USD,140.37,0.0,Restaurant meal
+3b624c02-6ba7-4343-b12a-21c8dd3573e6,2012-05-06,John Doe,Dining,154.92,USD,154.92,0.0,Restaurant meal
+f2996306-0610-468e-8c95-7a8aaf9aabae,2012-05-06,John Doe,Dining,187.37,USD,187.37,0.0,Restaurant meal
+db880d0e-52f8-4bcf-bf6d-1f04e9153903,2012-05-17,John Doe,Shopping,195.1,USD,195.1,0.0,Online purchase
+db895753-243b-45f1-a118-b1785744a1f4,2012-06-01,John Doe,Income,2243.69,USD,0.0,2243.69,
+17badf1a-f215-4591-9d16-d9896727a44e,2012-06-01,John Doe,Rent,778.04,USD,778.04,0.0,
+430eb0a2-c6b0-410e-b850-86531bcd150c,2012-06-02,John Doe,Utilities,239.83,USD,239.83,0.0,
+ee45a08a-0ccc-4bf2-b391-7913a1276896,2012-06-26,John Doe,Entertainment,125.3,USD,125.3,0.0,Movie tickets
+fa1db753-5456-4c2c-be49-1b0e941c4fc3,2012-06-15,John Doe,Entertainment,94.39,USD,94.39,0.0,Concert tickets
+38376e86-69a0-41bf-a3ab-0ea53073ad26,2012-06-14,John Doe,Groceries,154.36,USD,154.36,0.0,Supermarket shopping
+badc6da9-4f1d-49e1-a965-efc10802bad4,2012-06-20,John Doe,Groceries,193.26,USD,193.26,0.0,Supermarket shopping
+d1cc084e-bf0f-4385-b70b-36388b6f7f2e,2012-06-09,John Doe,Shopping,95.6,USD,95.6,0.0,Clothing store
+7b9b7fde-d158-489c-8e61-3dc4abc0dc00,2012-06-26,John Doe,Dining,160.35,USD,160.35,0.0,Restaurant meal
+ec7f33bb-2cb7-4c93-b558-acbf5c29abde,2012-06-20,John Doe,Travel,109.02,USD,109.02,0.0,Flight ticket
+0cb1a783-dd69-4889-87d0-29f18f619405,2012-06-04,John Doe,Shopping,89.57,USD,89.57,0.0,Electronics store
+fbae4d30-31c5-4eb0-8388-f360c889fe33,2012-07-01,John Doe,Income,1719.76,USD,0.0,1719.76,
+bdd11d47-0c1c-45d5-a1f2-f84bd2ed65f7,2012-07-01,John Doe,Rent,777.67,USD,777.67,0.0,
+a31050f5-3715-48d6-9ae5-fc758c6d7abc,2012-07-02,John Doe,Utilities,138.51,USD,138.51,0.0,
+58bcf8b8-f515-49a4-88c4-0b6316afd0f0,2012-07-07,John Doe,Travel,75.98,USD,75.98,0.0,Taxi ride
+97d0fb6a-4677-41cd-a167-6c7d6faa3800,2012-07-15,John Doe,Travel,159.23,USD,159.23,0.0,Hotel booking
+724557d2-803d-4b75-a921-e84f1ecf6ef8,2012-07-10,John Doe,Travel,146.84,USD,146.84,0.0,Taxi ride
+1402f5bf-d8b7-4305-81c5-4cd4b8c4b016,2012-07-18,John Doe,Groceries,97.92,USD,97.92,0.0,Supermarket shopping
+b11bdc24-9543-46db-83e4-adab810fb4cf,2012-07-11,John Doe,Travel,167.27,USD,167.27,0.0,Hotel booking
+bf2957c3-72e8-4323-b1f6-b879e9d52f61,2012-08-01,John Doe,Income,2217.59,USD,0.0,2217.59,
+312dadd7-f309-40d9-a6d4-e1519a6b7b33,2012-08-01,John Doe,Rent,693.76,USD,693.76,0.0,
+3e6703eb-84fe-4118-b464-be8edbdb886e,2012-08-02,John Doe,Utilities,156.79,USD,156.79,0.0,
+c3aa42e4-b48c-4a30-8f93-52c1a0d2db6e,2012-08-23,John Doe,Shopping,76.25,USD,76.25,0.0,Clothing store
+46c6622a-df13-4ad8-9b66-cf7cd5ac2ba2,2012-08-27,John Doe,Dining,121.29,USD,121.29,0.0,Cafe purchase
+14b5c7ed-bab9-483b-9284-6912b42d2c75,2012-08-16,John Doe,Entertainment,167.34,USD,167.34,0.0,Streaming subscription
+67c0968b-2040-4eaa-a5a1-4bb00cd5019b,2012-08-27,John Doe,Groceries,86.56,USD,86.56,0.0,Grocery store purchase
+2212e87e-57e1-4179-b26b-79d0b274fcdd,2012-08-17,John Doe,Shopping,181.64,USD,181.64,0.0,Online purchase
+82054dc7-d991-4d6d-b3ac-9832ab7113b9,2012-08-24,John Doe,Shopping,100.97,USD,100.97,0.0,Electronics store
+8fe3826f-ce57-4913-8f0e-6f91d317f576,2012-08-03,John Doe,Travel,130.3,USD,130.3,0.0,Flight ticket
+f5f4ca3b-51c4-40ff-98dc-5724bcad0a33,2012-08-06,John Doe,Groceries,125.71,USD,125.71,0.0,Supermarket shopping
+37e4ae24-1006-4f5c-b241-ae1a1575a7ee,2012-08-14,John Doe,Entertainment,90.82,USD,90.82,0.0,Concert tickets
+71e83788-64da-44f5-bd11-67a2aa42c54b,2012-08-27,John Doe,Travel,84.56,USD,84.56,0.0,Hotel booking
+7737d065-e1b7-46a3-9ca4-98543a45e8a8,2012-09-01,John Doe,Income,2098.88,USD,0.0,2098.88,
+81f9293b-6f9f-4033-b7d4-3cbef6e12d77,2012-09-01,John Doe,Rent,443.34,USD,443.34,0.0,
+a3933291-0be4-46f9-9b9e-71356d23a08a,2012-09-02,John Doe,Utilities,250.44,USD,250.44,0.0,
+7c99e15d-659e-464b-a270-ae3c50f4c403,2012-09-27,John Doe,Travel,148.84,USD,148.84,0.0,Taxi ride
+20495cbd-3614-4c15-857a-f91a423d9128,2012-09-12,John Doe,Dining,64.28,USD,64.28,0.0,Cafe purchase
+31be2572-46f0-4190-b315-f047c751753e,2012-09-15,John Doe,Shopping,137.33,USD,137.33,0.0,Clothing store
+3ed0b587-c562-4ae1-b28d-1c49539c44a6,2012-09-15,John Doe,Groceries,153.99,USD,153.99,0.0,Weekly groceries
+055a58d0-de6c-4926-a5db-b58077aad403,2012-09-27,John Doe,Entertainment,63.67,USD,63.67,0.0,Movie tickets
+fa748621-dc30-48a6-9997-5b54ab3b2a6f,2012-09-16,John Doe,Groceries,72.71,USD,72.71,0.0,Weekly groceries
+b0524ae3-50c8-4c33-a6ba-35f384fbbb2f,2012-09-04,John Doe,Shopping,180.42,USD,180.42,0.0,Online purchase
+0a8f5dfb-46ca-468e-a805-f39287321c5f,2012-09-04,John Doe,Shopping,137.16,USD,137.16,0.0,Online purchase
+c6172bbe-ac9f-4734-ab6a-5a987fdf1233,2012-09-11,John Doe,Dining,163.64,USD,163.64,0.0,Takeaway order
+8ea3ccca-6110-4a6a-8340-c6d4eafee2a7,2012-09-17,John Doe,Dining,92.25,USD,92.25,0.0,Cafe purchase
+80843bcd-68e1-41d9-8350-1e9b595d22ee,2012-10-01,John Doe,Income,1666.59,USD,0.0,1666.59,
+4147237a-d0c5-497f-a8cf-9a2297086857,2012-10-01,John Doe,Rent,596.07,USD,596.07,0.0,
+20f9100a-fca9-4d5e-9d26-bf1ce341532a,2012-10-02,John Doe,Utilities,138.05,USD,138.05,0.0,
+5e14d43c-c609-4f0a-88b4-d9d0ca976693,2012-10-05,John Doe,Dining,163.99,USD,163.99,0.0,Restaurant meal
+46454697-742a-45c8-adeb-f37d9b058b1e,2012-10-19,John Doe,Dining,187.5,USD,187.5,0.0,Restaurant meal
+2dac2c14-4a8b-4301-9600-0a5d544bf889,2012-10-24,John Doe,Entertainment,170.55,USD,170.55,0.0,Movie tickets
+35ceda8b-324a-420d-af6c-afaf610089a5,2012-10-12,John Doe,Travel,60.43,USD,60.43,0.0,Hotel booking
+8ee4444e-00a9-427b-8540-db43ad6e1bdb,2012-10-07,John Doe,Travel,75.48,USD,75.48,0.0,Hotel booking
+217249ec-b2f4-428a-9c62-ba8c6fb5ce3e,2012-10-15,John Doe,Dining,63.71,USD,63.71,0.0,Takeaway order
+f1d98b61-7c9c-464b-a27e-4710b1e69e62,2012-10-04,John Doe,Groceries,59.3,USD,59.3,0.0,Grocery store purchase
+81290bd6-4f31-44d2-9937-50cca2773f96,2012-11-01,John Doe,Income,2174.73,USD,0.0,2174.73,
+a836753c-0f5a-4e6a-a7a6-1e557cf53f26,2012-11-01,John Doe,Rent,500.1,USD,500.1,0.0,
+0f6679da-cfc9-4fbe-9f4a-504ffc3efd65,2012-11-02,John Doe,Utilities,212.52,USD,212.52,0.0,
+4b47cbc2-22e4-4809-8c5e-5a728ba05a38,2012-11-16,John Doe,Entertainment,71.79,USD,71.79,0.0,Movie tickets
+280c5b5c-7cf7-41ee-9907-c2084972940d,2012-11-04,John Doe,Groceries,61.51,USD,61.51,0.0,Grocery store purchase
+0a747733-e02c-4c94-9a83-2d7902df0e64,2012-11-08,John Doe,Dining,93.03,USD,93.03,0.0,Cafe purchase
+c7f585cb-435d-461f-8757-6be6d2f667be,2012-11-08,John Doe,Entertainment,80.58,USD,80.58,0.0,Movie tickets
+9aeae694-17ba-47c5-9bdc-2038ba6e2ada,2012-11-25,John Doe,Shopping,176.56,USD,176.56,0.0,Clothing store
+9abfb037-6856-4d57-ad6c-c614d2e40f4e,2012-11-15,John Doe,Entertainment,194.38,USD,194.38,0.0,Streaming subscription
+4aa534c1-e2d7-4066-ac90-53cc85b14d6e,2012-11-15,John Doe,Dining,142.55,USD,142.55,0.0,Cafe purchase
+93a89bce-d848-4b1a-866d-a2908352fa72,2012-11-15,John Doe,Shopping,165.23,USD,165.23,0.0,Electronics store
+26c3d0ff-09de-493e-a47a-9bbcef8bcff0,2012-11-17,John Doe,Groceries,99.11,USD,99.11,0.0,Weekly groceries
+0061c765-224d-4215-9b5d-9ff6a054c015,2012-11-04,John Doe,Dining,179.67,USD,179.67,0.0,Takeaway order
+cf11cb38-9631-4dca-b111-82e57741f942,2012-12-01,John Doe,Income,2334.23,USD,0.0,2334.23,
+071e54de-9617-401e-9dc7-e0f2cbf5fbf8,2012-12-01,John Doe,Rent,586.78,USD,586.78,0.0,
+dcc86388-1abc-4d4a-b017-a6ff25e604bf,2012-12-02,John Doe,Utilities,187.99,USD,187.99,0.0,
+7765ea6f-614a-4be4-ad2e-3a05cf45a79d,2012-12-08,John Doe,Travel,88.51,USD,88.51,0.0,Hotel booking
+86860b86-618b-4551-8873-ea428c16464c,2012-12-25,John Doe,Dining,162.9,USD,162.9,0.0,Cafe purchase
+c15f5906-d386-4f29-a8c5-296ff4fe4413,2012-12-16,John Doe,Dining,101.36,USD,101.36,0.0,Restaurant meal
+199dcad6-0c8c-4023-bf63-b8027b75b26b,2012-12-04,John Doe,Dining,173.89,USD,173.89,0.0,Restaurant meal
+5b73a0e7-1c2f-45f2-8b71-eacf544ad30f,2012-12-28,John Doe,Groceries,196.21,USD,196.21,0.0,Grocery store purchase
+761410c2-06b0-422b-83d5-27d5c57a6eb2,2012-12-12,John Doe,Entertainment,189.77,USD,189.77,0.0,Movie tickets
+9a67b202-721c-4657-94ac-ae621d24f9be,2012-12-15,John Doe,Travel,86.06,USD,86.06,0.0,Hotel booking
+134d0826-e6cf-42dc-a3e6-97eb7678454a,2012-12-05,John Doe,Travel,187.12,USD,187.12,0.0,Taxi ride
+241fb3ad-0c87-46ad-9fbe-8fc20e04db34,2012-12-19,John Doe,Shopping,161.44,USD,161.44,0.0,Online purchase
+790dc4e8-8159-40ea-a94a-45837d0c2a08,2013-01-01,John Doe,Income,1066.45,USD,0.0,1066.45,
+7d8160e3-73f2-4598-bbf6-12b19174fd9c,2013-01-01,John Doe,Rent,355.37,USD,355.37,0.0,
+0c8aa0d3-6934-4f33-9635-a2cc8fd2f886,2013-01-02,John Doe,Utilities,162.17,USD,162.17,0.0,
+8af6bfe1-c458-456f-951c-3e01e30aa41a,2013-01-18,John Doe,Entertainment,93.12,USD,93.12,0.0,Concert tickets
+4e1e42a3-bc57-4c84-88db-1fcfa7679dfb,2013-01-17,John Doe,Entertainment,75.45,USD,75.45,0.0,Concert tickets
+c3493835-acc9-4006-a65f-76d46342384c,2013-01-21,John Doe,Shopping,94.49,USD,94.49,0.0,Electronics store
+d43aa99c-313a-4af2-a054-1d7f3376a0c2,2013-01-24,John Doe,Shopping,50.64,USD,50.64,0.0,Electronics store
+0b5442d1-8388-40dd-9089-360cf78436cc,2013-01-25,John Doe,Shopping,87.42,USD,87.42,0.0,Electronics store
+7625f364-f537-4511-9fe0-ae658ed35e94,2013-01-11,John Doe,Travel,50.84,USD,50.84,0.0,Hotel booking
+2b622eea-bbb7-4fca-b09d-d42dfb73fecc,2013-02-01,John Doe,Income,2304.87,USD,0.0,2304.87,
+61063188-6798-4d01-90bf-2b503ae334a0,2013-02-01,John Doe,Rent,713.54,USD,713.54,0.0,
+8eb0ecc1-4388-4791-96fa-cfaff39010be,2013-02-02,John Doe,Utilities,253.2,USD,253.2,0.0,
+7d7ffcd6-22fa-4dd6-8c33-8195382d6330,2013-02-18,John Doe,Shopping,122.4,USD,122.4,0.0,Electronics store
+19a73e72-ceaf-4b28-9f0c-a63642ca497d,2013-02-18,John Doe,Travel,78.68,USD,78.68,0.0,Hotel booking
+b4475b0d-0871-4a9b-af38-84308403c30e,2013-02-28,John Doe,Shopping,190.41,USD,190.41,0.0,Clothing store
+e92f7c94-957b-404f-9a81-f525b1c0655d,2013-02-06,John Doe,Shopping,93.48,USD,93.48,0.0,Electronics store
+516ef99b-4800-4d7f-83bc-592ba4174a63,2013-02-08,John Doe,Groceries,177.61,USD,177.61,0.0,Supermarket shopping
+b3d18968-b542-47a9-b4ab-1a8e97c54eae,2013-02-04,John Doe,Travel,147.56,USD,147.56,0.0,Hotel booking
+6b20ec32-86a0-4175-b6e6-aca611e45954,2013-02-26,John Doe,Shopping,51.25,USD,51.25,0.0,Clothing store
+89be5a7d-b030-4c2f-a23d-c88f8e005e6e,2013-02-16,John Doe,Travel,72.12,USD,72.12,0.0,Taxi ride
+086f9f2b-5149-434a-afe0-d6db1bb578b6,2013-02-20,John Doe,Entertainment,195.09,USD,195.09,0.0,Movie tickets
+4ee1baaf-af22-47d2-956a-d6666074c3fa,2013-03-01,John Doe,Income,2311.18,USD,0.0,2311.18,
+27727580-190f-48aa-9439-d135d027a23e,2013-03-01,John Doe,Rent,533.88,USD,533.88,0.0,
+6a6c0619-9f6d-404c-92a6-7fcec69d5c33,2013-03-02,John Doe,Utilities,143.67,USD,143.67,0.0,
+a84a6987-b32f-455d-9b8e-e522bf936ed0,2013-03-05,John Doe,Travel,93.0,USD,93.0,0.0,Hotel booking
+e80b417d-bed3-4fbc-b531-f1e089a162f1,2013-03-19,John Doe,Entertainment,179.89,USD,179.89,0.0,Concert tickets
+fe5e62d4-ef21-4b69-ba2c-b2d5e395a572,2013-03-07,John Doe,Shopping,171.66,USD,171.66,0.0,Electronics store
+9fb1ab93-3cfb-414d-a6e2-d8a5c1c217b3,2013-03-11,John Doe,Entertainment,181.37,USD,181.37,0.0,Streaming subscription
+e5f4c1c9-b955-41b8-a9f2-f0d0277f61a6,2013-03-15,John Doe,Groceries,157.8,USD,157.8,0.0,Weekly groceries
+81350f97-737e-4fef-94be-a4e1a6594e98,2013-03-20,John Doe,Travel,113.16,USD,113.16,0.0,Flight ticket
+c49ad770-cbe7-4753-8873-49f8a5301d0c,2013-03-06,John Doe,Dining,172.74,USD,172.74,0.0,Restaurant meal
+58a397e9-19ee-4338-8edf-08a1f1628ac9,2013-03-27,John Doe,Entertainment,90.08,USD,90.08,0.0,Streaming subscription
+2af9264c-5705-4baf-8d55-7302bcb48d64,2013-03-22,John Doe,Entertainment,70.65,USD,70.65,0.0,Concert tickets
+a0625542-b98d-4a9f-b007-89cc2bff4d97,2013-03-10,John Doe,Shopping,193.17,USD,193.17,0.0,Online purchase
+b2dd51f9-f82a-4699-9b33-70b5d15be1cc,2013-04-01,John Doe,Income,1709.94,USD,0.0,1709.94,
+8b7ae184-0d86-470d-9274-b550ad48e3f9,2013-04-01,John Doe,Rent,584.81,USD,584.81,0.0,
+01a4b5dd-08df-4568-8034-ec17f4e8271b,2013-04-02,John Doe,Utilities,258.76,USD,258.76,0.0,
+4a68584c-0e00-4ac5-94dd-d6e8eeb2c701,2013-04-13,John Doe,Groceries,158.21,USD,158.21,0.0,Weekly groceries
+934af31b-fcf8-4f1e-a2a5-7f2b45c474a5,2013-04-23,John Doe,Dining,126.87,USD,126.87,0.0,Restaurant meal
+cd0dfc1f-d541-4af5-a50a-01a5d3c8dcc7,2013-04-04,John Doe,Dining,91.32,USD,91.32,0.0,Restaurant meal
+8d80facb-3c34-45c1-bc2d-86d8ec2b9fb1,2013-04-19,John Doe,Dining,85.31,USD,85.31,0.0,Restaurant meal
+307e9943-cdf0-4216-8305-a5f393b4dd79,2013-04-24,John Doe,Entertainment,102.36,USD,102.36,0.0,Streaming subscription
+de32bfdd-dfcd-4788-ad00-d20662cb89ee,2013-04-20,John Doe,Groceries,146.85,USD,146.85,0.0,Weekly groceries
+3cdbe10c-3144-4e48-a619-ae09f4be75b1,2013-05-01,John Doe,Income,1741.88,USD,0.0,1741.88,
+076b0e7d-e8b8-436a-9122-74be748075ae,2013-05-01,John Doe,Rent,526.37,USD,526.37,0.0,
+247b2fb4-7af0-4745-8765-5e498f3fe676,2013-05-02,John Doe,Utilities,262.11,USD,262.11,0.0,
+11819f33-1e36-4297-b02b-102a51c27f4c,2013-05-14,John Doe,Shopping,198.96,USD,198.96,0.0,Online purchase
+40efedca-98da-4d08-a425-f2eebb61beb9,2013-05-20,John Doe,Dining,159.2,USD,159.2,0.0,Takeaway order
+fcd1e372-d835-4b41-a7fe-895aaca3d39a,2013-05-05,John Doe,Dining,128.9,USD,128.9,0.0,Takeaway order
+253cb50e-1ab0-4dcb-95fe-e5c6c684de21,2013-05-08,John Doe,Shopping,69.6,USD,69.6,0.0,Clothing store
+f85da656-3c72-4cc7-b6b6-83c4545340f4,2013-05-26,John Doe,Travel,53.11,USD,53.11,0.0,Flight ticket
+e7c9ef43-ddbd-4611-a26e-50b7a27c900b,2013-05-13,John Doe,Groceries,185.28,USD,185.28,0.0,Grocery store purchase
+1895ace3-5499-4589-9de6-26b45e747b9b,2013-06-01,John Doe,Income,1822.67,USD,0.0,1822.67,
+d7926190-5913-43d9-ab5f-b08ff5c4a90b,2013-06-01,John Doe,Rent,568.48,USD,568.48,0.0,
+57ec953f-9398-412f-85ef-d535db9ccf2f,2013-06-02,John Doe,Utilities,144.36,USD,144.36,0.0,
+509fdd1b-7ee5-4a60-bef6-2d525769b770,2013-06-20,John Doe,Entertainment,195.87,USD,195.87,0.0,Concert tickets
+7e2cb18c-f2dc-4590-85c0-4d80b3bd69a2,2013-06-21,John Doe,Dining,95.39,USD,95.39,0.0,Cafe purchase
+61d7a2d8-4ac1-4bce-8fc5-f87c456ef766,2013-06-03,John Doe,Groceries,129.57,USD,129.57,0.0,Weekly groceries
+6e9b9bd6-10cf-4be3-8680-2576daced46b,2013-06-19,John Doe,Groceries,86.79,USD,86.79,0.0,Weekly groceries
+e36b268b-586e-4aa4-b5c8-0432eb49e49f,2013-06-12,John Doe,Dining,180.32,USD,180.32,0.0,Restaurant meal
+f76525cc-b112-4765-8c80-722fb96614ce,2013-06-08,John Doe,Shopping,119.55,USD,119.55,0.0,Clothing store
+770204f1-0115-4fcf-b904-9479d03b5adc,2013-06-07,John Doe,Dining,61.71,USD,61.71,0.0,Takeaway order
+235c05b4-9340-403c-9437-81a7ac47233f,2013-06-18,John Doe,Entertainment,74.93,USD,74.93,0.0,Movie tickets
+0cfdcacc-a6c7-4586-aee9-87f5d6738666,2013-07-01,John Doe,Income,1413.07,USD,0.0,1413.07,
+e705b9d6-6a47-49f0-a4c6-83ca2b7cb9fc,2013-07-01,John Doe,Rent,369.02,USD,369.02,0.0,
+a94204e0-c88b-4a74-ac63-d56fda101641,2013-07-02,John Doe,Utilities,234.71,USD,234.71,0.0,
+64763bf2-88ce-4f10-bcd0-992b01b3e8f5,2013-07-23,John Doe,Shopping,96.17,USD,96.17,0.0,Electronics store
+f8410b1c-763c-4143-9f51-77cd4ac5e64a,2013-07-15,John Doe,Shopping,54.48,USD,54.48,0.0,Electronics store
+a218901a-127f-4a53-949e-1052e0c42040,2013-07-15,John Doe,Travel,193.46,USD,193.46,0.0,Hotel booking
+efc79715-fe81-4293-a97e-14c616f614e2,2013-07-20,John Doe,Entertainment,137.44,USD,137.44,0.0,Movie tickets
+d245cf63-8f32-4a76-867b-7900955a5b32,2013-07-25,John Doe,Groceries,108.23,USD,108.23,0.0,Supermarket shopping
+a0b9f9b3-6f79-4329-a511-65273dd4e142,2013-07-06,John Doe,Groceries,91.1,USD,91.1,0.0,Supermarket shopping
+e0d93056-6f75-46b5-b267-769b4abff686,2013-08-01,John Doe,Income,1641.24,USD,0.0,1641.24,
+cba80991-173b-4de3-9e19-b4ac46db3633,2013-08-01,John Doe,Rent,773.97,USD,773.97,0.0,
+8c2fae05-adbf-4923-9d02-a6bca9053dbb,2013-08-02,John Doe,Utilities,231.69,USD,231.69,0.0,
+26a41676-34d7-4f39-a855-0c79d1a2cd91,2013-08-14,John Doe,Entertainment,143.55,USD,143.55,0.0,Movie tickets
+e8720e0d-734c-4e7d-ad92-1ec1c7025d26,2013-08-27,John Doe,Shopping,54.14,USD,54.14,0.0,Electronics store
+6467d87f-ca3d-4fc5-bcfb-dce5a6e8baff,2013-08-10,John Doe,Shopping,71.39,USD,71.39,0.0,Electronics store
+8e49000a-b5c2-447b-a410-a5bbe15978f6,2013-08-15,John Doe,Shopping,100.85,USD,100.85,0.0,Clothing store
+0eb86a58-1bb9-46b6-875b-d31fe78c0ae3,2013-08-14,John Doe,Shopping,116.45,USD,116.45,0.0,Online purchase
+48f95564-5c1f-431f-b02b-fbe910cb4aff,2013-09-01,John Doe,Income,1343.6,USD,0.0,1343.6,
+9c3f0efc-38a1-4d38-8c2f-27ff7715b9aa,2013-09-01,John Doe,Rent,548.51,USD,548.51,0.0,
+da955888-2faf-41d2-b399-0534db8f5c83,2013-09-02,John Doe,Utilities,147.33,USD,147.33,0.0,
+822e4030-7530-4618-82da-dafd915f5974,2013-09-04,John Doe,Dining,164.17,USD,164.17,0.0,Takeaway order
+1e7c848c-d9e8-4699-b082-e1fffddd6444,2013-09-18,John Doe,Dining,90.44,USD,90.44,0.0,Restaurant meal
+ba7b1277-69ef-4ad4-b95c-1aac0ec91ce3,2013-09-16,John Doe,Entertainment,118.52,USD,118.52,0.0,Concert tickets
+13ab43f8-d824-4244-b68c-25ba74d26cf1,2013-09-18,John Doe,Shopping,102.26,USD,102.26,0.0,Clothing store
+0e9299da-4762-4b16-b382-5fbcc6078e33,2013-09-20,John Doe,Groceries,50.22,USD,50.22,0.0,Weekly groceries
+b093ec7d-0f10-4aa3-b15b-02cf2a90eb8d,2013-10-01,John Doe,Income,1801.78,USD,0.0,1801.78,
+24db057a-a47f-45b5-916c-e935a1bb4116,2013-10-01,John Doe,Rent,408.86,USD,408.86,0.0,
+98c641ea-3efc-4527-942f-dbc74223c56c,2013-10-02,John Doe,Utilities,261.17,USD,261.17,0.0,
+3f72d65b-2bd9-4c67-b312-a9bfb0dfa150,2013-10-25,John Doe,Dining,117.15,USD,117.15,0.0,Restaurant meal
+0666a822-e085-4b53-8e79-43868e1aafc1,2013-10-15,John Doe,Shopping,195.48,USD,195.48,0.0,Clothing store
+c43bf3ac-4070-4037-983c-a3c496e546b1,2013-10-03,John Doe,Entertainment,68.04,USD,68.04,0.0,Movie tickets
+b0a68bb5-c015-4a62-9ffe-3af6c941dba6,2013-10-25,John Doe,Dining,82.36,USD,82.36,0.0,Cafe purchase
+2c4705b0-c869-48fe-87b5-b5a417bea665,2013-10-09,John Doe,Travel,115.9,USD,115.9,0.0,Flight ticket
+b5cfa7cd-9311-4b1f-a49b-944e9efcb763,2013-10-13,John Doe,Entertainment,56.21,USD,56.21,0.0,Concert tickets
+d8be37df-0a7d-418d-b182-f77f79cd5ee2,2013-10-24,John Doe,Shopping,104.07,USD,104.07,0.0,Electronics store
+6fa840db-8c7a-4ec5-8875-31774ad2a31d,2013-10-05,John Doe,Entertainment,124.77,USD,124.77,0.0,Concert tickets
+210000e5-7f32-4fd9-a47c-2fa37420c1dc,2013-10-18,John Doe,Travel,103.97,USD,103.97,0.0,Flight ticket
+8f0c6add-4dc4-477f-bf76-9d0991e32c00,2013-11-01,John Doe,Income,1392.4,USD,0.0,1392.4,
+e7aa513a-b262-4d0b-a9d4-2cec3a411e43,2013-11-01,John Doe,Rent,311.61,USD,311.61,0.0,
+8bfe7978-ca21-4d96-af97-4555e7177139,2013-11-02,John Doe,Utilities,134.12,USD,134.12,0.0,
+b33610b5-1a47-4fa8-86d4-916b15f14f70,2013-11-20,John Doe,Entertainment,78.26,USD,78.26,0.0,Movie tickets
+1ef12982-1344-4962-8fb5-f1592feb1ffd,2013-11-09,John Doe,Shopping,162.62,USD,162.62,0.0,Electronics store
+7bedf9ab-1bc5-45dd-b8ae-30a008d4ced9,2013-11-24,John Doe,Travel,63.39,USD,63.39,0.0,Taxi ride
+b3ac5a26-a254-4533-b10c-47cacd8e221f,2013-11-16,John Doe,Shopping,195.45,USD,195.45,0.0,Clothing store
+1904a416-5d48-4323-a9dd-cf8de3553b4f,2013-11-10,John Doe,Groceries,141.44,USD,141.44,0.0,Weekly groceries
+3a380afe-6057-42e0-88ef-50c9f5a3d30f,2013-11-24,John Doe,Travel,83.12,USD,83.12,0.0,Flight ticket
+308f3538-7dab-41fb-ac0c-c1f04fabfc00,2013-11-18,John Doe,Dining,95.81,USD,95.81,0.0,Restaurant meal
+ce34a58b-3f14-4106-816f-5ddd45a3b96d,2013-12-01,John Doe,Income,1850.57,USD,0.0,1850.57,
+03362b74-bdce-4c4a-a853-ec02f4cfaa2d,2013-12-01,John Doe,Rent,307.18,USD,307.18,0.0,
+cb7ded67-e95d-45b5-a264-04c1d7f85233,2013-12-02,John Doe,Utilities,102.16,USD,102.16,0.0,
+4b3739d9-0f6c-4c12-aa02-a7f81e0885b3,2013-12-14,John Doe,Travel,136.94,USD,136.94,0.0,Flight ticket
+771616e0-1b5e-48ea-82d6-8857d4648328,2013-12-22,John Doe,Groceries,183.11,USD,183.11,0.0,Weekly groceries
+ee7c6dc2-e342-40aa-b8fe-7bf101250a2d,2013-12-13,John Doe,Groceries,182.4,USD,182.4,0.0,Grocery store purchase
+963a2318-2fd9-41b0-941c-26ed0b8dd97b,2013-12-25,John Doe,Dining,147.6,USD,147.6,0.0,Restaurant meal
+90d3c5a6-8526-42ae-a6c3-2b98dd425d31,2013-12-16,John Doe,Entertainment,70.48,USD,70.48,0.0,Streaming subscription
+43843a64-3744-4a05-bf7a-1b8377cfda8b,2013-12-05,John Doe,Travel,192.39,USD,192.39,0.0,Flight ticket
+68bd1e25-0389-4c5c-85f9-675b3bc547b3,2013-12-10,John Doe,Shopping,182.43,USD,182.43,0.0,Clothing store
+7a7272e3-52a1-4416-b768-35e22ae89c3c,2013-12-20,John Doe,Dining,177.65,USD,177.65,0.0,Cafe purchase
+f3186869-c939-477e-a4f1-51ee34ddc81a,2014-01-01,John Doe,Income,1455.95,USD,0.0,1455.95,
+3aeafa17-3131-43a9-9da2-a819efb819d1,2014-01-01,John Doe,Rent,586.46,USD,586.46,0.0,
+385b5d76-a10d-4bb6-b49f-6c3eb6f4f2c8,2014-01-02,John Doe,Utilities,171.96,USD,171.96,0.0,
+a4966732-335f-4447-870a-4a4a868b944c,2014-01-10,John Doe,Travel,111.49,USD,111.49,0.0,Flight ticket
+0005a353-dcfc-40e9-b590-df491717303a,2014-01-21,John Doe,Travel,178.26,USD,178.26,0.0,Taxi ride
+5dd378a2-25d3-4ea6-ab2c-7fe9c8ce934d,2014-01-14,John Doe,Dining,88.3,USD,88.3,0.0,Restaurant meal
+e2dbeec1-b426-4107-80c8-e3073877fcf0,2014-01-21,John Doe,Shopping,65.82,USD,65.82,0.0,Electronics store
+ccf53eee-e829-40e5-95ae-9dbd9048c4f1,2014-01-15,John Doe,Shopping,62.84,USD,62.84,0.0,Electronics store
+c6d46bfd-ece8-4e11-975d-4e7259d06cb8,2014-01-28,John Doe,Shopping,58.46,USD,58.46,0.0,Electronics store
+9328ee63-a57c-42d0-86b5-2a5010b8ca11,2014-02-01,John Doe,Income,1689.64,USD,0.0,1689.64,
+f5847055-3556-44ad-bec5-d04db066464b,2014-02-01,John Doe,Rent,569.01,USD,569.01,0.0,
+25ed1c28-4439-4d09-af52-174fd5ac9890,2014-02-02,John Doe,Utilities,110.55,USD,110.55,0.0,
+661e82aa-1f94-4b7c-9ab3-6324271d97a5,2014-02-25,John Doe,Entertainment,113.55,USD,113.55,0.0,Streaming subscription
+9f54101d-dbbd-4a89-925b-b58444c07a50,2014-02-15,John Doe,Groceries,146.18,USD,146.18,0.0,Supermarket shopping
+6e05bb28-9e9d-4c19-9f4f-057120a48bbb,2014-02-04,John Doe,Groceries,50.77,USD,50.77,0.0,Weekly groceries
+0004ad69-b3e3-4659-a1f2-77abca23e4a4,2014-02-15,John Doe,Groceries,108.62,USD,108.62,0.0,Weekly groceries
+f1b2aa63-a6d1-4306-82e3-16b4259d07f5,2014-02-13,John Doe,Groceries,190.36,USD,190.36,0.0,Supermarket shopping
+94920f7f-aa2c-4fa6-8c13-7c889737fed7,2014-02-20,John Doe,Groceries,194.51,USD,194.51,0.0,Weekly groceries
+b04232fb-fbc9-4ada-90d3-7865b8d3f5c8,2014-02-28,John Doe,Travel,52.49,USD,52.49,0.0,Taxi ride
+28a62d07-bb16-4707-ab40-e0378bc09860,2014-03-01,John Doe,Income,2445.06,USD,0.0,2445.06,
+e3f0d924-021c-404f-85ce-3f14e3c46c6b,2014-03-01,John Doe,Rent,680.34,USD,680.34,0.0,
+2cc20ef5-fd6e-4b9c-a02d-680943b14dc6,2014-03-02,John Doe,Utilities,213.55,USD,213.55,0.0,
+61e44c8e-3ebe-4643-b7c6-c036fb8f5763,2014-03-15,John Doe,Shopping,164.98,USD,164.98,0.0,Online purchase
+ef8d25a5-f231-463c-9787-8920f0a9f476,2014-03-28,John Doe,Travel,62.12,USD,62.12,0.0,Hotel booking
+e124f31b-436d-4c04-a1d8-9a639b87bf4a,2014-03-17,John Doe,Entertainment,151.81,USD,151.81,0.0,Streaming subscription
+053fdac4-9bd3-4c65-b5a5-c0385cb923bd,2014-03-06,John Doe,Groceries,167.45,USD,167.45,0.0,Supermarket shopping
+78cb04f8-5c39-468e-aca4-adea26799e75,2014-03-13,John Doe,Dining,154.63,USD,154.63,0.0,Takeaway order
+9ff6de2c-f6e2-48ec-a6d2-ed7c53dc5823,2014-03-05,John Doe,Entertainment,162.21,USD,162.21,0.0,Concert tickets
+9d9f6afd-38d0-422e-b2d4-c223b8c1574e,2014-03-20,John Doe,Dining,196.69,USD,196.69,0.0,Takeaway order
+66c9b60a-b47c-40ec-a31e-d16c805922b0,2014-03-05,John Doe,Shopping,147.89,USD,147.89,0.0,Clothing store
+713f3c7a-06eb-41fb-98ae-317045b731e4,2014-03-12,John Doe,Travel,121.11,USD,121.11,0.0,Taxi ride
+f00f5669-7236-4f00-b207-09a8cec7eb2d,2014-04-01,John Doe,Income,1516.17,USD,0.0,1516.17,
+e741b562-c6af-40d1-a411-ffb781f7b8f1,2014-04-01,John Doe,Rent,602.87,USD,602.87,0.0,
+f55038ae-5f3f-4d05-b65e-77bbbe97d7b3,2014-04-02,John Doe,Utilities,158.72,USD,158.72,0.0,
+51c41e6c-e27d-467b-942f-ce5f60196e3a,2014-04-22,John Doe,Shopping,78.92,USD,78.92,0.0,Online purchase
+1838db87-048f-48f8-97e6-75063f692b3f,2014-04-10,John Doe,Dining,125.17,USD,125.17,0.0,Restaurant meal
+5656347f-dbbe-4cfe-856a-158f5d2b0ef5,2014-04-12,John Doe,Groceries,178.01,USD,178.01,0.0,Weekly groceries
+480c2093-5763-40b0-a095-ce89df617fe8,2014-04-03,John Doe,Groceries,86.57,USD,86.57,0.0,Weekly groceries
+61355599-f722-4de1-b311-9da6d5c5caab,2014-04-17,John Doe,Entertainment,96.62,USD,96.62,0.0,Movie tickets
+91ff0536-23a8-4500-9357-a52d4c1f5965,2014-04-04,John Doe,Travel,51.46,USD,51.46,0.0,Flight ticket
+d4101baa-6316-4896-8a17-28cfadc9b475,2014-05-01,John Doe,Income,2015.75,USD,0.0,2015.75,
+d15f49fd-4226-4d10-ae52-93afe25ba161,2014-05-01,John Doe,Rent,680.71,USD,680.71,0.0,
+0daef661-0d88-41e4-8462-fc289c09f41c,2014-05-02,John Doe,Utilities,299.69,USD,299.69,0.0,
+d5ea6431-5b9a-4fce-9aeb-16ac442ad57e,2014-05-08,John Doe,Dining,155.45,USD,155.45,0.0,Restaurant meal
+4a546473-bb73-4a70-a3c6-df5a87fc38a5,2014-05-28,John Doe,Entertainment,128.15,USD,128.15,0.0,Streaming subscription
+54f2caa0-4f31-4b3a-841e-dc25298412ed,2014-05-17,John Doe,Entertainment,122.12,USD,122.12,0.0,Movie tickets
+579758a6-327f-4b77-b2c3-6a8e653a279b,2014-05-18,John Doe,Travel,174.24,USD,174.24,0.0,Flight ticket
+4e6e0971-7d8e-4017-a384-a42553ce1fe9,2014-05-13,John Doe,Dining,80.94,USD,80.94,0.0,Restaurant meal
+05f073ca-4e70-44e9-b06f-ca3116ef1459,2014-05-28,John Doe,Travel,191.2,USD,191.2,0.0,Taxi ride
+c56720bb-a654-4b36-9c55-35ab74c04589,2014-06-01,John Doe,Income,1619.7,USD,0.0,1619.7,
+60fffa68-8b74-4f57-a177-e0a88b8f2a83,2014-06-01,John Doe,Rent,685.48,USD,685.48,0.0,
+99bfe8d1-0ad6-4741-a11d-4242950b3d6e,2014-06-02,John Doe,Utilities,105.99,USD,105.99,0.0,
+0e24fb77-64cf-486b-ade6-f803ec671768,2014-06-18,John Doe,Groceries,117.54,USD,117.54,0.0,Supermarket shopping
+d4a4b526-5c98-4400-977b-8b17c74d36b4,2014-06-13,John Doe,Entertainment,91.7,USD,91.7,0.0,Movie tickets
+2751cb7b-6312-4f81-97bb-afa21b5cca8a,2014-06-15,John Doe,Dining,132.17,USD,132.17,0.0,Restaurant meal
+ab728d1b-5c24-419b-ae96-fdde09fc9742,2014-06-13,John Doe,Shopping,107.67,USD,107.67,0.0,Electronics store
+50da8fa1-4990-45cb-8224-dc2d48cb33c6,2014-06-15,John Doe,Shopping,67.72,USD,67.72,0.0,Online purchase
+64d9e8c3-d91a-4b6e-8c96-079bc28056b2,2014-06-13,John Doe,Travel,74.61,USD,74.61,0.0,Flight ticket
+59a02487-b531-4269-ad55-97f24e3ac08c,2014-06-14,John Doe,Dining,89.57,USD,89.57,0.0,Restaurant meal
+3452446c-86c8-4978-81e0-5f3b635e1e66,2014-07-01,John Doe,Income,2470.47,USD,0.0,2470.47,
+6c0570bc-a45c-477f-9939-4393519998b8,2014-07-01,John Doe,Rent,786.04,USD,786.04,0.0,
+36503a82-2d77-4327-a974-659bdd764b96,2014-07-02,John Doe,Utilities,198.15,USD,198.15,0.0,
+96d98a6e-da74-42b4-84ff-605d7bf85e12,2014-07-18,John Doe,Shopping,55.84,USD,55.84,0.0,Electronics store
+d2a2f305-f0b9-4e4a-9fb7-25551c255d23,2014-07-19,John Doe,Entertainment,158.59,USD,158.59,0.0,Movie tickets
+c94042bc-7b19-4078-9aa5-ac977dbf4b97,2014-07-06,John Doe,Shopping,158.76,USD,158.76,0.0,Clothing store
+fa7771f1-7464-41fa-a3eb-67841e50758a,2014-07-26,John Doe,Shopping,75.42,USD,75.42,0.0,Clothing store
+5093ca5b-27c9-4dfd-ae0e-ecd2b159ac8f,2014-07-15,John Doe,Shopping,175.26,USD,175.26,0.0,Electronics store
+965ca691-5d19-45c2-a320-face1f2a6ddd,2014-07-14,John Doe,Dining,160.19,USD,160.19,0.0,Cafe purchase
+ab74808c-1502-4a3e-ae45-35a129d8bd4b,2014-07-06,John Doe,Entertainment,84.49,USD,84.49,0.0,Streaming subscription
+46361678-808e-4f0c-a664-4ac42524b516,2014-07-07,John Doe,Travel,123.76,USD,123.76,0.0,Hotel booking
+f3554f5e-0982-45cc-95f7-9a2dcff74e00,2014-07-04,John Doe,Groceries,140.17,USD,140.17,0.0,Supermarket shopping
+0b7e76ac-af5d-49ed-a42f-5cdab6bca8c9,2014-07-28,John Doe,Travel,129.21,USD,129.21,0.0,Hotel booking
+fbee79c9-51d6-4d46-bf49-055c5f7ba3f5,2014-08-01,John Doe,Income,1626.09,USD,0.0,1626.09,
+4b6345d1-fb18-4624-a602-ae6ba44e3917,2014-08-01,John Doe,Rent,498.55,USD,498.55,0.0,
+910a2123-75b4-40d1-a5af-7ad47de2980e,2014-08-02,John Doe,Utilities,105.35,USD,105.35,0.0,
+3565daac-6c47-44a6-a2d0-10fa6a140bb4,2014-08-21,John Doe,Groceries,178.26,USD,178.26,0.0,Weekly groceries
+d39b289b-cf25-4387-8a7b-246d6e53be70,2014-08-05,John Doe,Entertainment,143.7,USD,143.7,0.0,Streaming subscription
+18d8d551-8357-4165-abb6-e6d81ea2c1a5,2014-08-25,John Doe,Dining,118.72,USD,118.72,0.0,Takeaway order
+09a47e2e-d0ff-4edd-a822-d30f48af201c,2014-08-05,John Doe,Travel,154.05,USD,154.05,0.0,Flight ticket
+55aa73aa-03ba-4a0a-856e-705ca92d2f3e,2014-08-10,John Doe,Travel,116.09,USD,116.09,0.0,Flight ticket
+dbf1d7c9-b440-4883-bb77-1cd1528ca6e3,2014-08-17,John Doe,Dining,67.03,USD,67.03,0.0,Restaurant meal
+dd39f3ad-c092-421f-a8ba-a8fc00d8e17a,2014-08-17,John Doe,Entertainment,96.51,USD,96.51,0.0,Movie tickets
+25ecc0f0-f407-4cd6-8011-6dfd5e8f02cf,2014-09-01,John Doe,Income,1870.72,USD,0.0,1870.72,
+1c9c5c33-4dd0-461d-adbf-c000444d3b8b,2014-09-01,John Doe,Rent,390.02,USD,390.02,0.0,
+aa40811e-095a-45e7-8ef1-929b6e265e14,2014-09-02,John Doe,Utilities,140.23,USD,140.23,0.0,
+65efb7de-0714-4576-a3aa-4494443d98ed,2014-09-14,John Doe,Shopping,102.01,USD,102.01,0.0,Online purchase
+7a073fc7-ffae-4202-bae7-3675f9bac2d3,2014-09-19,John Doe,Dining,167.53,USD,167.53,0.0,Cafe purchase
+95d91c12-25a4-42c1-9645-489cfceb9a66,2014-09-28,John Doe,Entertainment,61.07,USD,61.07,0.0,Concert tickets
+0d339724-1dfa-476a-ba2a-88c683412b1b,2014-09-27,John Doe,Groceries,140.22,USD,140.22,0.0,Weekly groceries
+5c7316df-c7a6-4c39-a853-d9ca1c80cf7d,2014-09-12,John Doe,Entertainment,54.33,USD,54.33,0.0,Movie tickets
+39597ec5-143f-4c22-a8ce-d31c3f5bb004,2014-09-04,John Doe,Groceries,195.8,USD,195.8,0.0,Weekly groceries
+93735e67-e4a9-45f4-95df-0389b1761838,2014-09-06,John Doe,Entertainment,108.72,USD,108.72,0.0,Movie tickets
+20c054e3-6150-41cb-8398-6802a71fc5be,2014-09-08,John Doe,Entertainment,158.92,USD,158.92,0.0,Concert tickets
+d8797501-6bb7-473f-85f8-cdceaac0ecc7,2014-09-13,John Doe,Dining,101.42,USD,101.42,0.0,Cafe purchase
+8199c737-58b0-4a9d-a8ab-64dde37382d0,2014-09-07,John Doe,Shopping,80.38,USD,80.38,0.0,Online purchase
+01db10e3-640b-4f84-b537-5265752a9fe6,2014-10-01,John Doe,Income,1953.34,USD,0.0,1953.34,
+8f2776c2-c9e0-43e9-9070-d6b3fa641b34,2014-10-01,John Doe,Rent,650.2,USD,650.2,0.0,
+053aaf3a-6364-498b-bc8f-f7d87e5b0d23,2014-10-02,John Doe,Utilities,156.27,USD,156.27,0.0,
+72c7fefe-0946-4b18-a11b-0c489c9f23f3,2014-10-09,John Doe,Groceries,146.58,USD,146.58,0.0,Weekly groceries
+790bdb14-c7c6-4479-9303-0fb6f9c782fc,2014-10-20,John Doe,Shopping,189.76,USD,189.76,0.0,Online purchase
+b72411d6-3262-43c2-9a9f-c36d9faa184e,2014-10-16,John Doe,Dining,134.09,USD,134.09,0.0,Restaurant meal
+e42d1273-8419-4a1e-a961-f5eca4d3b050,2014-10-24,John Doe,Entertainment,112.82,USD,112.82,0.0,Streaming subscription
+f5d9e692-ad4c-4a00-b524-cad928b27342,2014-10-16,John Doe,Travel,78.47,USD,78.47,0.0,Hotel booking
+e0604e6d-5c84-432c-9a5c-6250e386dc6c,2014-10-25,John Doe,Dining,183.53,USD,183.53,0.0,Takeaway order
+dbd90126-c589-41b3-a7b8-ecc3fc95b8ed,2014-10-17,John Doe,Entertainment,124.04,USD,124.04,0.0,Movie tickets
+9653d133-c709-4d50-8238-6fa51d6847d7,2014-11-01,John Doe,Income,1813.92,USD,0.0,1813.92,
+83628dc5-6759-4af6-8ff5-ba154bdd864c,2014-11-01,John Doe,Rent,313.37,USD,313.37,0.0,
+66500673-1cdf-4d59-a067-a30152e7cee2,2014-11-02,John Doe,Utilities,163.24,USD,163.24,0.0,
+bc0e2146-1c3d-48cc-9fe0-675a0179eb4e,2014-11-08,John Doe,Shopping,195.81,USD,195.81,0.0,Online purchase
+b39dde75-1547-4fe1-a089-195c02652354,2014-11-03,John Doe,Shopping,175.15,USD,175.15,0.0,Clothing store
+3f36cc63-8006-4f68-aecd-45da41c7f9c7,2014-11-10,John Doe,Groceries,165.87,USD,165.87,0.0,Grocery store purchase
+26b1a473-4ffc-4f18-82f5-8f2f3ddbd6a8,2014-11-15,John Doe,Groceries,141.84,USD,141.84,0.0,Weekly groceries
+6c47b2b5-0c2f-48b6-bcdf-dac939a89075,2014-11-08,John Doe,Entertainment,166.24,USD,166.24,0.0,Movie tickets
+184e3981-fec2-41eb-9b1c-5864dcf46d4f,2014-11-23,John Doe,Shopping,65.22,USD,65.22,0.0,Online purchase
+0d52df4b-40e2-48b6-9dc2-2e742c3413de,2014-11-28,John Doe,Travel,174.14,USD,174.14,0.0,Flight ticket
+73ac7aec-34ce-43ec-b5a1-bcf954b42c0b,2014-11-27,John Doe,Travel,88.14,USD,88.14,0.0,Hotel booking
+7b27c8ac-2b7c-42ea-a3e5-fb8229d9ca20,2014-12-01,John Doe,Income,1610.06,USD,0.0,1610.06,
+45846eb2-9e44-427a-a42d-7e3f7d8b9ad6,2014-12-01,John Doe,Rent,506.2,USD,506.2,0.0,
+dfc7630d-7db3-44e7-8c5f-e68efc6cd071,2014-12-02,John Doe,Utilities,229.7,USD,229.7,0.0,
+dac84239-2c9b-41b7-9e6f-664ae2f687b9,2014-12-15,John Doe,Travel,169.93,USD,169.93,0.0,Taxi ride
+cff0dbef-0d3d-42d6-be18-513cdbe2efb4,2014-12-28,John Doe,Shopping,97.23,USD,97.23,0.0,Clothing store
+c38df1a4-3041-4bf5-bfbd-4f7ec4fdab4d,2014-12-19,John Doe,Dining,194.26,USD,194.26,0.0,Cafe purchase
+27873f1e-8946-48cb-a7b9-cca3cfbf203f,2014-12-25,John Doe,Travel,60.6,USD,60.6,0.0,Flight ticket
+07fe561d-632c-44d0-8742-5bd394cb5152,2014-12-17,John Doe,Travel,154.22,USD,154.22,0.0,Taxi ride
+dadfc731-1eb2-438c-be4b-7e8a60edcd0a,2014-12-25,John Doe,Shopping,51.55,USD,51.55,0.0,Clothing store
+8e3b66c4-6af5-478b-83a0-da3dc212a1d0,2015-01-01,John Doe,Income,1920.09,USD,0.0,1920.09,
+83092adc-aa5c-4061-a5d1-bc1a6486a148,2015-01-01,John Doe,Rent,620.69,USD,620.69,0.0,
+eb419b7b-9da8-4cfc-80bc-7aba0348e6c7,2015-01-02,John Doe,Utilities,111.88,USD,111.88,0.0,
+4c26498a-1334-4c26-8805-28eede716068,2015-01-03,John Doe,Dining,126.03,USD,126.03,0.0,Takeaway order
+6fd6effd-680b-40fd-a0b9-9c17c912e68a,2015-01-09,John Doe,Shopping,170.04,USD,170.04,0.0,Online purchase
+3c81f538-1fea-4fe3-a6a0-7071bf7faf19,2015-01-22,John Doe,Dining,145.71,USD,145.71,0.0,Restaurant meal
+f9515e24-32ad-445c-b4ed-36e309d70a37,2015-01-21,John Doe,Shopping,85.14,USD,85.14,0.0,Electronics store
+9c2d4732-5819-4842-b6ba-c25920fe003e,2015-01-05,John Doe,Entertainment,112.33,USD,112.33,0.0,Movie tickets
+29bd9708-5149-49f7-adde-29148c9611aa,2015-01-20,John Doe,Entertainment,92.47,USD,92.47,0.0,Streaming subscription
+1c58f8bc-25e4-4245-8ccc-4280f3bdce84,2015-01-08,John Doe,Groceries,137.17,USD,137.17,0.0,Supermarket shopping
+c2fe7c2a-30d6-4157-a23c-971e92294681,2015-01-26,John Doe,Shopping,58.12,USD,58.12,0.0,Online purchase
+eca01016-63d9-4e5e-9ec0-4c144337bb8f,2015-01-12,John Doe,Dining,85.96,USD,85.96,0.0,Cafe purchase
+56198ea7-a6f8-46c6-9e05-64fb78e7df32,2015-02-01,John Doe,Income,1831.37,USD,0.0,1831.37,
+5c5708fd-b9b3-4dfa-8a90-1d0ae78dd6de,2015-02-01,John Doe,Rent,576.5,USD,576.5,0.0,
+e1b398cb-68d9-479b-b63a-66a445093adf,2015-02-02,John Doe,Utilities,188.42,USD,188.42,0.0,
+206c1838-bac9-4747-84a4-c99f3c9d3684,2015-02-11,John Doe,Dining,142.24,USD,142.24,0.0,Cafe purchase
+97e34957-33af-4d43-988c-0b8829d2139e,2015-02-18,John Doe,Shopping,134.83,USD,134.83,0.0,Clothing store
+5088266c-5487-4a26-bba4-64228900e043,2015-02-24,John Doe,Travel,115.87,USD,115.87,0.0,Flight ticket
+3ff425d4-691f-4539-9332-011fc97c876a,2015-02-05,John Doe,Shopping,60.13,USD,60.13,0.0,Clothing store
+5736863a-6640-48b9-a470-c4f5f88acfdf,2015-02-15,John Doe,Shopping,54.72,USD,54.72,0.0,Electronics store
+6a9589be-c17d-4071-89fe-94a5a004c227,2015-02-18,John Doe,Dining,50.4,USD,50.4,0.0,Cafe purchase
+1d010f7d-9ad9-4ba0-bbcd-beffe218f09a,2015-02-12,John Doe,Entertainment,158.14,USD,158.14,0.0,Movie tickets
+c2d9bcc2-9776-43db-b85c-0502e2fac3bd,2015-02-06,John Doe,Dining,183.63,USD,183.63,0.0,Cafe purchase
+eb116413-4b5f-4897-b97e-f2fef9f8f04c,2015-03-01,John Doe,Income,1417.61,USD,0.0,1417.61,
+9ac6a9bd-bdd8-4f77-87ff-df77fabeeff3,2015-03-01,John Doe,Rent,401.64,USD,401.64,0.0,
+45b322ac-2542-4421-84d0-ec5b876ebe0c,2015-03-02,John Doe,Utilities,131.65,USD,131.65,0.0,
+0933cf19-64e6-4dea-9e37-979f244aebd9,2015-03-20,John Doe,Shopping,128.72,USD,128.72,0.0,Clothing store
+95a86a32-9749-4810-914d-3db7d4670cbd,2015-03-19,John Doe,Shopping,142.29,USD,142.29,0.0,Electronics store
+cfe3d56c-0859-4656-b777-32a6be50fa55,2015-03-25,John Doe,Entertainment,110.69,USD,110.69,0.0,Concert tickets
+4db27d7b-b324-4038-bcff-05b2fe7a6d37,2015-03-22,John Doe,Groceries,149.06,USD,149.06,0.0,Weekly groceries
+92ad6d64-b5a6-4190-99c4-afae4ca92f38,2015-03-10,John Doe,Groceries,173.41,USD,173.41,0.0,Weekly groceries
+1db4d15f-d978-498b-bab1-19cc51c0050c,2015-03-04,John Doe,Shopping,51.28,USD,51.28,0.0,Online purchase
+d8883446-42f3-4d6e-9e85-06fa4c61061a,2015-04-01,John Doe,Income,1511.07,USD,0.0,1511.07,
+e6b136fc-a807-4580-a79a-3e44713de27e,2015-04-01,John Doe,Rent,452.66,USD,452.66,0.0,
+9ee0040a-315d-4578-88c2-be62b20b86d6,2015-04-02,John Doe,Utilities,136.63,USD,136.63,0.0,
+14805a9e-c706-429d-9fa7-158fa32af912,2015-04-22,John Doe,Travel,169.46,USD,169.46,0.0,Hotel booking
+87179616-fc40-4fe2-bf94-f05d637697e1,2015-04-10,John Doe,Travel,188.41,USD,188.41,0.0,Taxi ride
+e936130e-3c53-497a-9974-9215977e762d,2015-04-24,John Doe,Travel,147.08,USD,147.08,0.0,Flight ticket
+16bb06da-4f7e-4ceb-a9a1-e0b653f5c4fe,2015-04-04,John Doe,Travel,147.69,USD,147.69,0.0,Flight ticket
+7f367f0b-8a20-404b-9fdb-47cd17f25276,2015-04-28,John Doe,Dining,131.77,USD,131.77,0.0,Restaurant meal
+93906a56-8fa7-4d11-98ec-b948135ef2ec,2015-05-01,John Doe,Income,2084.36,USD,0.0,2084.36,
+66c02f72-47d7-4db4-86f5-6eb8507b5ad7,2015-05-01,John Doe,Rent,675.86,USD,675.86,0.0,
+9aa8fd8c-d694-4862-b751-ad7e17827904,2015-05-02,John Doe,Utilities,137.82,USD,137.82,0.0,
+7cd2ec9b-f20d-458a-b7bf-6e4d329b8cb9,2015-05-26,John Doe,Groceries,84.31,USD,84.31,0.0,Weekly groceries
+4165ba2b-45dd-4337-9105-cd063581a1de,2015-05-22,John Doe,Groceries,78.14,USD,78.14,0.0,Weekly groceries
+1c94fde0-f54c-4ad5-8adb-e4b23b43e1a2,2015-05-10,John Doe,Dining,159.86,USD,159.86,0.0,Restaurant meal
+9204be6e-10e5-43db-90b1-29b2f8cc7d1c,2015-05-16,John Doe,Shopping,193.01,USD,193.01,0.0,Online purchase
+d9920aad-7613-440d-984f-d45c1dced9ad,2015-05-08,John Doe,Entertainment,94.39,USD,94.39,0.0,Streaming subscription
+a1f2e87f-1acc-43f9-8eb1-c9a1449288c9,2015-05-14,John Doe,Entertainment,184.71,USD,184.71,0.0,Streaming subscription
+a65f8c22-1147-4c37-9a27-943f1b550ec0,2015-05-26,John Doe,Shopping,163.74,USD,163.74,0.0,Clothing store
+87789017-a8de-4696-905e-1b9be2b5d8c3,2015-05-05,John Doe,Shopping,55.01,USD,55.01,0.0,Electronics store
+70fff62f-583c-4668-9922-59f474c48f5a,2015-05-21,John Doe,Travel,68.02,USD,68.02,0.0,Taxi ride
+5dd533b6-3130-43ac-b916-b28f2cb1e76d,2015-06-01,John Doe,Income,2132.54,USD,0.0,2132.54,
+d54302e7-129d-4712-8495-b336d8857193,2015-06-01,John Doe,Rent,702.81,USD,702.81,0.0,
+565530a9-6695-44b0-b978-4d9c246fc73f,2015-06-02,John Doe,Utilities,185.85,USD,185.85,0.0,
+d4dd7e8f-b38d-4f61-9dc5-20c58d93052d,2015-06-04,John Doe,Entertainment,128.2,USD,128.2,0.0,Streaming subscription
+ab32ace6-830d-4909-94f5-80151ab7c55d,2015-06-18,John Doe,Dining,155.24,USD,155.24,0.0,Restaurant meal
+6fd065be-3127-4280-93ff-6143c2f79867,2015-06-14,John Doe,Groceries,183.6,USD,183.6,0.0,Weekly groceries
+b9772977-fc6c-4dad-8d07-db54a338dfc4,2015-06-19,John Doe,Travel,169.32,USD,169.32,0.0,Flight ticket
+1a2cf9ac-8468-42fc-9da6-26725f0ef2d4,2015-06-06,John Doe,Entertainment,81.0,USD,81.0,0.0,Movie tickets
+37694910-abc3-4ee6-b95c-648562cfeb00,2015-06-08,John Doe,Groceries,61.01,USD,61.01,0.0,Weekly groceries
+c91e1e80-e643-458b-a3fe-3a60d6ad03b6,2015-06-11,John Doe,Dining,181.09,USD,181.09,0.0,Takeaway order
+f4280d47-c61b-4189-a483-9d588a5b1ffc,2015-06-23,John Doe,Entertainment,90.55,USD,90.55,0.0,Movie tickets
+d4a380cd-cdb6-4052-96cb-db827fe442db,2015-07-01,John Doe,Income,1498.55,USD,0.0,1498.55,
+e58fbdf2-0bf1-4cb8-aa5c-9936e606d260,2015-07-01,John Doe,Rent,334.54,USD,334.54,0.0,
+96b789bd-68d7-4255-9ef3-61224be16d78,2015-07-02,John Doe,Utilities,260.67,USD,260.67,0.0,
+36cc7bee-4ec1-47d7-b0e2-6260c155a910,2015-07-23,John Doe,Travel,96.15,USD,96.15,0.0,Hotel booking
+e991393e-cb25-4629-85a7-2d439cb352de,2015-07-20,John Doe,Groceries,160.32,USD,160.32,0.0,Grocery store purchase
+a321e7b8-6d0d-487c-956f-4c0e3a1c7a3c,2015-07-27,John Doe,Travel,129.66,USD,129.66,0.0,Hotel booking
+a3c7af34-9486-4381-bc7b-7f35144877f6,2015-07-15,John Doe,Dining,94.66,USD,94.66,0.0,Cafe purchase
+4d7a24c4-e238-4782-8605-746227a7babb,2015-07-12,John Doe,Travel,147.46,USD,147.46,0.0,Hotel booking
+e0779085-b6f1-45e7-ab4b-eff9193e4af8,2015-07-13,John Doe,Groceries,138.86,USD,138.86,0.0,Supermarket shopping
+31f7c3f5-eb54-4132-adaf-c066e1db27c4,2015-08-01,John Doe,Income,1550.49,USD,0.0,1550.49,
+35a0b051-edc4-4ddb-99ad-3249530b33f1,2015-08-01,John Doe,Rent,309.24,USD,309.24,0.0,
+35cce06b-d7b5-4fc6-a17f-e685928b26ab,2015-08-02,John Doe,Utilities,282.06,USD,282.06,0.0,
+7f7bc365-cbbf-4a35-bd17-836de29ef328,2015-08-18,John Doe,Shopping,112.05,USD,112.05,0.0,Electronics store
+bba91baf-735f-40a7-908f-2cf166121735,2015-08-04,John Doe,Entertainment,170.48,USD,170.48,0.0,Streaming subscription
+ba39a79f-f99c-4b1d-a6e2-ea620dd5c679,2015-08-27,John Doe,Entertainment,139.6,USD,139.6,0.0,Concert tickets
+867d2aed-cb53-4a55-a016-0ae0d01cfb69,2015-08-19,John Doe,Shopping,157.84,USD,157.84,0.0,Clothing store
+a1e79278-5a44-4e3e-904b-7cee9e041248,2015-08-06,John Doe,Travel,157.68,USD,157.68,0.0,Hotel booking
+09649a7c-6662-4c6e-b220-a2504a531902,2015-08-11,John Doe,Groceries,80.59,USD,80.59,0.0,Supermarket shopping
+76a13e86-52f2-45ca-854a-63f4aaa4d869,2015-09-01,John Doe,Income,1833.29,USD,0.0,1833.29,
+bc78b2e4-8eab-4ab5-89b4-70e6ac555a38,2015-09-01,John Doe,Rent,644.14,USD,644.14,0.0,
+4a90d173-0d66-4ff3-9aba-5b983eaf77cd,2015-09-02,John Doe,Utilities,138.54,USD,138.54,0.0,
+c44e62f5-c11c-4b91-8354-3d04187ad8de,2015-09-13,John Doe,Entertainment,122.41,USD,122.41,0.0,Movie tickets
+ceb146db-758d-4629-bfe6-6c12489e3c33,2015-09-04,John Doe,Entertainment,75.43,USD,75.43,0.0,Streaming subscription
+4e71c274-c655-48e8-b4fd-a34ea1cf884a,2015-09-17,John Doe,Shopping,120.3,USD,120.3,0.0,Electronics store
+2ed42d40-d907-4785-ae27-1d677ed5d938,2015-09-04,John Doe,Travel,55.22,USD,55.22,0.0,Hotel booking
+ee15dcb6-615a-4e97-a5c8-557a3898ebd0,2015-09-22,John Doe,Dining,88.87,USD,88.87,0.0,Restaurant meal
+1963d875-12a8-4aca-b6d4-6927ef9f20d5,2015-09-13,John Doe,Entertainment,52.71,USD,52.71,0.0,Streaming subscription
+c698681d-29f2-455d-9eea-84e381c5bb0c,2015-09-20,John Doe,Groceries,121.15,USD,121.15,0.0,Weekly groceries
+de6bc8e7-bf42-41b5-be51-a98f436b5326,2015-09-11,John Doe,Shopping,56.28,USD,56.28,0.0,Clothing store
+43ab86a0-0d7a-47a2-8473-6afdc5e1a034,2015-09-11,John Doe,Travel,191.58,USD,191.58,0.0,Taxi ride
+b70d665f-3d6f-491d-9fb3-f59155048a50,2015-10-01,John Doe,Income,1924.38,USD,0.0,1924.38,
+db11a5f2-e7f6-4a28-9e16-51d9f884c27c,2015-10-01,John Doe,Rent,365.27,USD,365.27,0.0,
+ab18948a-a33a-4acc-b8b5-9bc6b50bd24a,2015-10-02,John Doe,Utilities,183.98,USD,183.98,0.0,
+a35e3cb0-2996-4415-b070-386e8ef9b1ba,2015-10-25,John Doe,Entertainment,76.48,USD,76.48,0.0,Concert tickets
+c6216f8a-6a2e-4a10-9276-da88acb1c0d6,2015-10-24,John Doe,Groceries,184.13,USD,184.13,0.0,Weekly groceries
+7e5355ae-a410-4a8c-8bfd-23b56b141543,2015-10-09,John Doe,Dining,104.56,USD,104.56,0.0,Restaurant meal
+657ef2af-e7b3-46eb-9055-bea4b6752e2f,2015-10-24,John Doe,Groceries,101.74,USD,101.74,0.0,Grocery store purchase
+25c54671-6664-448c-8da1-8c36ce8834ee,2015-10-09,John Doe,Shopping,109.51,USD,109.51,0.0,Electronics store
+8d7cd71e-7c20-4936-9a0a-135d05505bbb,2015-10-04,John Doe,Dining,113.21,USD,113.21,0.0,Takeaway order
+b458b468-9ce7-4b05-9a21-a9dab3780472,2015-10-20,John Doe,Entertainment,146.51,USD,146.51,0.0,Streaming subscription
+a0ff2aaa-64bb-4b7d-bf7c-d9910d9cb4d1,2015-10-21,John Doe,Travel,135.07,USD,135.07,0.0,Hotel booking
+38115c9b-1fa3-40e5-8cf5-ee45da8ee7d9,2015-10-25,John Doe,Groceries,161.5,USD,161.5,0.0,Supermarket shopping
+33d4b571-7f78-4064-8531-9fd8b8933036,2015-10-11,John Doe,Entertainment,67.48,USD,67.48,0.0,Movie tickets
+41424936-3a9b-4882-a2d2-e8d3500e7545,2015-11-01,John Doe,Income,1461.08,USD,0.0,1461.08,
+d4a3304c-e62a-4b3d-8305-5dc7cf185eba,2015-11-01,John Doe,Rent,361.12,USD,361.12,0.0,
+8443b6b9-d2f2-4edf-be03-db3f1c5603f3,2015-11-02,John Doe,Utilities,238.52,USD,238.52,0.0,
+5d917a65-8509-4013-898d-4423111eae77,2015-11-12,John Doe,Shopping,104.61,USD,104.61,0.0,Clothing store
+cc01b404-07a1-4076-88db-65f1c9e3e128,2015-11-23,John Doe,Shopping,188.86,USD,188.86,0.0,Clothing store
+d459e7b0-5388-4c04-a86e-a44e2ad50c38,2015-11-28,John Doe,Travel,146.42,USD,146.42,0.0,Hotel booking
+aaf21b99-7611-4c8d-b29f-5fb18ddb8c62,2015-11-13,John Doe,Dining,53.38,USD,53.38,0.0,Takeaway order
+5778d901-cf86-4f9b-bfb7-23379dbddbc9,2015-11-24,John Doe,Shopping,82.88,USD,82.88,0.0,Clothing store
+b69ebd23-6916-49cc-b4ef-9906b0cbf5f9,2015-11-21,John Doe,Groceries,152.46,USD,152.46,0.0,Weekly groceries
+5186b533-ad56-4684-bcfc-2b5174522bb3,2015-12-01,John Doe,Income,1662.56,USD,0.0,1662.56,
+68124fe0-a450-4821-8a9e-6fd8ce33e461,2015-12-01,John Doe,Rent,637.85,USD,637.85,0.0,
+a3ea4c00-aba3-4f01-9501-d2ab9d0b15bf,2015-12-02,John Doe,Utilities,100.93,USD,100.93,0.0,
+6399f0a9-34f9-444b-9193-adab37482dc2,2015-12-09,John Doe,Groceries,144.83,USD,144.83,0.0,Weekly groceries
+f8d6831a-ff11-4dbd-a4f4-6171363fcbd1,2015-12-10,John Doe,Groceries,88.99,USD,88.99,0.0,Grocery store purchase
+e4e2acf9-2193-49cf-b26d-69935cf23799,2015-12-03,John Doe,Travel,71.47,USD,71.47,0.0,Hotel booking
+c6c36d42-19c0-4b21-be65-c40b894f69ec,2015-12-15,John Doe,Dining,123.26,USD,123.26,0.0,Cafe purchase
+417c4366-81f0-4df1-98ec-f5b4fce1ef59,2015-12-08,John Doe,Groceries,135.0,USD,135.0,0.0,Weekly groceries
+01be2b66-bfda-4302-9c0e-726b34056e2b,2015-12-10,John Doe,Groceries,156.63,USD,156.63,0.0,Supermarket shopping
+d10e9cfe-60e0-4f2d-9e30-b9052ecab889,2015-12-20,John Doe,Groceries,52.46,USD,52.46,0.0,Grocery store purchase
+4f979b33-8da5-47f3-bdb3-43c5b47cc165,2016-01-01,John Doe,Income,1928.9,USD,0.0,1928.9,
+0e233e05-866b-425a-9b60-7d53c4da56e8,2016-01-01,John Doe,Rent,677.64,USD,677.64,0.0,
+1c211aec-46be-4939-8e63-5d55a9fbca43,2016-01-02,John Doe,Utilities,170.4,USD,170.4,0.0,
+56892aa3-dfda-401d-92a0-1d938245c04e,2016-01-28,John Doe,Travel,166.32,USD,166.32,0.0,Taxi ride
+a06bd02f-2d29-4e48-8838-c89c6b877f56,2016-01-28,John Doe,Dining,50.74,USD,50.74,0.0,Cafe purchase
+a6ed5d60-b5d8-4764-bea7-5bc7617c290f,2016-01-20,John Doe,Dining,159.78,USD,159.78,0.0,Takeaway order
+c95c6c6a-a309-4e15-ba62-6f9ed26fa56d,2016-01-14,John Doe,Entertainment,90.38,USD,90.38,0.0,Movie tickets
+fc0f81cc-94f4-4573-9b02-7adfa83fe1b4,2016-01-10,John Doe,Shopping,176.83,USD,176.83,0.0,Online purchase
+7087aa2b-84d9-45c8-8a95-52bc5b8efcb0,2016-01-14,John Doe,Entertainment,145.74,USD,145.74,0.0,Concert tickets
+a8d183f7-cc04-4c6a-a758-a2a32c2a163a,2016-01-23,John Doe,Groceries,115.72,USD,115.72,0.0,Grocery store purchase
+a6df4685-056b-48fd-8900-2e8f7e00ef9a,2016-02-01,John Doe,Income,2485.35,USD,0.0,2485.35,
+d56e2d19-1d38-450c-8c2f-ec2ec1d56a54,2016-02-01,John Doe,Rent,707.81,USD,707.81,0.0,
+7bd10de2-88f5-4c9f-9b71-eff36e57d4f0,2016-02-02,John Doe,Utilities,295.42,USD,295.42,0.0,
+c1dff0d2-afbc-4254-aee0-c4e8c6327b0d,2016-02-13,John Doe,Dining,146.51,USD,146.51,0.0,Cafe purchase
+a52b44c3-28ec-41a3-8c68-886db62c4fd1,2016-02-04,John Doe,Travel,146.73,USD,146.73,0.0,Taxi ride
+bac1bc62-6685-42f6-b5cc-adc8e3b3a0e5,2016-02-20,John Doe,Groceries,167.16,USD,167.16,0.0,Supermarket shopping
+d22356ba-c78b-4f1a-ae8d-af81eba74d05,2016-02-05,John Doe,Travel,191.57,USD,191.57,0.0,Flight ticket
+bb64e42f-d131-475d-8428-8df3405d3dfc,2016-02-23,John Doe,Groceries,147.09,USD,147.09,0.0,Weekly groceries
+1af1f188-ec56-4266-9942-d2fa78570f1b,2016-02-10,John Doe,Shopping,121.22,USD,121.22,0.0,Electronics store
+c8731a0a-b292-4451-9e37-b0ed1b4cd2e5,2016-02-07,John Doe,Travel,138.28,USD,138.28,0.0,Hotel booking
+d719aeae-92c4-4d04-b16f-321456aa0c20,2016-02-20,John Doe,Travel,197.62,USD,197.62,0.0,Taxi ride
+266df7cd-ad0b-425f-9b9b-e09308f4f2a1,2016-03-01,John Doe,Income,1739.46,USD,0.0,1739.46,
+75ac2404-2bf7-459c-9f08-4a2a89b4c661,2016-03-01,John Doe,Rent,373.06,USD,373.06,0.0,
+5eada9d2-e648-488f-bea7-e6b0fb525655,2016-03-02,John Doe,Utilities,189.66,USD,189.66,0.0,
+e57cd51d-36e5-4c8d-bdd6-cbc5e65729b1,2016-03-17,John Doe,Entertainment,118.34,USD,118.34,0.0,Streaming subscription
+3bcecf08-fc2a-43e8-afa6-cede05567212,2016-03-14,John Doe,Travel,93.84,USD,93.84,0.0,Taxi ride
+cf1b1d77-8910-44f2-8554-d60ca374555c,2016-03-18,John Doe,Travel,91.07,USD,91.07,0.0,Flight ticket
+280db0a6-4b20-48ae-a98c-5f9a4c570af6,2016-03-23,John Doe,Dining,158.71,USD,158.71,0.0,Restaurant meal
+5edb8b35-e278-4a46-846c-0bef041a6bdb,2016-03-11,John Doe,Dining,56.24,USD,56.24,0.0,Takeaway order
+fe46b6cf-3a3e-43fc-80d6-8a636c822dbd,2016-03-04,John Doe,Travel,64.76,USD,64.76,0.0,Hotel booking
+9073074c-eefd-48c6-afc9-fa6ac9db2af9,2016-03-03,John Doe,Entertainment,180.26,USD,180.26,0.0,Concert tickets
+39716d64-ffd3-433f-9c85-8c3545cb16be,2016-03-24,John Doe,Dining,66.8,USD,66.8,0.0,Restaurant meal
+ccd93f93-da91-4c62-8ba2-624f94b7ec0d,2016-03-17,John Doe,Groceries,188.59,USD,188.59,0.0,Weekly groceries
+6e78c30d-3d60-4a14-8df9-b89266e7bd3f,2016-04-01,John Doe,Income,1885.96,USD,0.0,1885.96,
+5c432e08-aa26-4b3f-a898-3fe6ffd7e959,2016-04-01,John Doe,Rent,357.27,USD,357.27,0.0,
+0ae82223-e33b-4516-bcee-d09e328be1f9,2016-04-02,John Doe,Utilities,217.0,USD,217.0,0.0,
+60b2929f-80f8-4ee4-a86f-4013eb04425c,2016-04-09,John Doe,Groceries,127.52,USD,127.52,0.0,Grocery store purchase
+697e7447-b1ff-4c8a-88de-197fcae68088,2016-04-21,John Doe,Entertainment,108.21,USD,108.21,0.0,Streaming subscription
+d3ba4115-5d88-45eb-beef-829637ae38e4,2016-04-09,John Doe,Shopping,100.74,USD,100.74,0.0,Clothing store
+497f0205-ee0e-4994-bdb5-ca48083a46f9,2016-04-14,John Doe,Travel,57.05,USD,57.05,0.0,Hotel booking
+7dd5f1c9-8ab2-4719-b507-bfbcdf86420e,2016-04-08,John Doe,Dining,171.74,USD,171.74,0.0,Takeaway order
+320d8fbb-2c59-451d-bdb0-080c7a02ae01,2016-04-12,John Doe,Dining,149.09,USD,149.09,0.0,Cafe purchase
+e37923f9-e889-4070-ab65-7013200fde5f,2016-04-16,John Doe,Travel,125.22,USD,125.22,0.0,Hotel booking
+01323586-2c9c-4ba4-9295-1758f03e3739,2016-04-20,John Doe,Dining,132.62,USD,132.62,0.0,Restaurant meal
+fd89c603-13f4-4765-a4aa-b12147ac04aa,2016-04-15,John Doe,Travel,168.05,USD,168.05,0.0,Hotel booking
+7cc55874-eab0-4814-ac5e-4d263203f467,2016-05-01,John Doe,Income,1858.58,USD,0.0,1858.58,
+1682c5da-f5f0-4d29-9755-0fe67efaf258,2016-05-01,John Doe,Rent,542.63,USD,542.63,0.0,
+64445a74-5448-43e3-ad43-b0e9076162e3,2016-05-02,John Doe,Utilities,113.78,USD,113.78,0.0,
+80802507-c11f-4d04-a8c8-c544e0a985b9,2016-05-28,John Doe,Travel,164.41,USD,164.41,0.0,Taxi ride
+2a980f08-9995-4a82-8474-a3826e74aa5f,2016-05-22,John Doe,Shopping,144.69,USD,144.69,0.0,Online purchase
+42d97f32-f7c7-4185-a4f1-d89d35b1ba17,2016-05-07,John Doe,Travel,97.21,USD,97.21,0.0,Flight ticket
+835eb435-d37f-41f4-bd71-91fb26df1e16,2016-05-04,John Doe,Travel,73.19,USD,73.19,0.0,Flight ticket
+2f4f8864-6e75-4702-9d98-85c64d3d4a08,2016-05-16,John Doe,Dining,131.73,USD,131.73,0.0,Cafe purchase
+647a493a-7888-49ea-b12d-16d028c37421,2016-05-24,John Doe,Travel,55.95,USD,55.95,0.0,Flight ticket
+b7e7737d-8d42-45b9-b29a-4297afb2355e,2016-05-06,John Doe,Dining,76.59,USD,76.59,0.0,Cafe purchase
+03b2a9fc-3d7e-42d0-bd26-4bfdb8ec615e,2016-05-08,John Doe,Groceries,132.16,USD,132.16,0.0,Weekly groceries
+0b388085-fff8-4bea-a758-7972c4a4459e,2016-05-24,John Doe,Groceries,157.28,USD,157.28,0.0,Supermarket shopping
+7a231f4c-9e09-482e-83d5-2ccdafee1a3b,2016-06-01,John Doe,Income,2435.88,USD,0.0,2435.88,
+32540341-0276-4bf5-8e32-ab6483625be8,2016-06-01,John Doe,Rent,755.88,USD,755.88,0.0,
+50570097-2555-42fb-a02d-3ff43a997e5f,2016-06-02,John Doe,Utilities,297.26,USD,297.26,0.0,
+7c023577-eb9f-472d-a8f9-f2a4a5748c60,2016-06-24,John Doe,Dining,130.82,USD,130.82,0.0,Cafe purchase
+4c06a2a6-7cd9-476d-9ec3-85c72f9de05a,2016-06-25,John Doe,Travel,82.97,USD,82.97,0.0,Flight ticket
+6dede114-3f43-4c92-b063-34a06dff94a1,2016-06-04,John Doe,Dining,160.93,USD,160.93,0.0,Takeaway order
+0c8f1bc0-cf3c-4210-9a0c-2d74704f1b05,2016-06-21,John Doe,Dining,108.69,USD,108.69,0.0,Takeaway order
+3db3f05c-5ece-4f9d-8aca-c0356aa0d8af,2016-06-03,John Doe,Shopping,113.71,USD,113.71,0.0,Electronics store
+eca4efbc-9783-4eb3-8583-15807d1a0df6,2016-06-28,John Doe,Shopping,96.07,USD,96.07,0.0,Clothing store
+b060cafc-c0fe-4ba3-9f3a-a40b874a1214,2016-06-08,John Doe,Groceries,134.43,USD,134.43,0.0,Supermarket shopping
+b38623b9-fdd0-488b-b7f9-f59d81774f28,2016-06-24,John Doe,Dining,138.94,USD,138.94,0.0,Restaurant meal
+c0c53795-4527-4d6a-b67f-d023022a78c2,2016-06-12,John Doe,Travel,194.74,USD,194.74,0.0,Hotel booking
+857cd8cc-dc98-438c-a830-c6a23cfecfb4,2016-07-01,John Doe,Income,1937.3,USD,0.0,1937.3,
+dccb4a20-8532-4543-bac4-96abc8c959bf,2016-07-01,John Doe,Rent,789.1,USD,789.1,0.0,
+d13c1b62-0166-45e2-94fc-9987dbe9aca9,2016-07-02,John Doe,Utilities,208.76,USD,208.76,0.0,
+a5cd59ed-cbd9-4bc5-b37b-84a0422abbba,2016-07-17,John Doe,Entertainment,59.56,USD,59.56,0.0,Movie tickets
+267214f1-129b-47ce-a435-2d9f3275606a,2016-07-06,John Doe,Shopping,90.13,USD,90.13,0.0,Electronics store
+7ec8f563-424b-4f3a-8f0d-94162680a141,2016-07-16,John Doe,Groceries,92.1,USD,92.1,0.0,Supermarket shopping
+a71b56c9-2e2d-4506-bb1f-93dde9a36ba1,2016-07-11,John Doe,Groceries,164.6,USD,164.6,0.0,Grocery store purchase
+ca85637c-bab5-4fd0-b775-a76b0174a876,2016-07-11,John Doe,Shopping,119.93,USD,119.93,0.0,Online purchase
+51bf6bd3-39c7-44e7-b5c6-9fb5c740ccd0,2016-07-04,John Doe,Entertainment,54.22,USD,54.22,0.0,Movie tickets
+2de12f8b-6223-4cd7-a267-48f38dc6e759,2016-07-25,John Doe,Entertainment,69.35,USD,69.35,0.0,Streaming subscription
+1a781a1c-e1bd-41c1-b076-ac10227b8930,2016-07-10,John Doe,Shopping,113.43,USD,113.43,0.0,Online purchase
+1cebb992-0613-43f7-ba73-acc0d96b0039,2016-08-01,John Doe,Income,2286.35,USD,0.0,2286.35,
+274c0b61-b95f-4ff8-be10-70a026dd6688,2016-08-01,John Doe,Rent,720.47,USD,720.47,0.0,
+663733d1-8b0f-4230-bde2-3720a398b70f,2016-08-02,John Doe,Utilities,262.04,USD,262.04,0.0,
+3be60d0a-83b5-4585-8b6d-9f11c3cb219b,2016-08-13,John Doe,Entertainment,166.89,USD,166.89,0.0,Streaming subscription
+d29eb068-56de-4c40-bd43-39acb62558f0,2016-08-18,John Doe,Groceries,104.94,USD,104.94,0.0,Grocery store purchase
+d14c74e3-776b-4b8e-a93d-435d00b053b9,2016-08-15,John Doe,Travel,54.0,USD,54.0,0.0,Hotel booking
+179355da-5991-43af-a03f-79742b016e4c,2016-08-20,John Doe,Entertainment,193.74,USD,193.74,0.0,Streaming subscription
+ddf10514-4602-4945-9429-72160f04b584,2016-08-25,John Doe,Groceries,131.4,USD,131.4,0.0,Grocery store purchase
+b85bdc33-0cc3-4fad-8e55-f53341df4cbd,2016-08-09,John Doe,Travel,144.35,USD,144.35,0.0,Flight ticket
+a0091a9c-1835-44f4-afd2-3de9d98eaf8e,2016-08-22,John Doe,Groceries,120.39,USD,120.39,0.0,Grocery store purchase
+49f3a480-d118-4c43-9f5e-f6b9e70b46b3,2016-08-08,John Doe,Shopping,121.47,USD,121.47,0.0,Clothing store
+2d578d09-589f-4dda-999d-3d1352c7d5d1,2016-08-15,John Doe,Shopping,58.81,USD,58.81,0.0,Clothing store
+46775111-3750-4a7f-b187-dcf79b2eef19,2016-09-01,John Doe,Income,2216.4,USD,0.0,2216.4,
+099c7636-2528-4fd6-969b-7ff2b1829054,2016-09-01,John Doe,Rent,597.02,USD,597.02,0.0,
+d8a8fbdc-786b-47ea-8445-9614e18765cc,2016-09-02,John Doe,Utilities,180.46,USD,180.46,0.0,
+ac7f6561-b0f9-4fcd-877b-ad75d05655e1,2016-09-23,John Doe,Entertainment,63.0,USD,63.0,0.0,Streaming subscription
+bf8032a4-7215-4b9e-9cff-1918ad2958a0,2016-09-14,John Doe,Entertainment,128.66,USD,128.66,0.0,Concert tickets
+e82899bb-e4be-49fd-b383-f2a62fe89a2b,2016-09-08,John Doe,Travel,129.9,USD,129.9,0.0,Taxi ride
+317dec9e-2989-4c77-a064-092b4e3e7f33,2016-09-21,John Doe,Entertainment,129.23,USD,129.23,0.0,Streaming subscription
+6c331048-7148-4984-96fd-66fb95c25319,2016-09-21,John Doe,Entertainment,138.37,USD,138.37,0.0,Concert tickets
+3593950c-c3cf-42d2-8dd8-b5ec4f60a0f0,2016-09-03,John Doe,Travel,160.59,USD,160.59,0.0,Taxi ride
+52184ed2-b0c8-4a1e-a04c-e044a8d8580c,2016-09-25,John Doe,Dining,198.69,USD,198.69,0.0,Cafe purchase
+255a82a1-6f42-4646-90e9-1cd239b41fd4,2016-09-04,John Doe,Entertainment,79.1,USD,79.1,0.0,Streaming subscription
+3eaf4680-8c52-40dc-8f61-029b9586dc4a,2016-09-17,John Doe,Groceries,130.3,USD,130.3,0.0,Weekly groceries
+10e3cda6-90aa-4593-b2c2-d9946edd129f,2016-09-09,John Doe,Dining,79.59,USD,79.59,0.0,Takeaway order
+7e71c36e-e63a-430d-811d-593a742ed3a0,2016-10-01,John Doe,Income,1797.63,USD,0.0,1797.63,
+2981634a-c5fb-464d-a9bc-066567c29032,2016-10-01,John Doe,Rent,359.51,USD,359.51,0.0,
+ba9b4fc8-058b-404d-84f6-47713c484e5a,2016-10-02,John Doe,Utilities,216.31,USD,216.31,0.0,
+a2df9a8e-7f74-4bf7-91e5-af6fbbc48d3b,2016-10-11,John Doe,Dining,61.7,USD,61.7,0.0,Cafe purchase
+55e921cf-d63f-4f01-9246-cc0ede329d1e,2016-10-26,John Doe,Groceries,83.2,USD,83.2,0.0,Weekly groceries
+d3f31f4c-10a4-4c04-90e9-c66531307ae0,2016-10-15,John Doe,Groceries,197.92,USD,197.92,0.0,Weekly groceries
+17687caf-d9f1-48e3-9ea6-ee3bdf9c22ba,2016-10-23,John Doe,Travel,93.72,USD,93.72,0.0,Taxi ride
+3a8fabc2-945c-4e8a-b2af-4d17fa52c6e6,2016-10-27,John Doe,Travel,131.93,USD,131.93,0.0,Hotel booking
+4518995b-43cd-458c-8242-0dcb8ff252dd,2016-10-27,John Doe,Groceries,86.28,USD,86.28,0.0,Supermarket shopping
+684aeb0b-73d8-4f98-9546-8c75cc4bdb71,2016-10-24,John Doe,Travel,161.96,USD,161.96,0.0,Hotel booking
+6cc6ac8b-2f92-4443-84bf-a22c09bee82f,2016-10-24,John Doe,Shopping,56.05,USD,56.05,0.0,Electronics store
+2f2752a8-3fd5-4945-9c7e-84ddd9b1b5ef,2016-10-27,John Doe,Entertainment,185.63,USD,185.63,0.0,Streaming subscription
+734647dc-cb28-4175-a7e6-f43969e9f9e8,2016-11-01,John Doe,Income,1387.02,USD,0.0,1387.02,
+ad617eb4-64de-43e3-876c-fd2b41becda6,2016-11-01,John Doe,Rent,528.61,USD,528.61,0.0,
+9dd13432-991c-4638-b3f1-a9d740952e99,2016-11-02,John Doe,Utilities,229.83,USD,229.83,0.0,
+2be2ad48-7a0a-457e-a3e5-db5ffc022a3e,2016-11-17,John Doe,Shopping,84.06,USD,84.06,0.0,Online purchase
+e30af68c-041e-4b63-990a-4cf53403fa6b,2016-11-17,John Doe,Dining,54.71,USD,54.71,0.0,Takeaway order
+e4044628-19a9-4548-a926-2a21c9dff15a,2016-11-20,John Doe,Dining,107.52,USD,107.52,0.0,Cafe purchase
+e9bac932-1c5d-4a56-9bc6-ba13ccb17559,2016-11-05,John Doe,Groceries,195.91,USD,195.91,0.0,Grocery store purchase
+6b4f29f5-e397-4faa-82c3-df3de5b5f9dd,2016-11-11,John Doe,Shopping,60.29,USD,60.29,0.0,Online purchase
+c56bee34-b09c-445b-acc4-c0e16b2bc81c,2016-12-01,John Doe,Income,1514.52,USD,0.0,1514.52,
+61036e86-1113-4eef-8d54-ed780dcf857e,2016-12-01,John Doe,Rent,387.73,USD,387.73,0.0,
+adf73853-96bd-4b4e-a5c0-8b0e682759e3,2016-12-02,John Doe,Utilities,207.4,USD,207.4,0.0,
+87d3ec87-1fe9-421f-b2ad-159d8df738c6,2016-12-07,John Doe,Groceries,108.08,USD,108.08,0.0,Supermarket shopping
+8c3ba2a0-da3a-4f8d-8e4e-7e2d7e528286,2016-12-25,John Doe,Travel,183.99,USD,183.99,0.0,Flight ticket
+eac5c0f6-58dc-47eb-9c81-420bc819ef8c,2016-12-15,John Doe,Shopping,64.51,USD,64.51,0.0,Online purchase
+377868a0-cc38-4e5f-b1d9-c55dbb25e67a,2016-12-17,John Doe,Groceries,116.62,USD,116.62,0.0,Supermarket shopping
+ee6c7baf-208d-4d4c-9558-754449f7d048,2016-12-16,John Doe,Travel,72.62,USD,72.62,0.0,Taxi ride
+064c1f81-6cce-4bd1-bf71-6dbf0d94d7b3,2016-12-18,John Doe,Shopping,105.26,USD,105.26,0.0,Electronics store
+d87dc60a-bef2-4143-a5e1-134e5c9e3a0d,2016-12-19,John Doe,Entertainment,130.63,USD,130.63,0.0,Streaming subscription
+e454ce37-af46-4370-b2ce-1dfab645a5d0,2017-01-01,John Doe,Income,2326.25,USD,0.0,2326.25,
+b64ac6d1-d71e-41ce-9ef8-f004a3f952b9,2017-01-01,John Doe,Rent,782.75,USD,782.75,0.0,
+09d9d3be-bfdd-46aa-b341-ef9086dbcc2f,2017-01-02,John Doe,Utilities,172.7,USD,172.7,0.0,
+2242ac8a-e39c-41e7-9caf-3a1f7f564abb,2017-01-22,John Doe,Groceries,137.15,USD,137.15,0.0,Supermarket shopping
+bf75b2e5-bb09-4243-990b-a609e13ec788,2017-01-18,John Doe,Shopping,67.86,USD,67.86,0.0,Online purchase
+80ff3da7-a82c-4f38-83aa-2423babb1844,2017-01-07,John Doe,Entertainment,160.64,USD,160.64,0.0,Concert tickets
+2f640f03-d0b7-4260-80d4-d9c41f480e44,2017-01-11,John Doe,Dining,79.18,USD,79.18,0.0,Takeaway order
+d443c316-2d21-4b2b-8dfc-f0d83122fa79,2017-01-07,John Doe,Shopping,91.79,USD,91.79,0.0,Clothing store
+0b996370-fe73-4e70-b736-f58b86a5bcd9,2017-01-10,John Doe,Travel,105.88,USD,105.88,0.0,Flight ticket
+a560c9b7-2a12-4b43-9c90-b8159004f1f0,2017-01-23,John Doe,Groceries,89.47,USD,89.47,0.0,Weekly groceries
+8658d958-8c12-4d2a-9cd0-4a2d8c9722dd,2017-01-08,John Doe,Groceries,181.41,USD,181.41,0.0,Supermarket shopping
+ed83f6a7-a973-4df1-99c1-fe9bda52517a,2017-01-09,John Doe,Travel,50.4,USD,50.4,0.0,Hotel booking
+09ef4725-2fcc-4bb4-bb25-9b1647d6b3e4,2017-01-13,John Doe,Dining,195.54,USD,195.54,0.0,Cafe purchase
+dce0c27f-a314-47a8-8f65-6ca7405d95ad,2017-02-01,John Doe,Income,1862.91,USD,0.0,1862.91,
+b6606703-7b44-459e-81df-beb716eedf89,2017-02-01,John Doe,Rent,757.62,USD,757.62,0.0,
+7bc88f04-7293-4aeb-b513-73ed23f27f8e,2017-02-02,John Doe,Utilities,163.84,USD,163.84,0.0,
+a306a12a-7ac6-4cae-9342-c535a3f48035,2017-02-24,John Doe,Travel,73.27,USD,73.27,0.0,Hotel booking
+9b718546-ee6f-4255-a5a8-5d38d498fd8d,2017-02-24,John Doe,Dining,171.33,USD,171.33,0.0,Takeaway order
+4bb27a28-ff32-4754-94c6-4dac7447e678,2017-02-21,John Doe,Entertainment,170.59,USD,170.59,0.0,Streaming subscription
+20af51ca-4765-47ac-9a63-287961148cb7,2017-02-05,John Doe,Travel,199.44,USD,199.44,0.0,Flight ticket
+d99d87d4-f8e2-42ae-bfd4-4f2a2de9b805,2017-02-07,John Doe,Groceries,157.46,USD,157.46,0.0,Weekly groceries
+40b044a0-b56e-4461-8853-1cdd20e9722e,2017-03-01,John Doe,Income,1985.68,USD,0.0,1985.68,
+b3888386-b2b6-4e0a-a66a-ea5b3612f61b,2017-03-01,John Doe,Rent,440.65,USD,440.65,0.0,
+9054054a-213b-45e8-8b68-b53d5bc65880,2017-03-02,John Doe,Utilities,162.06,USD,162.06,0.0,
+cdb8355e-6704-4df6-9dd8-7c9cf7e7554c,2017-03-23,John Doe,Groceries,103.56,USD,103.56,0.0,Grocery store purchase
+97f0b535-9da2-4a50-a29e-a16e20335086,2017-03-04,John Doe,Entertainment,154.69,USD,154.69,0.0,Concert tickets
+5fcc6b5a-eb76-48a7-9b00-46f0f1406ac3,2017-03-11,John Doe,Entertainment,82.21,USD,82.21,0.0,Movie tickets
+6a9cef31-dd41-40cb-a889-f3223af86a62,2017-03-13,John Doe,Travel,120.58,USD,120.58,0.0,Hotel booking
+416110f9-3cd2-4df0-bd6f-7c869afa197b,2017-03-15,John Doe,Shopping,71.01,USD,71.01,0.0,Electronics store
+36c039ab-8830-48e7-928a-d2726f2f0482,2017-03-21,John Doe,Entertainment,154.85,USD,154.85,0.0,Movie tickets
+477ad1f1-d7fd-43e7-b20c-27dccbe1745d,2017-03-28,John Doe,Dining,133.84,USD,133.84,0.0,Takeaway order
+ab4f0c66-ecfd-4e61-a03e-6105f8ba9dec,2017-03-08,John Doe,Travel,159.42,USD,159.42,0.0,Flight ticket
+3c8b51c4-658e-4e72-8c40-1a9cc8556698,2017-03-25,John Doe,Groceries,129.32,USD,129.32,0.0,Grocery store purchase
+226600a2-e05a-4821-bf76-83da65ea80f6,2017-03-09,John Doe,Dining,92.97,USD,92.97,0.0,Takeaway order
+2ce88f57-d653-493d-9b54-d83ae79920ae,2017-04-01,John Doe,Income,1539.48,USD,0.0,1539.48,
+bf202bef-87a8-4a3a-8032-b1f64996e20c,2017-04-01,John Doe,Rent,424.34,USD,424.34,0.0,
+e25bc569-fd7e-43af-bafd-fdbafb733e2c,2017-04-02,John Doe,Utilities,257.28,USD,257.28,0.0,
+18fd4b89-5d03-4d63-96c9-916996997c34,2017-04-09,John Doe,Travel,131.22,USD,131.22,0.0,Flight ticket
+c05be2f3-d045-40c2-87ce-17c294f3118b,2017-04-14,John Doe,Entertainment,153.44,USD,153.44,0.0,Streaming subscription
+73f273e7-67ab-46cb-9878-69ad7e740c35,2017-04-09,John Doe,Shopping,113.31,USD,113.31,0.0,Clothing store
+5f3a4537-969f-41c0-9a8f-e00465d75635,2017-04-13,John Doe,Dining,151.48,USD,151.48,0.0,Takeaway order
+5a7e7f2c-a6e8-4a01-ae41-ea75ea0adc07,2017-04-26,John Doe,Entertainment,168.46,USD,168.46,0.0,Streaming subscription
+9580ba1b-503f-4e63-ba03-9f32d4f1dd84,2017-05-01,John Doe,Income,1866.87,USD,0.0,1866.87,
+e9c4cd5c-7e87-4498-8ff0-4b2198ac0a68,2017-05-01,John Doe,Rent,306.58,USD,306.58,0.0,
+d48c270d-8e6c-4fce-8b88-c40e2bd3b250,2017-05-02,John Doe,Utilities,234.34,USD,234.34,0.0,
+c4d7b9e6-597e-43a2-8cbd-06bd10a9f690,2017-05-11,John Doe,Groceries,171.11,USD,171.11,0.0,Grocery store purchase
+42698d88-b6eb-47e8-9448-acac386a3385,2017-05-17,John Doe,Travel,170.16,USD,170.16,0.0,Taxi ride
+830e72ff-71fa-4922-a34a-68ffa368d2f6,2017-05-04,John Doe,Groceries,175.26,USD,175.26,0.0,Grocery store purchase
+d402838d-1599-42fb-9f6f-0c8a13aeb47a,2017-05-09,John Doe,Entertainment,184.22,USD,184.22,0.0,Movie tickets
+26130c31-4358-4d79-ac95-38a8535e6b9a,2017-05-06,John Doe,Entertainment,177.13,USD,177.13,0.0,Concert tickets
+5a5c0602-4317-4c99-ac20-149468215395,2017-05-17,John Doe,Entertainment,88.15,USD,88.15,0.0,Streaming subscription
+05452e3d-cc11-424b-8568-4da584aec859,2017-05-04,John Doe,Shopping,92.48,USD,92.48,0.0,Clothing store
+f95b8f3c-61fe-4aed-b3e7-1b806c7303f4,2017-05-17,John Doe,Dining,97.72,USD,97.72,0.0,Takeaway order
+993a48a4-660f-4bac-98e5-2d22510d7036,2017-06-01,John Doe,Income,1364.12,USD,0.0,1364.12,
+22f61e3d-7f25-4556-98bf-9a8edeaf448a,2017-06-01,John Doe,Rent,306.78,USD,306.78,0.0,
+b535820a-94eb-43a4-aaa7-d2594b92d72e,2017-06-02,John Doe,Utilities,283.81,USD,283.81,0.0,
+ad0915d3-aab2-4bfc-bff1-93efc50d0de7,2017-06-07,John Doe,Dining,145.8,USD,145.8,0.0,Cafe purchase
+9d3e2850-9e63-4426-9c19-61de7761530c,2017-06-20,John Doe,Travel,55.59,USD,55.59,0.0,Flight ticket
+0b424147-cb6b-4a95-aee3-d7c2eb1d80d9,2017-06-17,John Doe,Entertainment,199.86,USD,199.86,0.0,Streaming subscription
+b1b646b8-81f0-4789-8239-18d70912b39b,2017-06-06,John Doe,Entertainment,153.07,USD,153.07,0.0,Streaming subscription
+ae0cb773-26a6-4457-a1f1-58fe83cb535d,2017-06-27,John Doe,Shopping,95.2,USD,95.2,0.0,Online purchase
+69aa7bc1-d2b0-4dbc-8210-98f1b720eed1,2017-07-01,John Doe,Income,2049.63,USD,0.0,2049.63,
+d5fac2c6-7fdd-4ff3-86dd-b608fb7a51a7,2017-07-01,John Doe,Rent,726.06,USD,726.06,0.0,
+95654e3a-d71c-4007-9322-4665bc938e79,2017-07-02,John Doe,Utilities,277.59,USD,277.59,0.0,
+76fc2f66-19b5-4f47-a007-98e3729b2bbf,2017-07-27,John Doe,Shopping,148.53,USD,148.53,0.0,Electronics store
+aaae0c99-467f-44f9-97bd-59cfc399ac65,2017-07-26,John Doe,Entertainment,100.0,USD,100.0,0.0,Movie tickets
+78b6c5ef-010a-4824-b53c-e2674ae8cc34,2017-07-20,John Doe,Groceries,59.39,USD,59.39,0.0,Supermarket shopping
+74aea798-d0ed-4048-a6d7-3af1b9b33fe5,2017-07-22,John Doe,Travel,178.19,USD,178.19,0.0,Flight ticket
+725bf1c7-34a8-481f-abdc-d72be9e6530e,2017-07-12,John Doe,Entertainment,68.6,USD,68.6,0.0,Concert tickets
+2227a8a9-d169-4f1e-b781-f3c60036afe9,2017-07-06,John Doe,Shopping,186.79,USD,186.79,0.0,Electronics store
+55ddbd71-bef6-4681-8750-938fea2e9204,2017-07-23,John Doe,Shopping,118.15,USD,118.15,0.0,Online purchase
+0d8d74fd-50c6-4926-b488-b330bb102be1,2017-08-01,John Doe,Income,2197.32,USD,0.0,2197.32,
+3d297ae1-f1bf-4f68-bbc4-22eb44e0a102,2017-08-01,John Doe,Rent,454.21,USD,454.21,0.0,
+37e08b52-a9fb-4ac7-809b-a9b63f01423c,2017-08-02,John Doe,Utilities,168.64,USD,168.64,0.0,
+f468e5aa-1542-4291-93a4-cb8a3ecf2f25,2017-08-14,John Doe,Shopping,67.56,USD,67.56,0.0,Online purchase
+abfe35b6-fc75-4cd2-9694-fb40f40d76c6,2017-08-15,John Doe,Groceries,136.67,USD,136.67,0.0,Grocery store purchase
+00c684d5-b047-4031-b639-bcfc11c2e882,2017-08-18,John Doe,Entertainment,151.86,USD,151.86,0.0,Concert tickets
+6618acc6-edee-4e64-abac-cc3e5c514e99,2017-08-23,John Doe,Groceries,145.81,USD,145.81,0.0,Supermarket shopping
+5c359d0a-8f8b-4447-b7e7-d28178c67617,2017-08-12,John Doe,Dining,161.88,USD,161.88,0.0,Restaurant meal
+87becba2-fe02-4747-8a27-b59af3e1834d,2017-08-04,John Doe,Travel,156.02,USD,156.02,0.0,Taxi ride
+dd686031-fb8f-457d-be4d-eb2b0d137a9c,2017-08-18,John Doe,Dining,162.85,USD,162.85,0.0,Takeaway order
+e27d0dc2-f26e-4250-a539-ab1c8f7d4db1,2017-08-20,John Doe,Dining,199.29,USD,199.29,0.0,Restaurant meal
+d4f70488-c832-43d6-973f-5553bd0a7a70,2017-08-09,John Doe,Groceries,192.77,USD,192.77,0.0,Grocery store purchase
+5bdce4de-6ed8-4b86-9f73-5e3cbda715d3,2017-09-01,John Doe,Income,1542.65,USD,0.0,1542.65,
+415cba18-08a6-4647-88b2-f89821774c2f,2017-09-01,John Doe,Rent,390.38,USD,390.38,0.0,
+3f89e0ba-de91-41d4-8856-1546b244d286,2017-09-02,John Doe,Utilities,283.14,USD,283.14,0.0,
+6cb535eb-458f-4a72-bc1f-1485dc6c9ef2,2017-09-14,John Doe,Groceries,65.77,USD,65.77,0.0,Supermarket shopping
+a61195f5-4d4b-490f-b09a-ffb94b101939,2017-09-13,John Doe,Travel,89.16,USD,89.16,0.0,Flight ticket
+2345a531-e79d-49b7-85ef-5f53ec3f6bbd,2017-09-22,John Doe,Entertainment,162.95,USD,162.95,0.0,Streaming subscription
+57ade487-3fd0-4bc0-9bd7-b735fe6f7880,2017-09-06,John Doe,Entertainment,50.75,USD,50.75,0.0,Streaming subscription
+babea03d-1d59-4bc6-8f55-fd34ab9a0cfd,2017-09-07,John Doe,Travel,67.8,USD,67.8,0.0,Hotel booking
+058bddab-0103-4ec5-8ab1-551844577751,2017-09-24,John Doe,Travel,114.27,USD,114.27,0.0,Flight ticket
+0b5fcef6-baa5-4458-8770-1958b1cd1a9c,2017-09-04,John Doe,Entertainment,178.19,USD,178.19,0.0,Movie tickets
+c42f922f-0d8e-492f-9220-db60f139274f,2017-10-01,John Doe,Income,1789.59,USD,0.0,1789.59,
+ee2e9645-8dc8-4c7b-bfe6-946ecb30ed97,2017-10-01,John Doe,Rent,572.45,USD,572.45,0.0,
+e51dd24b-2e21-4845-a745-c79f194db6c8,2017-10-02,John Doe,Utilities,116.33,USD,116.33,0.0,
+8088c6fe-5cbc-4673-9701-f1ae9c8e37d4,2017-10-07,John Doe,Groceries,107.12,USD,107.12,0.0,Grocery store purchase
+a698f1a3-524d-4bc4-9b67-b209d9f5e548,2017-10-10,John Doe,Shopping,60.75,USD,60.75,0.0,Clothing store
+595db042-df0e-4cae-8063-2e219d3396cb,2017-10-03,John Doe,Travel,180.49,USD,180.49,0.0,Taxi ride
+68489f06-44eb-4ea7-9828-6005b2289f99,2017-10-25,John Doe,Shopping,137.55,USD,137.55,0.0,Clothing store
+5de31a10-1b1d-4a62-a53a-4720257a38c5,2017-10-15,John Doe,Dining,142.79,USD,142.79,0.0,Restaurant meal
+1617f829-a864-403e-95f7-2eb455d38c4f,2017-10-04,John Doe,Entertainment,86.0,USD,86.0,0.0,Streaming subscription
+ed3bc42c-140d-4009-91a7-a5ca9431a345,2017-10-25,John Doe,Shopping,92.63,USD,92.63,0.0,Electronics store
+fd1d359f-4c6a-4b6f-a288-7649523f851d,2017-10-16,John Doe,Travel,130.79,USD,130.79,0.0,Taxi ride
+526ab90e-e050-4e0f-816f-f7a187ca22ea,2017-11-01,John Doe,Income,2351.16,USD,0.0,2351.16,
+b73b3e09-e384-4dcb-9e31-412a607b9d31,2017-11-01,John Doe,Rent,494.1,USD,494.1,0.0,
+4e171c17-5d99-4e8b-98d7-e0f9b6ca2b7f,2017-11-02,John Doe,Utilities,247.67,USD,247.67,0.0,
+fa8a68fb-8640-449a-949f-635e906c12b3,2017-11-17,John Doe,Groceries,146.43,USD,146.43,0.0,Weekly groceries
+efe168bc-8022-4b19-9434-54291661bfe9,2017-11-08,John Doe,Travel,181.78,USD,181.78,0.0,Hotel booking
+7d2a370d-ebdf-4bcf-b528-4cd66984efcb,2017-11-28,John Doe,Shopping,70.45,USD,70.45,0.0,Clothing store
+1cacb7f2-a06e-4ee6-8201-7fd09677a261,2017-11-06,John Doe,Entertainment,160.98,USD,160.98,0.0,Movie tickets
+b7de85c4-8192-409a-8c82-dcfd4f7e6b00,2017-11-14,John Doe,Dining,136.38,USD,136.38,0.0,Takeaway order
+ff60a08d-83a4-4cc9-b1bc-97065ef1c2bf,2017-11-27,John Doe,Travel,133.17,USD,133.17,0.0,Flight ticket
+5a90de23-5371-4850-81c0-319025fa8c0a,2017-11-17,John Doe,Shopping,190.68,USD,190.68,0.0,Online purchase
+80faa8ff-b46b-4924-b94d-86eaf65c062c,2017-11-08,John Doe,Groceries,83.43,USD,83.43,0.0,Supermarket shopping
+109cf802-0851-4af8-a87f-c7e11ff07144,2017-11-19,John Doe,Travel,124.88,USD,124.88,0.0,Hotel booking
+48a875b9-285e-4a7d-875f-e652234ef61f,2017-11-05,John Doe,Groceries,167.47,USD,167.47,0.0,Weekly groceries
+4a825b07-d5b5-440b-993e-7b57b618d322,2017-12-01,John Doe,Income,1924.85,USD,0.0,1924.85,
+d3ca40d5-9322-47ba-af03-184f0e482b63,2017-12-01,John Doe,Rent,675.86,USD,675.86,0.0,
+b3fa8ed7-60cb-4ae3-8383-ebe7333c0a20,2017-12-02,John Doe,Utilities,237.17,USD,237.17,0.0,
+1694f661-3468-4792-9dd5-4ddeafda44b0,2017-12-14,John Doe,Travel,115.09,USD,115.09,0.0,Flight ticket
+6036645a-1e00-4424-b7da-d58ca1b7d742,2017-12-06,John Doe,Entertainment,178.27,USD,178.27,0.0,Streaming subscription
+641e8315-222a-43db-b5ad-47521f6bd758,2017-12-20,John Doe,Groceries,181.62,USD,181.62,0.0,Weekly groceries
+0a920778-01d4-438c-b1f3-6a184dedbd6e,2017-12-18,John Doe,Groceries,193.52,USD,193.52,0.0,Grocery store purchase
+2f82ae03-5a33-406a-ab6c-cf4cdd3fe46a,2017-12-08,John Doe,Groceries,51.51,USD,51.51,0.0,Grocery store purchase
+6567a6d4-f272-45cb-9549-d4fb029313a3,2017-12-21,John Doe,Shopping,116.82,USD,116.82,0.0,Electronics store
+619669fb-80ab-4424-aa45-c0f1eecc6a42,2018-01-01,John Doe,Income,1438.99,USD,0.0,1438.99,
+7c8379d4-85d8-402c-b6ef-ebde26534803,2018-01-01,John Doe,Rent,691.75,USD,691.75,0.0,
+fd52ae0b-813e-48d3-9d2b-5a4472656383,2018-01-02,John Doe,Utilities,111.31,USD,111.31,0.0,
+0fce3fc6-34f2-4dcb-a8d2-2eef6f519fc5,2018-01-20,John Doe,Dining,170.95,USD,170.95,0.0,Restaurant meal
+95e9c2f3-efae-4f12-870f-4dbd1e67ff86,2018-01-16,John Doe,Groceries,77.14,USD,77.14,0.0,Grocery store purchase
+cf41d2b2-0eb8-478f-801b-729112b53f21,2018-01-15,John Doe,Entertainment,59.33,USD,59.33,0.0,Movie tickets
+2b15868e-3fda-440c-8eda-e2f61d09e1ee,2018-01-18,John Doe,Shopping,124.52,USD,124.52,0.0,Online purchase
+73281597-42a6-4bf4-8176-b4f3d154a5b0,2018-01-27,John Doe,Entertainment,73.17,USD,73.17,0.0,Concert tickets
+257640fe-e171-4883-89e0-a38c473451ea,2018-02-01,John Doe,Income,1668.82,USD,0.0,1668.82,
+db133918-83bc-4624-afa9-99318be7c013,2018-02-01,John Doe,Rent,475.17,USD,475.17,0.0,
+518becbb-9f01-4ad0-b2af-b736b317d7de,2018-02-02,John Doe,Utilities,264.62,USD,264.62,0.0,
+0a27d63b-f679-4e05-a151-1c92d7a2e031,2018-02-27,John Doe,Entertainment,128.55,USD,128.55,0.0,Streaming subscription
+0ed8bd69-3c94-4dc8-a62e-bf881cb84482,2018-02-08,John Doe,Groceries,108.32,USD,108.32,0.0,Grocery store purchase
+c06d8760-fb6e-4c98-906d-50e2b618ea2b,2018-02-05,John Doe,Travel,109.89,USD,109.89,0.0,Hotel booking
+f8b33d41-47b3-4b18-a6a2-c4091a0012c7,2018-02-25,John Doe,Groceries,55.4,USD,55.4,0.0,Grocery store purchase
+633ab0e5-b831-4b9b-8f1c-ef57a80970e5,2018-02-13,John Doe,Groceries,129.93,USD,129.93,0.0,Weekly groceries
+d82a1735-aa68-462c-be9a-90ad57bbd76f,2018-02-19,John Doe,Dining,96.69,USD,96.69,0.0,Takeaway order
+cfda7338-a7b5-40ff-a933-d84c6e043837,2018-02-13,John Doe,Entertainment,148.54,USD,148.54,0.0,Concert tickets
+202132d3-f7f8-4e72-b9ca-99d4869f0c86,2018-03-01,John Doe,Income,1867.17,USD,0.0,1867.17,
+f2d7eee7-13b4-4c57-9628-eaf45c15efab,2018-03-01,John Doe,Rent,667.42,USD,667.42,0.0,
+7bc4daac-331a-4425-ad01-b36b40316a65,2018-03-02,John Doe,Utilities,213.38,USD,213.38,0.0,
+20336274-b249-4daa-bf85-33adf44348ee,2018-03-12,John Doe,Groceries,111.96,USD,111.96,0.0,Grocery store purchase
+54d8e2c4-dd2e-4edc-b8f8-fac2d9a3d02a,2018-03-07,John Doe,Travel,172.92,USD,172.92,0.0,Flight ticket
+37603d6b-5fcf-44e2-b1ff-707580fe3ce9,2018-03-05,John Doe,Shopping,125.54,USD,125.54,0.0,Online purchase
+0f7e52c1-d687-4b96-b227-70f85f24f83f,2018-03-19,John Doe,Shopping,55.36,USD,55.36,0.0,Electronics store
+3a1683ce-23b8-4c8a-99a3-ec8f3c798b95,2018-03-15,John Doe,Groceries,117.28,USD,117.28,0.0,Grocery store purchase
+f9d8e2db-e363-49a2-a523-e86d2154af07,2018-03-26,John Doe,Travel,108.3,USD,108.3,0.0,Taxi ride
+28ed53ac-4e3c-4d00-903c-a36da96637f7,2018-03-08,John Doe,Dining,125.27,USD,125.27,0.0,Takeaway order
+8cb7eea6-90da-44df-819a-aa80efd9cdef,2018-04-01,John Doe,Income,2129.25,USD,0.0,2129.25,
+f3ef864a-ba46-45ce-8498-80f4a3dc8e55,2018-04-01,John Doe,Rent,460.34,USD,460.34,0.0,
+8f524be5-a40e-4a20-ad15-58afa4db9398,2018-04-02,John Doe,Utilities,224.07,USD,224.07,0.0,
+ee20103f-dbbb-4bae-96ad-8603970a4cf1,2018-04-13,John Doe,Travel,192.1,USD,192.1,0.0,Flight ticket
+7dd43f42-6bfb-4fb6-ba02-1800bcf8581e,2018-04-12,John Doe,Groceries,71.5,USD,71.5,0.0,Weekly groceries
+7cec75c3-9d69-4bfc-af6e-57188de8b40a,2018-04-16,John Doe,Entertainment,189.59,USD,189.59,0.0,Streaming subscription
+81034dfd-d581-4d24-a643-8aacd3625f9f,2018-04-23,John Doe,Entertainment,116.61,USD,116.61,0.0,Concert tickets
+f4370c20-1971-4afd-9663-1cc4805dfddb,2018-04-11,John Doe,Shopping,127.11,USD,127.11,0.0,Online purchase
+0e608744-eafd-4f95-bdd9-ad73ec4d6d0d,2018-04-06,John Doe,Travel,100.65,USD,100.65,0.0,Flight ticket
+478760b8-5450-454c-bfe6-0bacdfe7046f,2018-04-08,John Doe,Dining,191.9,USD,191.9,0.0,Restaurant meal
+f177b094-6db4-4d36-9ac8-5a4ee760c74b,2018-04-12,John Doe,Entertainment,68.41,USD,68.41,0.0,Concert tickets
+2decd764-9097-4b9f-b9d2-144635425fac,2018-04-14,John Doe,Dining,193.4,USD,193.4,0.0,Restaurant meal
+44910f97-224e-4f3f-9692-469382e81429,2018-05-01,John Doe,Income,1792.16,USD,0.0,1792.16,
+3729005d-3921-4cfb-bdf1-e65e78bb8dcb,2018-05-01,John Doe,Rent,301.82,USD,301.82,0.0,
+6376ecf7-a56b-430f-8325-e9d429556aa7,2018-05-02,John Doe,Utilities,262.86,USD,262.86,0.0,
+2a7bee73-daad-4fa6-968d-c5931843f59d,2018-05-11,John Doe,Dining,182.4,USD,182.4,0.0,Takeaway order
+bbe6a732-97de-4cfd-b707-a863dd222481,2018-05-18,John Doe,Dining,60.29,USD,60.29,0.0,Takeaway order
+7187dbf4-914b-49e8-b844-f581f7e1df1c,2018-05-09,John Doe,Groceries,146.19,USD,146.19,0.0,Supermarket shopping
+b3c76be1-804a-454b-a3ef-54d8e9d02b71,2018-05-05,John Doe,Travel,158.86,USD,158.86,0.0,Taxi ride
+a2dc7b12-ae4c-494d-8a0d-f2c7e1dff95b,2018-05-15,John Doe,Groceries,156.11,USD,156.11,0.0,Weekly groceries
+1f018c81-b618-4570-9b67-288efeb3c158,2018-05-09,John Doe,Entertainment,86.8,USD,86.8,0.0,Concert tickets
+d0b596bd-d3b8-4130-bbbd-abe7e598b5d9,2018-05-13,John Doe,Dining,53.0,USD,53.0,0.0,Cafe purchase
+29a0cb73-a278-4eae-bdca-0b215a8b3543,2018-05-23,John Doe,Dining,70.63,USD,70.63,0.0,Restaurant meal
+e8fe2856-1a8d-4e04-8af1-36c27b308e58,2018-05-12,John Doe,Shopping,150.28,USD,150.28,0.0,Clothing store
+e430fdc0-eec6-4ce3-a9ff-c13f61fd3bf5,2018-06-01,John Doe,Income,1756.37,USD,0.0,1756.37,
+aea93ca5-de69-48e7-8b64-56dbe8c79772,2018-06-01,John Doe,Rent,338.19,USD,338.19,0.0,
+4bcc4d13-ae42-4154-938c-158811eada22,2018-06-02,John Doe,Utilities,109.27,USD,109.27,0.0,
+50d8fdf1-15e5-4df7-9ee3-fe8b91362837,2018-06-14,John Doe,Entertainment,110.6,USD,110.6,0.0,Movie tickets
+7a49e758-51b3-4df5-afb2-224f22dddd06,2018-06-15,John Doe,Shopping,177.7,USD,177.7,0.0,Clothing store
+4e8d1c96-2e1e-4822-a4c6-4213e4d735e4,2018-06-21,John Doe,Entertainment,128.74,USD,128.74,0.0,Streaming subscription
+ac60abe6-a08c-438e-8d10-aa7c4e7ae41c,2018-06-07,John Doe,Entertainment,120.25,USD,120.25,0.0,Streaming subscription
+660fe2c9-ff6e-4049-affb-039e607dcf30,2018-06-14,John Doe,Groceries,56.23,USD,56.23,0.0,Supermarket shopping
+2e7507aa-ad9a-4e84-bf9f-f55558834294,2018-06-27,John Doe,Dining,174.98,USD,174.98,0.0,Cafe purchase
+9e31624f-757c-4185-8b3a-b4517c5dfa25,2018-06-26,John Doe,Entertainment,115.94,USD,115.94,0.0,Concert tickets
+f5f0235f-5aef-412a-a974-74fdda9fccbf,2018-06-20,John Doe,Travel,86.94,USD,86.94,0.0,Flight ticket
+4a3f3b60-9167-4586-8532-976d33056f0b,2018-06-17,John Doe,Entertainment,177.86,USD,177.86,0.0,Streaming subscription
+a2100172-aed6-4bf6-8ef5-e1b997258cb4,2018-07-01,John Doe,Income,2204.84,USD,0.0,2204.84,
+bee2712a-46c0-4eb4-b669-f87c091f3113,2018-07-01,John Doe,Rent,552.02,USD,552.02,0.0,
+5b3d259d-dae9-4a59-8d22-7ab27df61d64,2018-07-02,John Doe,Utilities,115.98,USD,115.98,0.0,
+eda1ac63-d505-438a-b652-6d55a61081fd,2018-07-27,John Doe,Entertainment,62.46,USD,62.46,0.0,Streaming subscription
+c7b21394-8e04-4248-b998-961d5d2a0cd4,2018-07-25,John Doe,Dining,169.93,USD,169.93,0.0,Cafe purchase
+a8691a17-6770-4107-a0fb-bd03996ceb41,2018-07-25,John Doe,Travel,121.14,USD,121.14,0.0,Hotel booking
+61947e20-e64c-4bd4-9357-f82c50f3ba56,2018-07-12,John Doe,Entertainment,97.86,USD,97.86,0.0,Concert tickets
+cd50605e-ef7a-40aa-9b2c-dc6bf50c8c19,2018-07-03,John Doe,Groceries,84.12,USD,84.12,0.0,Grocery store purchase
+99b7c20d-287f-4942-87aa-32697de5ad5e,2018-07-26,John Doe,Groceries,143.88,USD,143.88,0.0,Supermarket shopping
+48e11195-84e9-42d3-bc9d-ca4d055db772,2018-07-08,John Doe,Groceries,182.18,USD,182.18,0.0,Grocery store purchase
+b8b36e9f-67d5-49ac-802b-f73b5b694be5,2018-07-08,John Doe,Entertainment,137.27,USD,137.27,0.0,Movie tickets
+aec78810-8ddb-4a7c-9bd4-74dd485580e1,2018-07-16,John Doe,Entertainment,172.57,USD,172.57,0.0,Streaming subscription
+1bb60892-a48d-4178-8337-41de44cc025b,2018-07-28,John Doe,Groceries,164.99,USD,164.99,0.0,Grocery store purchase
+c96b8074-9d2f-421f-b399-9a5dbd0891ae,2018-08-01,John Doe,Income,2106.03,USD,0.0,2106.03,
+2f107629-91bb-4410-97b0-0a5aba332661,2018-08-01,John Doe,Rent,408.36,USD,408.36,0.0,
+ec461300-377c-45b7-8ed9-ed361093185e,2018-08-02,John Doe,Utilities,180.9,USD,180.9,0.0,
+511206c2-e3f4-400d-9d6c-8a2db9d800b2,2018-08-20,John Doe,Groceries,197.35,USD,197.35,0.0,Grocery store purchase
+3865ebaf-3edf-401f-a161-da416ee44c77,2018-08-22,John Doe,Travel,55.5,USD,55.5,0.0,Taxi ride
+a9b5802a-4bcc-4ac4-8083-c98d90c4312a,2018-08-17,John Doe,Dining,139.92,USD,139.92,0.0,Takeaway order
+432609fe-5966-4989-a458-61133c61af2d,2018-08-12,John Doe,Entertainment,178.76,USD,178.76,0.0,Streaming subscription
+f401d70d-ba26-4c5e-9476-2e54167699a6,2018-08-24,John Doe,Groceries,164.65,USD,164.65,0.0,Weekly groceries
+9b69372a-1ac0-4a08-a840-1f53c01f5fd9,2018-08-07,John Doe,Entertainment,167.15,USD,167.15,0.0,Movie tickets
+badbd33b-c0d2-44c4-8f93-1413568193f2,2018-08-23,John Doe,Shopping,88.82,USD,88.82,0.0,Online purchase
+577c712a-601a-4278-9eda-f8ca32a21567,2018-08-07,John Doe,Dining,139.03,USD,139.03,0.0,Restaurant meal
+8db45962-e3eb-420f-8c72-e6f28b2253dd,2018-08-08,John Doe,Groceries,194.13,USD,194.13,0.0,Grocery store purchase
+9bdd68f7-5535-4f7b-b9d7-0e55e18f2fe6,2018-09-01,John Doe,Income,1790.71,USD,0.0,1790.71,
+127e35eb-73f4-447d-affd-4c2661f6dc7f,2018-09-01,John Doe,Rent,774.03,USD,774.03,0.0,
+e5f97a07-8974-4015-9ae8-9b6045f08e44,2018-09-02,John Doe,Utilities,239.65,USD,239.65,0.0,
+6f2e3d72-a74e-4f22-8d21-a3a26ddf497d,2018-09-24,John Doe,Groceries,185.88,USD,185.88,0.0,Grocery store purchase
+f7a924f9-9c0f-4be7-8edc-993433f9a6ed,2018-09-20,John Doe,Groceries,106.79,USD,106.79,0.0,Supermarket shopping
+2979ef05-044a-482e-914f-2d57c8aa33c7,2018-09-20,John Doe,Dining,75.3,USD,75.3,0.0,Cafe purchase
+3aeac7c8-2bec-49ab-91ed-1c5adf9b1043,2018-09-04,John Doe,Dining,116.48,USD,116.48,0.0,Restaurant meal
+00a03eb5-ff7d-4ea1-a366-6f992ce1fbd7,2018-09-17,John Doe,Entertainment,67.73,USD,67.73,0.0,Concert tickets
+96102a53-d4b9-4c75-a7d8-57e6fdefb076,2018-09-25,John Doe,Groceries,62.06,USD,62.06,0.0,Weekly groceries
+8690efc3-1b4f-4f31-9b31-b502eec50280,2018-10-01,John Doe,Income,1274.77,USD,0.0,1274.77,
+4c006043-79c5-424b-a8ec-3ccc9d01d587,2018-10-01,John Doe,Rent,333.57,USD,333.57,0.0,
+cb01f18c-9afe-47d1-a449-09816a598f4b,2018-10-02,John Doe,Utilities,290.1,USD,290.1,0.0,
+346a6e2a-66c3-486e-b307-700af938ca96,2018-10-12,John Doe,Dining,91.75,USD,91.75,0.0,Cafe purchase
+1e7fcd64-806b-459a-acea-f38a14e0f425,2018-10-18,John Doe,Dining,111.56,USD,111.56,0.0,Cafe purchase
+334d7834-af67-471c-bbbc-3ae33034d8e6,2018-10-22,John Doe,Entertainment,60.24,USD,60.24,0.0,Streaming subscription
+9419fa19-3379-4a6a-a0ca-740575b5e258,2018-10-26,John Doe,Entertainment,77.07,USD,77.07,0.0,Streaming subscription
+06201287-4dfb-4292-94dc-90af88a18704,2018-10-19,John Doe,Dining,194.59,USD,194.59,0.0,Restaurant meal
+158b842c-ac17-4490-a1b5-edafe10fc603,2018-11-01,John Doe,Income,2233.99,USD,0.0,2233.99,
+4988bf65-3a84-451a-a65a-50e98b0148b9,2018-11-01,John Doe,Rent,783.17,USD,783.17,0.0,
+1417a30c-029f-460d-a5e9-2b4f50b4abef,2018-11-02,John Doe,Utilities,118.18,USD,118.18,0.0,
+4ee07617-94e5-4fec-be33-78caaaea2b8d,2018-11-20,John Doe,Entertainment,51.31,USD,51.31,0.0,Streaming subscription
+930f542c-2b55-4eaf-9671-4aaea84e884d,2018-11-04,John Doe,Dining,52.08,USD,52.08,0.0,Cafe purchase
+fb6754ba-c8ef-4235-9097-09446f7cc71d,2018-11-11,John Doe,Travel,56.79,USD,56.79,0.0,Flight ticket
+63db73dc-eb99-43f2-b4bf-d4858f46bae5,2018-11-06,John Doe,Entertainment,95.87,USD,95.87,0.0,Movie tickets
+432777e8-e875-48d1-a980-15fb000fa760,2018-11-19,John Doe,Shopping,160.64,USD,160.64,0.0,Online purchase
+61a06068-07c7-4f6a-aea4-ebbba31013bc,2018-11-11,John Doe,Groceries,152.57,USD,152.57,0.0,Weekly groceries
+2b41d14b-7d0d-4958-9bd8-b263dae7d8e8,2018-11-12,John Doe,Groceries,87.29,USD,87.29,0.0,Weekly groceries
+ffbbe6ad-0426-4ca0-af2f-6d91ef06d6e0,2018-11-07,John Doe,Travel,186.97,USD,186.97,0.0,Flight ticket
+7539a9ec-3e4b-41dd-ad1f-4b828c0fd5be,2018-11-12,John Doe,Shopping,137.11,USD,137.11,0.0,Clothing store
+056c3c0e-5316-4abf-8396-48176857139e,2018-11-07,John Doe,Groceries,148.92,USD,148.92,0.0,Grocery store purchase
+39e12653-5892-4b3d-a3d3-5146a2442e05,2018-12-01,John Doe,Income,1717.39,USD,0.0,1717.39,
+38d05ad5-c3be-4ac9-ac6a-2dc4708a6533,2018-12-01,John Doe,Rent,357.26,USD,357.26,0.0,
+e9075eeb-10f0-4b9d-8d53-e74dde1dc754,2018-12-02,John Doe,Utilities,226.08,USD,226.08,0.0,
+fcdb8cf2-c178-45d5-a733-e2b9ae7d2e72,2018-12-05,John Doe,Groceries,76.86,USD,76.86,0.0,Weekly groceries
+bfe69ced-f8fb-4c38-9d0e-62f1efae5ba8,2018-12-19,John Doe,Entertainment,118.66,USD,118.66,0.0,Streaming subscription
+a15f3a0d-a96d-4a37-8354-04938d6e5b91,2018-12-09,John Doe,Shopping,76.73,USD,76.73,0.0,Electronics store
+caceea12-b090-4f93-aa1d-53e80d49458e,2018-12-05,John Doe,Travel,127.41,USD,127.41,0.0,Flight ticket
+db2c1c7b-17b7-46c7-ab03-1fb57e02790a,2018-12-06,John Doe,Shopping,69.54,USD,69.54,0.0,Electronics store
+8554090c-27f3-42fb-8182-d505fd7835cf,2018-12-04,John Doe,Dining,196.83,USD,196.83,0.0,Restaurant meal
+301a5621-fccb-4a72-a746-5653b9148af0,2018-12-19,John Doe,Travel,138.26,USD,138.26,0.0,Flight ticket
+06933ec5-6729-4f69-b89d-47f4ee60cf95,2018-12-18,John Doe,Shopping,173.63,USD,173.63,0.0,Clothing store
+1bcf1838-90f3-4b98-aa20-db6aefad4ac1,2019-01-01,John Doe,Income,1696.37,USD,0.0,1696.37,
+35eab9a3-9e33-40e9-932b-bd0901720ac9,2019-01-01,John Doe,Rent,623.17,USD,623.17,0.0,
+a498434e-5137-4594-a9bd-116002cfd28a,2019-01-02,John Doe,Utilities,156.26,USD,156.26,0.0,
+ceab7717-7c0e-4010-b388-c88aa2969b4a,2019-01-10,John Doe,Shopping,199.19,USD,199.19,0.0,Electronics store
+3fffac45-e9a6-4b0d-8b3d-4be32feffe0b,2019-01-14,John Doe,Entertainment,165.39,USD,165.39,0.0,Streaming subscription
+fec0e4a5-cc6c-46d5-9e01-2debce5e5bbb,2019-01-17,John Doe,Dining,56.0,USD,56.0,0.0,Takeaway order
+7bde0367-79bb-4536-9b04-2656fc3b0be8,2019-01-18,John Doe,Travel,87.44,USD,87.44,0.0,Hotel booking
+087561e2-4944-4af2-a123-2ff43730ea8f,2019-01-10,John Doe,Groceries,164.15,USD,164.15,0.0,Grocery store purchase
+b6d9ffb1-db13-4e99-8348-e6b274628693,2019-01-05,John Doe,Groceries,90.55,USD,90.55,0.0,Grocery store purchase
+acbffcc3-7494-4897-835f-826ff23d85f2,2019-02-01,John Doe,Income,1986.44,USD,0.0,1986.44,
+a63e9c1b-5f7c-42c4-a35b-5471eed96d52,2019-02-01,John Doe,Rent,440.87,USD,440.87,0.0,
+cd07d6de-0b8f-457e-83b5-f28cc837d6a3,2019-02-02,John Doe,Utilities,182.75,USD,182.75,0.0,
+00464cb0-e379-468d-abaf-2d0a5ba4365e,2019-02-27,John Doe,Travel,139.76,USD,139.76,0.0,Flight ticket
+e0ea70e8-2857-4752-95ce-ab8cc94b6d55,2019-02-06,John Doe,Shopping,110.2,USD,110.2,0.0,Online purchase
+9bf640b4-dc83-47f5-814d-28fb457a263e,2019-02-06,John Doe,Shopping,64.57,USD,64.57,0.0,Online purchase
+07bb242d-9fd9-4aab-8577-eb97d115bf9d,2019-02-18,John Doe,Travel,90.73,USD,90.73,0.0,Flight ticket
+e9086e85-0543-4477-b967-5ef13130dd3c,2019-02-14,John Doe,Entertainment,80.55,USD,80.55,0.0,Concert tickets
+c5faa67e-ec43-4ce7-9680-12ed9786c545,2019-02-27,John Doe,Groceries,140.87,USD,140.87,0.0,Weekly groceries
+ec2873b7-c2d5-401f-b231-3bfd58806bfd,2019-02-05,John Doe,Travel,150.05,USD,150.05,0.0,Taxi ride
+03c7ccc1-2f63-4435-b520-2bd8390b0aeb,2019-02-16,John Doe,Shopping,140.07,USD,140.07,0.0,Online purchase
+259a9edc-6575-4de5-a68e-454a39442147,2019-02-22,John Doe,Dining,151.03,USD,151.03,0.0,Restaurant meal
+84e6ce5d-89ad-4cdb-89e4-3edec654582c,2019-02-06,John Doe,Entertainment,114.4,USD,114.4,0.0,Movie tickets
+fbccf57b-d31b-4b4f-8bb3-e3e07553f54d,2019-03-01,John Doe,Income,2076.03,USD,0.0,2076.03,
+5a46cc07-c0cb-4c08-bd14-26ce0b990add,2019-03-01,John Doe,Rent,590.02,USD,590.02,0.0,
+fc8015af-3719-4820-83de-0e161facb3b9,2019-03-02,John Doe,Utilities,210.25,USD,210.25,0.0,
+4906b6d4-02e5-403f-a364-becd14f448c0,2019-03-03,John Doe,Groceries,173.17,USD,173.17,0.0,Weekly groceries
+711ab9d9-3025-4710-b456-c81ce572b06e,2019-03-04,John Doe,Dining,72.03,USD,72.03,0.0,Takeaway order
+a9542580-cf7a-4ba1-9be9-f6f0509fd6c6,2019-03-19,John Doe,Travel,191.71,USD,191.71,0.0,Hotel booking
+717c0b0a-3336-4292-b7cb-8d62b3d64a70,2019-03-25,John Doe,Travel,160.37,USD,160.37,0.0,Hotel booking
+487fca72-ff98-430e-ac48-b660c1f01b28,2019-03-04,John Doe,Travel,88.35,USD,88.35,0.0,Hotel booking
+03dc0304-783e-4c25-922c-56723f736d26,2019-03-12,John Doe,Entertainment,139.93,USD,139.93,0.0,Movie tickets
+71b3b65f-af5e-49b0-9092-65890032d8b0,2019-03-03,John Doe,Shopping,91.4,USD,91.4,0.0,Online purchase
+91f1d9b6-1ed0-425e-865f-ec4f47964194,2019-03-05,John Doe,Travel,170.07,USD,170.07,0.0,Taxi ride
+8b16fe99-d170-4cef-b921-e8e1eff24ec3,2019-04-01,John Doe,Income,1890.88,USD,0.0,1890.88,
+438f66d4-ab31-4fcd-ab20-1af49b428a9f,2019-04-01,John Doe,Rent,439.32,USD,439.32,0.0,
+ce87abdb-0721-452f-9b01-bbcfa979d5c6,2019-04-02,John Doe,Utilities,188.45,USD,188.45,0.0,
+6a0b8670-1a2c-4e41-90cc-21272674231c,2019-04-17,John Doe,Groceries,147.31,USD,147.31,0.0,Supermarket shopping
+3a964ff8-eb47-49ae-8bb2-16d262a8e47b,2019-04-13,John Doe,Dining,165.02,USD,165.02,0.0,Restaurant meal
+3553bef6-7e44-4f5d-828c-a09b56efbe52,2019-04-14,John Doe,Groceries,199.81,USD,199.81,0.0,Grocery store purchase
+39c947bb-b399-40b1-91ce-8c861e2aad55,2019-04-03,John Doe,Entertainment,99.26,USD,99.26,0.0,Movie tickets
+c2f86a3c-ae78-4100-8c03-61b641d4ec37,2019-04-05,John Doe,Shopping,74.23,USD,74.23,0.0,Online purchase
+b3aa23bb-18cf-42e6-af92-2a74a92ca811,2019-04-11,John Doe,Travel,182.36,USD,182.36,0.0,Flight ticket
+5fe653ca-d216-4708-81c9-28fb0667b249,2019-04-10,John Doe,Entertainment,165.14,USD,165.14,0.0,Streaming subscription
+46433bb7-07bf-494b-953d-75a6e906b51b,2019-04-06,John Doe,Dining,58.08,USD,58.08,0.0,Cafe purchase
+a1aaf70e-3bbd-4a52-a906-398073bedbd9,2019-05-01,John Doe,Income,1676.41,USD,0.0,1676.41,
+951d5e73-cf6c-466e-839a-7641c06aa79e,2019-05-01,John Doe,Rent,704.71,USD,704.71,0.0,
+bd46913f-a24c-4eb3-8ef7-55d03b4f0fc4,2019-05-02,John Doe,Utilities,129.53,USD,129.53,0.0,
+e2342bff-06c8-4926-8531-1abfca3c7e3e,2019-05-24,John Doe,Dining,83.84,USD,83.84,0.0,Takeaway order
+9a62cdd7-732f-4f18-a027-23eaaa22a1ef,2019-05-05,John Doe,Shopping,79.72,USD,79.72,0.0,Clothing store
+24736324-9398-46f2-9f2b-c7897a164b75,2019-05-28,John Doe,Groceries,50.94,USD,50.94,0.0,Grocery store purchase
+ee8554a7-a41b-4254-9347-ac0c349bc2ec,2019-05-18,John Doe,Dining,53.48,USD,53.48,0.0,Takeaway order
+141091b8-11ae-4054-ba90-edfa54c9008e,2019-05-11,John Doe,Shopping,173.58,USD,173.58,0.0,Electronics store
+75ddc9e3-e439-46b9-946a-77d934b228d8,2019-05-15,John Doe,Dining,102.93,USD,102.93,0.0,Takeaway order
+16a5f1e8-3d2d-4cf0-9f5d-6f330e7d2ddb,2019-05-27,John Doe,Dining,145.28,USD,145.28,0.0,Takeaway order
+e80dfc55-86d9-4c31-a589-33bb9136a15c,2019-06-01,John Doe,Income,2027.92,USD,0.0,2027.92,
+0c41d683-416b-4b65-bab8-06c889c184d2,2019-06-01,John Doe,Rent,549.28,USD,549.28,0.0,
+d60f6b4e-b223-4ef8-a461-8ba33ce072d7,2019-06-02,John Doe,Utilities,280.59,USD,280.59,0.0,
+0b89aeae-c901-4739-b26a-aa6aa60a3cad,2019-06-15,John Doe,Groceries,75.95,USD,75.95,0.0,Supermarket shopping
+42800068-d255-4d97-b2c9-cc3a220d5f49,2019-06-24,John Doe,Dining,109.1,USD,109.1,0.0,Cafe purchase
+947b07db-775f-4b8a-be7f-acdca2f01d12,2019-06-24,John Doe,Travel,132.44,USD,132.44,0.0,Hotel booking
+e855854a-d80a-4c68-a572-b6242393955b,2019-06-25,John Doe,Shopping,126.11,USD,126.11,0.0,Clothing store
+44ba02c4-97ea-42df-a414-6e719a8bbe20,2019-06-12,John Doe,Shopping,80.07,USD,80.07,0.0,Clothing store
+7e3dd722-76ed-41c0-bfc5-a56356d4ff9c,2019-06-08,John Doe,Dining,84.55,USD,84.55,0.0,Restaurant meal
+5dde8bbd-d20e-40b6-be08-35bf576a0227,2019-06-20,John Doe,Travel,180.56,USD,180.56,0.0,Hotel booking
+716693ac-794c-4b88-9d45-05560ef7e236,2019-06-06,John Doe,Groceries,112.86,USD,112.86,0.0,Grocery store purchase
+936d8abd-5ddf-4bf6-ba9e-6da72e6fc462,2019-06-07,John Doe,Entertainment,112.05,USD,112.05,0.0,Concert tickets
+20e6c520-21f9-40c2-baf3-f430c1cfa586,2019-07-01,John Doe,Income,1465.83,USD,0.0,1465.83,
+cdf95b29-f25a-4f40-85b8-a1ec5ed9e700,2019-07-01,John Doe,Rent,371.08,USD,371.08,0.0,
+d28b79da-8ed3-41f7-be1a-4d3813006f6f,2019-07-02,John Doe,Utilities,179.8,USD,179.8,0.0,
+187200bf-fe75-4d43-b32c-0f5e3fd5e40c,2019-07-21,John Doe,Dining,154.53,USD,154.53,0.0,Restaurant meal
+6883e532-94db-49c1-8c4a-7a50870ad025,2019-07-18,John Doe,Groceries,81.99,USD,81.99,0.0,Weekly groceries
+17ece7e1-44a8-41e9-8267-5758dbf6c2d4,2019-07-08,John Doe,Entertainment,102.66,USD,102.66,0.0,Concert tickets
+dbf99b51-0753-46d6-ac60-68a9a0d5b167,2019-07-12,John Doe,Entertainment,151.68,USD,151.68,0.0,Movie tickets
+af50090a-71c0-4d6c-8c28-9ac2a950b3de,2019-07-12,John Doe,Travel,106.22,USD,106.22,0.0,Taxi ride
+c29cd3ac-2740-4b30-a010-8608597b4eb1,2019-07-05,John Doe,Dining,184.61,USD,184.61,0.0,Takeaway order
+14be0c85-318d-4a9c-b12a-a79a154171fb,2019-08-01,John Doe,Income,2103.52,USD,0.0,2103.52,
+ae56bc80-deec-4a8f-9cc4-aa8df7190dbf,2019-08-01,John Doe,Rent,704.52,USD,704.52,0.0,
+73dbbe8f-8b7d-4411-9cf7-c35f462c0f94,2019-08-02,John Doe,Utilities,265.66,USD,265.66,0.0,
+4c3bd95b-cb57-4b61-b01b-f860e6ffb40a,2019-08-28,John Doe,Shopping,75.6,USD,75.6,0.0,Electronics store
+0dd27063-a42d-41e9-8118-1243b72a40ba,2019-08-28,John Doe,Travel,121.5,USD,121.5,0.0,Flight ticket
+e06e43bd-bf15-47ea-a4c6-442006158532,2019-08-10,John Doe,Entertainment,131.21,USD,131.21,0.0,Movie tickets
+ce190daa-27b7-4641-8a07-77e9b7de6e06,2019-08-18,John Doe,Travel,124.95,USD,124.95,0.0,Hotel booking
+ddbf2c75-3aff-4306-a225-8dcaf1c8133e,2019-08-07,John Doe,Shopping,102.67,USD,102.67,0.0,Online purchase
+8b62fb78-f04b-4357-92ab-f7216aef8aa3,2019-08-16,John Doe,Shopping,111.39,USD,111.39,0.0,Clothing store
+e181dcb2-7639-4fa4-9a88-3f02c7d01c2b,2019-08-05,John Doe,Dining,92.06,USD,92.06,0.0,Takeaway order
+95835c27-c91e-4d7e-9ec0-bfef5fb4134d,2019-08-22,John Doe,Travel,182.73,USD,182.73,0.0,Taxi ride
+fb2fb72f-58cb-4a53-8a55-594e31007083,2019-09-01,John Doe,Income,1340.68,USD,0.0,1340.68,
+8854d6ec-20bc-49fd-b941-abde6a741eeb,2019-09-01,John Doe,Rent,420.02,USD,420.02,0.0,
+00eb4467-608e-4088-8702-b966ea95a911,2019-09-02,John Doe,Utilities,243.0,USD,243.0,0.0,
+6fd502a9-ff92-4a50-9809-eb8e3ee17479,2019-09-06,John Doe,Shopping,93.63,USD,93.63,0.0,Electronics store
+f8485ef7-7a4a-4335-b31b-692f5ff66b51,2019-09-27,John Doe,Entertainment,77.25,USD,77.25,0.0,Streaming subscription
+4516cb91-3787-4556-b972-2ddf4255b3da,2019-09-07,John Doe,Travel,166.61,USD,166.61,0.0,Flight ticket
+f1427ead-045d-4444-af1f-8191bf76c2af,2019-09-23,John Doe,Travel,130.6,USD,130.6,0.0,Flight ticket
+7eca8b2c-413c-42b1-b4fe-965087caf98f,2019-09-27,John Doe,Shopping,87.69,USD,87.69,0.0,Electronics store
+9b56800e-8c40-4d5e-bb93-590342d6095f,2019-10-01,John Doe,Income,1734.41,USD,0.0,1734.41,
+20b96d44-b87e-44fb-899a-1a0785443eb7,2019-10-01,John Doe,Rent,448.17,USD,448.17,0.0,
+1d36f722-a69d-4745-9bce-8a472dfb49b7,2019-10-02,John Doe,Utilities,243.72,USD,243.72,0.0,
+0eaf7122-7997-48ab-b852-2430e5970683,2019-10-13,John Doe,Dining,53.64,USD,53.64,0.0,Restaurant meal
+5bf0577e-e8c9-4f53-a25d-90ac50a77cb8,2019-10-03,John Doe,Shopping,108.68,USD,108.68,0.0,Online purchase
+9e62bed4-2220-4164-8dd5-7405c9ffb8c3,2019-10-19,John Doe,Shopping,157.72,USD,157.72,0.0,Online purchase
+44cd9076-9ae6-4007-be51-635cdb1314bc,2019-10-03,John Doe,Groceries,54.82,USD,54.82,0.0,Weekly groceries
+26931add-0d6a-43df-a377-4c6b0e4c1167,2019-10-04,John Doe,Dining,95.17,USD,95.17,0.0,Takeaway order
+55e2bd91-9511-448f-8264-bdc12d5254f3,2019-10-26,John Doe,Entertainment,153.32,USD,153.32,0.0,Movie tickets
+f711390a-9931-4159-b0c7-aaf0fa2b5dac,2019-10-16,John Doe,Shopping,103.78,USD,103.78,0.0,Clothing store
+123ac81d-eb18-4b4b-8fd0-bedf33964d4d,2019-10-19,John Doe,Groceries,157.72,USD,157.72,0.0,Grocery store purchase
+b74db3f0-9256-46a3-b608-42d6452ab8ec,2019-11-01,John Doe,Income,2285.07,USD,0.0,2285.07,
+b988bbcf-e09c-4f95-8cf3-cc19a3fac386,2019-11-01,John Doe,Rent,679.84,USD,679.84,0.0,
+e8f741cc-cbf2-42a1-a679-5051e8db67a7,2019-11-02,John Doe,Utilities,268.79,USD,268.79,0.0,
+b2b7f403-c4b9-4171-8eb8-83038cd5b0b4,2019-11-19,John Doe,Groceries,156.6,USD,156.6,0.0,Grocery store purchase
+2c2792d9-b299-4969-8493-783237d2af3c,2019-11-24,John Doe,Shopping,179.55,USD,179.55,0.0,Electronics store
+b65628cc-f48e-4d24-a5cb-d6627063cc51,2019-11-03,John Doe,Dining,173.3,USD,173.3,0.0,Cafe purchase
+aced5a30-4422-4a94-8e5c-f03f837e797f,2019-11-10,John Doe,Entertainment,86.5,USD,86.5,0.0,Concert tickets
+61c5edf0-69b7-4078-b78e-d0a48b9cdcba,2019-11-04,John Doe,Shopping,155.07,USD,155.07,0.0,Online purchase
+e581a4cc-d013-40ba-b27e-33194bbba2eb,2019-11-26,John Doe,Groceries,95.69,USD,95.69,0.0,Supermarket shopping
+2a923b18-9618-450d-b17b-691ded9a9ee1,2019-11-22,John Doe,Entertainment,119.82,USD,119.82,0.0,Concert tickets
+6d6c993d-8343-45c6-a37f-3e77f6490a87,2019-11-19,John Doe,Travel,162.18,USD,162.18,0.0,Hotel booking
+5b63b7c6-3c5c-4e47-af7f-c301379eb4ab,2019-12-01,John Doe,Income,1505.0,USD,0.0,1505.0,
+9223c0c6-f1a5-4eca-a23f-8688f0c77c6d,2019-12-01,John Doe,Rent,365.4,USD,365.4,0.0,
+28c1c499-e989-4694-b97e-730bc74b6b1a,2019-12-02,John Doe,Utilities,254.38,USD,254.38,0.0,
+0e9e4dec-a2b7-4849-a271-6395f8e9d929,2019-12-06,John Doe,Travel,94.73,USD,94.73,0.0,Hotel booking
+5d932c7d-a80e-40a4-aa8c-3708a62cfe34,2019-12-27,John Doe,Dining,168.42,USD,168.42,0.0,Cafe purchase
+57d9eef1-47ed-4637-ad01-667ad3364fd3,2019-12-16,John Doe,Shopping,117.05,USD,117.05,0.0,Clothing store
+a2e5de27-7585-4c40-b68b-0955b02ac9e3,2019-12-17,John Doe,Entertainment,107.23,USD,107.23,0.0,Concert tickets
+dbb70cd9-a2fd-498b-94c3-88da97731c0d,2019-12-18,John Doe,Shopping,68.03,USD,68.03,0.0,Electronics store
+dbd1b5f8-8205-4fd6-b000-ea04784ce3c8,2019-12-12,John Doe,Entertainment,192.94,USD,192.94,0.0,Streaming subscription
+055fe1b9-8fff-478b-be65-8fcb14165d3d,2020-01-01,John Doe,Income,1741.17,USD,0.0,1741.17,
+82054a43-04c3-4735-bb54-d87539f37429,2020-01-01,John Doe,Rent,639.8,USD,639.8,0.0,
+7ca3f6cf-66b5-4e6e-927f-c50720ac1a85,2020-01-02,John Doe,Utilities,265.36,USD,265.36,0.0,
+7097f7c2-0705-4a66-ac25-210a370bdf12,2020-01-14,John Doe,Groceries,127.53,USD,127.53,0.0,Supermarket shopping
+a9ad213b-abb1-41b9-904b-943217b7455a,2020-01-11,John Doe,Entertainment,124.86,USD,124.86,0.0,Movie tickets
+360acefb-d73b-4d5f-be79-00d86f15449f,2020-01-26,John Doe,Entertainment,90.96,USD,90.96,0.0,Concert tickets
+f6248ded-1c4a-4917-a00c-c315006280d8,2020-01-20,John Doe,Travel,104.14,USD,104.14,0.0,Hotel booking
+629fa1a2-fccd-4cd9-ac0b-128636a5ba0b,2020-01-21,John Doe,Shopping,177.79,USD,177.79,0.0,Electronics store
+d8240777-e5e1-492e-9c67-c6799db93ee4,2020-01-17,John Doe,Entertainment,52.44,USD,52.44,0.0,Movie tickets
+43d5bd45-38bc-4156-8920-407f9416bea0,2020-02-01,John Doe,Income,1975.71,USD,0.0,1975.71,
+097ffec9-2ead-4fa0-9912-07dabbd318b1,2020-02-01,John Doe,Rent,425.49,USD,425.49,0.0,
+977e2ac0-c6a4-4309-8344-83c70d76e241,2020-02-02,John Doe,Utilities,240.53,USD,240.53,0.0,
+42d252df-6188-4b7c-bd1c-5ba6c617b264,2020-02-13,John Doe,Shopping,66.57,USD,66.57,0.0,Clothing store
+6ea84ade-932e-47f2-95d3-4e1b959acc5b,2020-02-04,John Doe,Entertainment,70.0,USD,70.0,0.0,Movie tickets
+27f60d10-fd33-4acf-9ccc-02ec1e1c1480,2020-02-07,John Doe,Groceries,140.22,USD,140.22,0.0,Supermarket shopping
+92921f5a-5a37-4664-be6e-8b53168da2a1,2020-02-26,John Doe,Shopping,136.16,USD,136.16,0.0,Online purchase
+969d3fd7-4477-4cc2-ac44-73bfeffeb81c,2020-02-19,John Doe,Groceries,83.63,USD,83.63,0.0,Supermarket shopping
+dbd3b441-97b4-40cb-9420-d9ec9d833892,2020-02-10,John Doe,Entertainment,107.13,USD,107.13,0.0,Streaming subscription
+bfbdef9c-0eed-4d89-92d4-91e44a1c1075,2020-02-06,John Doe,Entertainment,129.71,USD,129.71,0.0,Movie tickets
+7037b5d0-0262-4ac2-b06e-2b3d386ca36c,2020-02-08,John Doe,Entertainment,144.86,USD,144.86,0.0,Concert tickets
+b9220d41-25c7-4c0b-b495-0a4dae0ffc0d,2020-02-21,John Doe,Groceries,138.85,USD,138.85,0.0,Weekly groceries
+b3a4bcec-5512-4b61-b001-306e21c1eb13,2020-02-27,John Doe,Entertainment,112.95,USD,112.95,0.0,Concert tickets
+d80d1471-6657-4945-bac7-5d91bb4d44b3,2020-03-01,John Doe,Income,1468.68,USD,0.0,1468.68,
+25fe31a5-1fea-45cc-9ed4-184ebd448c28,2020-03-01,John Doe,Rent,332.35,USD,332.35,0.0,
+ae002a51-e98b-415c-8c6e-0382f8eb3f7c,2020-03-02,John Doe,Utilities,111.23,USD,111.23,0.0,
+2a89e00f-4e3e-4ff5-b93c-f8ce9a8a4b27,2020-03-19,John Doe,Entertainment,155.62,USD,155.62,0.0,Streaming subscription
+cd3aea24-8cd2-4ec0-a4f6-09472c1885aa,2020-03-10,John Doe,Travel,124.46,USD,124.46,0.0,Flight ticket
+52615759-9719-49f4-9945-b5a040190ad4,2020-03-18,John Doe,Entertainment,138.85,USD,138.85,0.0,Streaming subscription
+e01858fa-b61d-48cd-b620-9260d5395f41,2020-03-21,John Doe,Travel,102.83,USD,102.83,0.0,Taxi ride
+a8b619fa-4161-4602-8bcd-93d42784b9cd,2020-03-23,John Doe,Travel,194.24,USD,194.24,0.0,Flight ticket
+1be8aa0c-fd23-493a-813d-56bf82fa85e5,2020-03-06,John Doe,Entertainment,175.58,USD,175.58,0.0,Concert tickets
+f465d84e-be74-4086-8c6f-162700231010,2020-04-01,John Doe,Income,2330.23,USD,0.0,2330.23,
+4f87c449-e72b-43ea-97c9-d4f75e911a04,2020-04-01,John Doe,Rent,752.52,USD,752.52,0.0,
+88d07da4-9a5a-4d92-896d-1e72f0f28ccd,2020-04-02,John Doe,Utilities,272.06,USD,272.06,0.0,
+1c58e2c8-3502-4ab7-85e0-4bfae098c74a,2020-04-14,John Doe,Shopping,114.43,USD,114.43,0.0,Electronics store
+9d2a5bf4-8632-481f-8c43-e5b73edda1a9,2020-04-04,John Doe,Dining,83.93,USD,83.93,0.0,Cafe purchase
+10ad6b7b-f6e2-4ca8-ab7f-a835ce82237e,2020-04-19,John Doe,Shopping,87.69,USD,87.69,0.0,Clothing store
+769d20f7-fa98-47fc-b6bc-4704cf7c49b3,2020-04-14,John Doe,Groceries,187.55,USD,187.55,0.0,Weekly groceries
+34205d9c-f758-410d-906c-d7389b40e262,2020-04-15,John Doe,Groceries,85.88,USD,85.88,0.0,Supermarket shopping
+415373c0-f7f2-4ece-bcdc-3e045172c3ea,2020-04-14,John Doe,Groceries,60.81,USD,60.81,0.0,Supermarket shopping
+de9f071d-32ba-4ba5-95c4-2eb5c17755c8,2020-04-21,John Doe,Dining,170.05,USD,170.05,0.0,Cafe purchase
+202ed6dc-ba32-4ddf-bb6b-d55802cdce36,2020-04-04,John Doe,Travel,172.49,USD,172.49,0.0,Hotel booking
+f7c979c9-3a08-4cd4-91fc-f2f6e9a6c940,2020-04-19,John Doe,Dining,130.98,USD,130.98,0.0,Restaurant meal
+0f0185a5-c30b-4b38-bb97-51eb3b8ea439,2020-05-01,John Doe,Income,2134.99,USD,0.0,2134.99,
+a5110fb8-72c9-4c93-abc8-62cdf6a6aa51,2020-05-01,John Doe,Rent,736.36,USD,736.36,0.0,
+be063bea-68f2-44f4-aeff-022be77d6744,2020-05-02,John Doe,Utilities,267.39,USD,267.39,0.0,
+90e52794-dfaf-4476-9374-b2f1729d6148,2020-05-12,John Doe,Entertainment,92.55,USD,92.55,0.0,Movie tickets
+7bff3b42-5591-4ca1-a703-8785a76c8f27,2020-05-15,John Doe,Travel,70.48,USD,70.48,0.0,Hotel booking
+0627ff32-1f8f-4709-a435-e84964cee9c8,2020-05-07,John Doe,Shopping,152.87,USD,152.87,0.0,Online purchase
+8a66f245-dc97-4f3c-80a7-f25f89a496df,2020-05-07,John Doe,Dining,175.18,USD,175.18,0.0,Cafe purchase
+9e049299-ad94-4fd4-828b-cae28f4d8c86,2020-05-24,John Doe,Shopping,74.17,USD,74.17,0.0,Electronics store
+7838b12d-d318-4899-8001-eeb8e0138070,2020-05-22,John Doe,Groceries,150.9,USD,150.9,0.0,Supermarket shopping
+8b1ff827-f95b-4bfd-a6de-c848c81d203f,2020-05-14,John Doe,Dining,77.94,USD,77.94,0.0,Restaurant meal
+37b840da-5598-49de-a454-2dc96e328bea,2020-05-05,John Doe,Groceries,91.26,USD,91.26,0.0,Supermarket shopping
+dbc9418a-a196-4379-8106-b3fd6bf4bf46,2020-05-25,John Doe,Shopping,51.8,USD,51.8,0.0,Online purchase
+3a7ca5bb-52ec-4d33-935d-fdf07a639e9a,2020-06-01,John Doe,Income,1782.97,USD,0.0,1782.97,
+f0c18d65-60d7-4c33-943e-239be4086c45,2020-06-01,John Doe,Rent,740.15,USD,740.15,0.0,
+9c2ca46e-de2b-419b-9768-454619f4cc67,2020-06-02,John Doe,Utilities,119.46,USD,119.46,0.0,
+da61c37d-bc88-474a-811e-02f48547ea3d,2020-06-09,John Doe,Dining,112.84,USD,112.84,0.0,Takeaway order
+e0f4aa47-7b00-49cd-a2e1-45946b0e2713,2020-06-16,John Doe,Entertainment,136.58,USD,136.58,0.0,Streaming subscription
+19eacb30-e194-43bd-acf3-3eefcf6f0be1,2020-06-13,John Doe,Travel,141.59,USD,141.59,0.0,Taxi ride
+698b0466-f9b0-4d4c-9566-cf9991618144,2020-06-22,John Doe,Dining,183.78,USD,183.78,0.0,Restaurant meal
+c2ba715f-8725-4b69-956d-c539958963b2,2020-06-04,John Doe,Entertainment,92.92,USD,92.92,0.0,Movie tickets
+7835acaa-f609-46ca-a062-4c68203a84bd,2020-06-16,John Doe,Entertainment,93.56,USD,93.56,0.0,Streaming subscription
+52284127-d9be-4d40-90e8-3c4e58866af1,2020-07-01,John Doe,Income,2132.05,USD,0.0,2132.05,
+403b06b3-1ab9-4442-a6f6-8e62a0f2d442,2020-07-01,John Doe,Rent,732.51,USD,732.51,0.0,
+60c33b75-d36d-41c1-801e-37c07f9608f0,2020-07-02,John Doe,Utilities,297.69,USD,297.69,0.0,
+c1ab6e17-e1ac-4604-aed1-435a96eea6e6,2020-07-21,John Doe,Groceries,106.13,USD,106.13,0.0,Grocery store purchase
+8ce22d6d-ce27-4c31-93c2-0a2f055085dd,2020-07-25,John Doe,Groceries,188.09,USD,188.09,0.0,Supermarket shopping
+f0df40ec-f0ab-4f10-9a9b-14ded47e35e2,2020-07-26,John Doe,Dining,92.37,USD,92.37,0.0,Restaurant meal
+b8845387-087e-47cf-9385-0433dfb315b9,2020-07-14,John Doe,Travel,193.3,USD,193.3,0.0,Taxi ride
+0e77f132-2d77-4738-80f7-c0380ebf77e2,2020-07-24,John Doe,Dining,84.21,USD,84.21,0.0,Cafe purchase
+89590c5d-66d9-41a0-a56a-6bd0cb840fa8,2020-07-05,John Doe,Groceries,75.69,USD,75.69,0.0,Weekly groceries
+7c71c68a-3caa-4b83-87c5-04a82282e40a,2020-07-23,John Doe,Travel,168.24,USD,168.24,0.0,Taxi ride
+38633a07-8903-4afa-b2ab-3a463509d7ec,2020-08-01,John Doe,Income,1515.77,USD,0.0,1515.77,
+b8c8a987-5d16-4951-b50b-53e945545f10,2020-08-01,John Doe,Rent,657.85,USD,657.85,0.0,
+06753358-3831-4202-be66-d710115a09e3,2020-08-02,John Doe,Utilities,109.26,USD,109.26,0.0,
+bc7e332d-3662-4826-8d46-50721d6f8a45,2020-08-26,John Doe,Dining,141.74,USD,141.74,0.0,Takeaway order
+2ef4ac6b-69f2-4f40-a5d6-33537f6817c4,2020-08-13,John Doe,Groceries,66.87,USD,66.87,0.0,Supermarket shopping
+d5741595-1098-48b8-a0d7-d265fb464c9e,2020-08-24,John Doe,Entertainment,65.48,USD,65.48,0.0,Streaming subscription
+c864a43a-ff51-4e12-8c3b-4d32f936341e,2020-08-07,John Doe,Travel,168.5,USD,168.5,0.0,Hotel booking
+d5dbbf2d-9f8e-4578-a8df-a5694e4af225,2020-08-25,John Doe,Dining,168.27,USD,168.27,0.0,Restaurant meal
+bddb437c-e41c-4329-932d-53746d9f4087,2020-09-01,John Doe,Income,2009.9,USD,0.0,2009.9,
+d52ca9bb-a0d9-4e16-bd16-a5e3e2acec39,2020-09-01,John Doe,Rent,535.97,USD,535.97,0.0,
+9f1b63d2-b48c-41cb-afdb-dad95e57d45f,2020-09-02,John Doe,Utilities,113.55,USD,113.55,0.0,
+a93461b0-f1e9-4f7d-a7fe-bbab3703f388,2020-09-15,John Doe,Groceries,199.89,USD,199.89,0.0,Weekly groceries
+e8f1f850-e055-4082-adbc-30234f4d720e,2020-09-17,John Doe,Shopping,130.8,USD,130.8,0.0,Clothing store
+310ed03d-83c3-4769-b28e-6fe94ed67591,2020-09-09,John Doe,Entertainment,110.51,USD,110.51,0.0,Streaming subscription
+9d6824d6-a175-4840-9d74-9c38c3660481,2020-09-11,John Doe,Groceries,135.54,USD,135.54,0.0,Supermarket shopping
+4cf3d09a-0b60-485d-be63-91b995a53428,2020-09-10,John Doe,Travel,110.23,USD,110.23,0.0,Flight ticket
+3d09a678-7ed3-454f-b740-38ba8fa2b6a0,2020-09-04,John Doe,Travel,86.38,USD,86.38,0.0,Flight ticket
+66425b4f-e392-421c-b34a-f3d9e5ff4041,2020-09-09,John Doe,Travel,64.65,USD,64.65,0.0,Taxi ride
+905dbcd4-ba18-4604-bd7e-bc1e8d5c934a,2020-09-25,John Doe,Shopping,64.48,USD,64.48,0.0,Electronics store
+37fbf465-d03f-4300-a47d-27bbc054967f,2020-09-26,John Doe,Entertainment,142.85,USD,142.85,0.0,Streaming subscription
+1a74a763-eb3f-4c33-aa9d-f9eea9a7609c,2020-09-14,John Doe,Travel,132.33,USD,132.33,0.0,Hotel booking
+9de5bedb-5261-46c7-94ff-4b87b31dfd87,2020-10-01,John Doe,Income,2079.23,USD,0.0,2079.23,
+54cf8327-dc8e-4a04-8baf-27d9300344b3,2020-10-01,John Doe,Rent,487.54,USD,487.54,0.0,
+71ec0725-f7e4-4be8-8ea5-83a167b95e4f,2020-10-02,John Doe,Utilities,288.72,USD,288.72,0.0,
+34c25747-390a-4437-a7ca-4eca7b7048d6,2020-10-06,John Doe,Travel,161.71,USD,161.71,0.0,Hotel booking
+aad79311-da85-4d6f-b5a1-3edffb8331ff,2020-10-16,John Doe,Dining,81.08,USD,81.08,0.0,Restaurant meal
+53faa235-002b-4b85-9123-e7bce8dc5b81,2020-10-06,John Doe,Groceries,92.18,USD,92.18,0.0,Weekly groceries
+062e0d44-1231-4c30-a15b-bbcc883f2611,2020-10-11,John Doe,Travel,128.45,USD,128.45,0.0,Hotel booking
+1a91e362-c31b-4469-84fe-ef56eaeb3dc7,2020-10-10,John Doe,Travel,58.48,USD,58.48,0.0,Flight ticket
+6f014430-5152-48ee-9051-d9c10fe73d04,2020-10-14,John Doe,Travel,67.94,USD,67.94,0.0,Hotel booking
+168040ec-6f2a-4a98-b8db-57345905b4e0,2020-10-16,John Doe,Travel,86.31,USD,86.31,0.0,Hotel booking
+be59d9d3-6396-4252-8e1f-5a1d24895329,2020-10-12,John Doe,Dining,148.39,USD,148.39,0.0,Restaurant meal
+cf4aedb2-0724-4690-acd3-7f3a31caf70b,2020-10-13,John Doe,Travel,143.46,USD,143.46,0.0,Flight ticket
+405282af-b89a-45f4-b6e5-6a927161108f,2020-10-26,John Doe,Shopping,145.95,USD,145.95,0.0,Clothing store
+8878430d-4b4a-444d-8a0f-f9ffa13f85fe,2020-11-01,John Doe,Income,2078.76,USD,0.0,2078.76,
+38a621be-b0ad-46a1-88f0-4304e0220a44,2020-11-01,John Doe,Rent,631.56,USD,631.56,0.0,
+bdbb454e-199c-4718-87cc-61ba385edfc0,2020-11-02,John Doe,Utilities,214.05,USD,214.05,0.0,
+e1423a7b-2b82-4c82-ab5f-d41ca57c0562,2020-11-08,John Doe,Entertainment,189.6,USD,189.6,0.0,Streaming subscription
+eee72858-5c99-421c-a36b-3df6280c8fb9,2020-11-26,John Doe,Entertainment,159.39,USD,159.39,0.0,Concert tickets
+c4b8e271-c747-4cc0-843e-579516c3640c,2020-11-07,John Doe,Dining,155.29,USD,155.29,0.0,Cafe purchase
+44c09973-1288-465e-b712-887e1dedf6e2,2020-11-03,John Doe,Travel,66.45,USD,66.45,0.0,Hotel booking
+ed73f995-d272-42d9-9cc4-8eccbb6858b9,2020-11-23,John Doe,Travel,76.96,USD,76.96,0.0,Flight ticket
+a228776c-9df6-4864-a409-c5d38369d150,2020-11-10,John Doe,Travel,108.19,USD,108.19,0.0,Hotel booking
+87894e0c-a24f-498c-ab17-1fa2a3f034c7,2020-11-28,John Doe,Shopping,164.97,USD,164.97,0.0,Clothing store
+6d492c11-0122-4d39-b03d-460f609f71a0,2020-11-19,John Doe,Shopping,123.32,USD,123.32,0.0,Online purchase
+f6085624-7a82-49a0-a1bd-da301355cda5,2020-12-01,John Doe,Income,2164.13,USD,0.0,2164.13,
+f6a47fb4-32d0-47bd-9fd2-362f286dd1ad,2020-12-01,John Doe,Rent,406.88,USD,406.88,0.0,
+f5a96173-6cf6-4c62-9a3a-101501682bc9,2020-12-02,John Doe,Utilities,173.88,USD,173.88,0.0,
+c0db0d1a-6a37-445a-a72a-67f42c30089b,2020-12-28,John Doe,Travel,192.25,USD,192.25,0.0,Flight ticket
+a3332fa6-fb40-44e2-ba07-25f243e12add,2020-12-05,John Doe,Groceries,164.46,USD,164.46,0.0,Weekly groceries
+6435666c-b913-4ff6-bde0-b8a13dc286a0,2020-12-14,John Doe,Groceries,166.85,USD,166.85,0.0,Supermarket shopping
+4030b3cb-49ee-41dc-9157-d0d4c996dd97,2020-12-19,John Doe,Groceries,154.21,USD,154.21,0.0,Weekly groceries
+a8616c20-11d3-429a-9ab8-0cafffc411f9,2020-12-28,John Doe,Shopping,111.24,USD,111.24,0.0,Electronics store
+8c87b11f-1c61-4e00-816a-427b8c6a95db,2020-12-05,John Doe,Travel,106.9,USD,106.9,0.0,Flight ticket
+93f67cf5-0198-4bcd-afe2-d033075dddc0,2020-12-04,John Doe,Travel,196.39,USD,196.39,0.0,Flight ticket
+fb75ef60-10c9-4a78-b29d-fe415bad51f5,2020-12-25,John Doe,Dining,68.71,USD,68.71,0.0,Takeaway order
+7083edcc-89e3-4648-8199-5139feac3003,2020-12-25,John Doe,Entertainment,81.11,USD,81.11,0.0,Streaming subscription
+4f4769ee-8b7f-4690-9018-b1f68f7d4086,2020-12-11,John Doe,Dining,144.51,USD,144.51,0.0,Restaurant meal
+5d255d66-9994-4bc0-8e01-eb5de890260b,2021-01-01,John Doe,Income,1640.44,USD,0.0,1640.44,
+d8ab4327-ee06-4570-9bc9-7ad9207ac23b,2021-01-01,John Doe,Rent,454.77,USD,454.77,0.0,
+be94ba26-e418-439a-b040-122d043a6c44,2021-01-02,John Doe,Utilities,225.73,USD,225.73,0.0,
+4948c121-18a8-463c-a777-dd6746dbe08c,2021-01-03,John Doe,Shopping,59.54,USD,59.54,0.0,Electronics store
+ce751072-e08c-4a0f-8af3-68857fef3f98,2021-01-04,John Doe,Entertainment,52.08,USD,52.08,0.0,Movie tickets
+4991195b-e7a9-4c5f-80d4-43e31f76027a,2021-01-07,John Doe,Dining,151.1,USD,151.1,0.0,Restaurant meal
+aafcacd8-171e-4e24-bfd2-70018b98409f,2021-01-08,John Doe,Dining,62.18,USD,62.18,0.0,Restaurant meal
+fcd58ac3-a0f3-49f4-828d-20bf4ef67447,2021-01-15,John Doe,Shopping,77.09,USD,77.09,0.0,Clothing store
+adc630df-7fa1-4bf0-88dc-9f30da17b861,2021-01-10,John Doe,Entertainment,179.39,USD,179.39,0.0,Movie tickets
+fa815171-7aac-4c53-bb85-b683f0887e85,2021-01-15,John Doe,Travel,148.02,USD,148.02,0.0,Taxi ride
+d9ac1dd8-9302-4778-ad4f-c89af0d887b6,2021-01-10,John Doe,Entertainment,81.41,USD,81.41,0.0,Streaming subscription
+ff70e82c-9294-4b1d-8667-398749f32f46,2021-02-01,John Doe,Income,2238.93,USD,0.0,2238.93,
+4f623483-77dd-465f-8c88-de2d79d5f635,2021-02-01,John Doe,Rent,608.36,USD,608.36,0.0,
+549cfaac-8d03-405b-b331-745401094146,2021-02-02,John Doe,Utilities,290.25,USD,290.25,0.0,
+d0ec9c20-59b3-4830-809b-00e1e164152c,2021-02-23,John Doe,Shopping,152.28,USD,152.28,0.0,Online purchase
+699e033e-8e4a-4830-9682-8e89efcc997a,2021-02-16,John Doe,Dining,127.66,USD,127.66,0.0,Cafe purchase
+0cc4fb01-3eaa-4ed2-9438-066742a60161,2021-02-25,John Doe,Shopping,195.57,USD,195.57,0.0,Online purchase
+10443532-522f-435c-91ab-57134f5efb3c,2021-02-15,John Doe,Shopping,120.96,USD,120.96,0.0,Electronics store
+1aec6a51-ab76-44a3-ac42-002449d0245d,2021-02-27,John Doe,Dining,134.4,USD,134.4,0.0,Restaurant meal
+0744f777-dc23-4f3a-9344-53f7f62e4d9e,2021-02-16,John Doe,Shopping,135.49,USD,135.49,0.0,Clothing store
+0d8e6164-01cb-4572-a7f3-e934e16c68b0,2021-02-24,John Doe,Travel,52.1,USD,52.1,0.0,Flight ticket
+0dae8c62-9df0-4fa7-a7d3-b94a8607bb08,2021-02-14,John Doe,Entertainment,59.8,USD,59.8,0.0,Concert tickets
+f4084125-2827-4404-bf18-f1047a81dd94,2021-02-14,John Doe,Shopping,158.52,USD,158.52,0.0,Online purchase
+1c6e9b7f-8be3-4926-b20b-9eef7ee9c341,2021-03-01,John Doe,Income,2515.98,USD,0.0,2515.98,
+4f352f58-821c-4965-9108-866d234627c0,2021-03-01,John Doe,Rent,706.92,USD,706.92,0.0,
+b487dca1-969a-468c-9cfb-e6f3b381a444,2021-03-02,John Doe,Utilities,159.27,USD,159.27,0.0,
+01750f01-a53b-4dfb-8a1b-a11bbae021ee,2021-03-26,John Doe,Entertainment,170.97,USD,170.97,0.0,Concert tickets
+c1c9a314-ba96-4219-8a6d-b76e78b64d85,2021-03-19,John Doe,Dining,174.99,USD,174.99,0.0,Restaurant meal
+ed46b794-a94e-4142-b9a5-0a39f043c49c,2021-03-09,John Doe,Groceries,167.48,USD,167.48,0.0,Grocery store purchase
+a8200063-ccb6-4ed4-a3ae-3cf890a4bb08,2021-03-08,John Doe,Travel,184.04,USD,184.04,0.0,Flight ticket
+a957b734-c46a-466d-96af-e417d4f1a9e4,2021-03-28,John Doe,Dining,98.7,USD,98.7,0.0,Restaurant meal
+4fcff361-56be-460d-931a-a2eae16d9997,2021-03-13,John Doe,Shopping,50.86,USD,50.86,0.0,Online purchase
+d41f1112-ca0d-4507-a298-b39661f902ac,2021-03-21,John Doe,Groceries,149.02,USD,149.02,0.0,Grocery store purchase
+af52b3fa-8f8b-43b7-b0a4-7405223e47d7,2021-03-15,John Doe,Entertainment,122.9,USD,122.9,0.0,Streaming subscription
+eec70aa1-5c49-4607-8324-5dcf0d13c27a,2021-03-06,John Doe,Groceries,131.57,USD,131.57,0.0,Grocery store purchase
+bdff9af2-7d4c-4275-8551-8432cb9c93ec,2021-03-19,John Doe,Travel,170.53,USD,170.53,0.0,Hotel booking
+a5ab0271-0a1f-4145-97f5-8299280bf834,2021-04-01,John Doe,Income,2110.0,USD,0.0,2110.0,
+8203fc36-e1ae-4e30-9d3d-3ae031de0065,2021-04-01,John Doe,Rent,668.5,USD,668.5,0.0,
+39cb6cea-237d-45ff-8b3e-45df36a2f154,2021-04-02,John Doe,Utilities,123.78,USD,123.78,0.0,
+5fc0adeb-fb76-46e1-af33-d90444bddef1,2021-04-24,John Doe,Travel,86.73,USD,86.73,0.0,Flight ticket
+b25e2e64-94ac-4393-8bbe-07856d125227,2021-04-22,John Doe,Shopping,120.06,USD,120.06,0.0,Clothing store
+e315cc4e-f1db-4ac3-a955-7e5f631a8365,2021-04-03,John Doe,Travel,146.51,USD,146.51,0.0,Taxi ride
+f441aaa5-bdac-4935-bf7f-155993412f5f,2021-04-16,John Doe,Travel,160.19,USD,160.19,0.0,Taxi ride
+686ee8a4-dc42-44b4-8ecd-8f6f6b54cf8f,2021-04-05,John Doe,Dining,143.62,USD,143.62,0.0,Takeaway order
+5aed447c-87ee-4465-8dc2-869b584d0edb,2021-04-28,John Doe,Groceries,187.58,USD,187.58,0.0,Grocery store purchase
+857fdb17-16d8-4ba0-81fa-0d25b5064e64,2021-04-21,John Doe,Entertainment,155.28,USD,155.28,0.0,Streaming subscription
+02a62ec2-02c2-4338-93be-084c1e70c095,2021-04-12,John Doe,Dining,73.33,USD,73.33,0.0,Restaurant meal
+fbc200bf-af4d-4b5b-9380-bbe507262cca,2021-04-09,John Doe,Travel,52.6,USD,52.6,0.0,Hotel booking
+823b9f4b-e3c2-4a92-8c6a-23d09cc49392,2021-05-01,John Doe,Income,1982.81,USD,0.0,1982.81,
+8f81a244-83fd-46c1-b965-a81f6c6ef7c2,2021-05-01,John Doe,Rent,690.44,USD,690.44,0.0,
+c0b6a7cc-66c8-4b09-8097-6d3129771728,2021-05-02,John Doe,Utilities,210.66,USD,210.66,0.0,
+78b53c2b-c3fe-422e-b596-cc5bc7896b12,2021-05-10,John Doe,Shopping,70.2,USD,70.2,0.0,Online purchase
+18b68b2c-c531-4b45-ad2f-20762a687f4f,2021-05-21,John Doe,Shopping,110.94,USD,110.94,0.0,Electronics store
+eb2c5bb8-f248-48b1-9aeb-37f5157d7fc7,2021-05-21,John Doe,Shopping,199.36,USD,199.36,0.0,Clothing store
+2710ab5c-cb41-4ddf-aebc-ba5cc9b8a2b9,2021-05-27,John Doe,Groceries,188.92,USD,188.92,0.0,Grocery store purchase
+9707a848-1fc1-4ba5-af4c-238bc3f5457b,2021-05-05,John Doe,Groceries,61.87,USD,61.87,0.0,Grocery store purchase
+53374ccc-369b-4104-81ff-a469d9dd3245,2021-05-15,John Doe,Entertainment,102.99,USD,102.99,0.0,Movie tickets
+dc920efe-bdd1-4a53-981c-b585a28eb1e1,2021-05-16,John Doe,Groceries,167.17,USD,167.17,0.0,Supermarket shopping
+75452add-8229-4186-a1cd-76207bf410d2,2021-06-01,John Doe,Income,1735.89,USD,0.0,1735.89,
+02f01920-3cee-4967-a450-aec8fc2736ee,2021-06-01,John Doe,Rent,738.24,USD,738.24,0.0,
+5f4a1387-4f97-4677-a9c2-a3a73e1822c9,2021-06-02,John Doe,Utilities,246.51,USD,246.51,0.0,
+429a5bd8-29a2-4666-8d19-1c0e62409a75,2021-06-18,John Doe,Dining,179.23,USD,179.23,0.0,Cafe purchase
+51ec7059-293b-4972-9c4b-e00ae78a5b65,2021-06-17,John Doe,Entertainment,143.4,USD,143.4,0.0,Streaming subscription
+2b674fe0-f4f0-4f91-ac9c-90947ee00c14,2021-06-10,John Doe,Shopping,115.44,USD,115.44,0.0,Electronics store
+49627abe-75f9-491c-b4f9-5afa9ac38707,2021-06-27,John Doe,Dining,87.07,USD,87.07,0.0,Takeaway order
+c26cb6a1-8991-4628-ace3-8700d234e182,2021-06-28,John Doe,Entertainment,68.19,USD,68.19,0.0,Concert tickets
+7290be7d-ffc9-420e-8c3b-fe12c152797d,2021-07-01,John Doe,Income,2398.54,USD,0.0,2398.54,
+d3c0ca6a-84fb-4de6-93e9-1946e962cb46,2021-07-01,John Doe,Rent,634.08,USD,634.08,0.0,
+5d155488-a407-4819-bae0-034d6f350f86,2021-07-02,John Doe,Utilities,275.52,USD,275.52,0.0,
+21ab7b10-2226-486e-b7a1-fc6dcddffafb,2021-07-13,John Doe,Travel,163.57,USD,163.57,0.0,Flight ticket
+74cf5e38-4458-4342-8849-0d87323dfb48,2021-07-27,John Doe,Entertainment,139.31,USD,139.31,0.0,Movie tickets
+b3e83f87-3921-4c84-bee7-190efca1e18d,2021-07-09,John Doe,Dining,197.84,USD,197.84,0.0,Restaurant meal
+e7be8ab5-1bc4-497c-b3fa-cae09fa91561,2021-07-22,John Doe,Entertainment,63.15,USD,63.15,0.0,Concert tickets
+06509edc-d172-4102-957f-3c6ba59ee6b5,2021-07-18,John Doe,Shopping,138.58,USD,138.58,0.0,Clothing store
+84e90360-3362-4377-99c9-5fbd1bcb5de2,2021-07-24,John Doe,Dining,61.78,USD,61.78,0.0,Takeaway order
+d624c080-cb8a-4159-848d-84b2604ce87b,2021-07-19,John Doe,Travel,142.62,USD,142.62,0.0,Hotel booking
+1e9c06ff-4841-41c6-b9f9-51104461be48,2021-07-25,John Doe,Dining,199.91,USD,199.91,0.0,Takeaway order
+652e4896-1bda-4a22-b719-6a9a33eccb5d,2021-07-25,John Doe,Travel,164.13,USD,164.13,0.0,Hotel booking
+3623b98c-0804-4ff3-b3c3-eb6a969d276a,2021-08-01,John Doe,Income,1316.79,USD,0.0,1316.79,
+bd219c58-8726-42d5-a964-c529c197ede9,2021-08-01,John Doe,Rent,441.13,USD,441.13,0.0,
+68c254ac-772d-47d1-9b91-1796e35ad3cb,2021-08-02,John Doe,Utilities,213.88,USD,213.88,0.0,
+9a9912b4-168d-448d-9922-f5ab29998507,2021-08-12,John Doe,Dining,61.68,USD,61.68,0.0,Cafe purchase
+79d17bca-d339-43b5-b043-ee472d98cf32,2021-08-15,John Doe,Entertainment,91.49,USD,91.49,0.0,Concert tickets
+02cfc386-95f4-4ad5-8115-bb7fbd787355,2021-08-27,John Doe,Dining,90.07,USD,90.07,0.0,Takeaway order
+7d49a519-a3c6-4db2-ad5a-b606c26f8e0e,2021-08-20,John Doe,Entertainment,105.93,USD,105.93,0.0,Streaming subscription
+e8dbe736-a697-4e2b-b3b6-6e6c730b90bb,2021-08-07,John Doe,Entertainment,139.01,USD,139.01,0.0,Streaming subscription
+29b50965-a7c9-4f21-931e-3c6e5aff3f54,2021-08-05,John Doe,Entertainment,53.89,USD,53.89,0.0,Concert tickets
+f6912a12-7fa1-477f-8d45-7ae68066eb14,2021-09-01,John Doe,Income,1574.36,USD,0.0,1574.36,
+f37745b0-6eda-47b6-ba75-ecb2c240d6a6,2021-09-01,John Doe,Rent,382.37,USD,382.37,0.0,
+c2f7c466-65af-4b60-beef-8d0065b1513a,2021-09-02,John Doe,Utilities,243.23,USD,243.23,0.0,
+bed1da64-aba2-4224-b0d6-2f24454a135d,2021-09-21,John Doe,Groceries,190.87,USD,190.87,0.0,Grocery store purchase
+b2ab1aec-1295-47cb-a5c4-1693dab82b16,2021-09-12,John Doe,Dining,154.37,USD,154.37,0.0,Restaurant meal
+a0ec3cb7-de8e-450d-afc9-5d08605f87de,2021-09-14,John Doe,Shopping,59.55,USD,59.55,0.0,Online purchase
+660564b0-73f7-4a34-8a42-ac53d0c20b61,2021-09-26,John Doe,Travel,168.4,USD,168.4,0.0,Taxi ride
+9beb8429-f622-466d-8005-70b2931c50c8,2021-09-22,John Doe,Entertainment,69.31,USD,69.31,0.0,Concert tickets
+4265b1a3-1cbe-4069-83fa-0fe58ae484eb,2021-09-11,John Doe,Shopping,163.14,USD,163.14,0.0,Electronics store
+b8796461-1b84-4617-8bbc-e8a513eaa6a4,2021-10-01,John Doe,Income,2001.32,USD,0.0,2001.32,
+4bff8334-c7be-4f1e-9d59-b3fa5840ed96,2021-10-01,John Doe,Rent,310.07,USD,310.07,0.0,
+077fc97b-2d30-4c51-a0ef-72d9962e48bb,2021-10-02,John Doe,Utilities,293.56,USD,293.56,0.0,
+845ebfd7-34bf-4149-b72f-bcd67b975ebf,2021-10-28,John Doe,Dining,191.8,USD,191.8,0.0,Restaurant meal
+e315a302-d2e2-4b6c-baa6-7fc3026cf043,2021-10-12,John Doe,Shopping,65.64,USD,65.64,0.0,Clothing store
+9af54417-5014-445b-a132-b28d44a9fd90,2021-10-27,John Doe,Entertainment,56.52,USD,56.52,0.0,Movie tickets
+a512e6aa-7550-4177-b903-0a81c3da093e,2021-10-19,John Doe,Dining,163.06,USD,163.06,0.0,Takeaway order
+b16b30b0-6c2c-4504-80e1-387f6963d7d3,2021-10-05,John Doe,Entertainment,119.53,USD,119.53,0.0,Streaming subscription
+4f6409bd-4a80-4f3e-b8b4-4fc67d9dcf35,2021-10-27,John Doe,Dining,179.44,USD,179.44,0.0,Cafe purchase
+f4a11526-ad2f-44f4-993c-5000be752ad6,2021-10-03,John Doe,Travel,72.84,USD,72.84,0.0,Flight ticket
+a5f2af89-4e65-4df2-819a-c685491ef33e,2021-10-04,John Doe,Dining,111.22,USD,111.22,0.0,Restaurant meal
+946aee8f-323e-4916-9a3b-026c44cf00f4,2021-10-22,John Doe,Entertainment,184.12,USD,184.12,0.0,Concert tickets
+59cc59cb-67ad-4ce7-969a-71030d92730d,2021-10-24,John Doe,Dining,71.58,USD,71.58,0.0,Takeaway order
+56433e53-8ad3-427d-8927-81635d8ba8a2,2021-11-01,John Doe,Income,2121.52,USD,0.0,2121.52,
+1bd57979-aafa-46b2-941d-b0af3da9bfca,2021-11-01,John Doe,Rent,480.4,USD,480.4,0.0,
+cc5d9df4-1cf7-4353-87a3-3c220d2bd39c,2021-11-02,John Doe,Utilities,152.28,USD,152.28,0.0,
+4280393b-3a82-43ef-936e-e5c08152c1b7,2021-11-09,John Doe,Groceries,93.48,USD,93.48,0.0,Supermarket shopping
+0af7815b-4787-41b3-b800-2ea035eb8b75,2021-11-17,John Doe,Shopping,127.59,USD,127.59,0.0,Online purchase
+c7ec7447-16e7-4137-8a56-5e0f26631566,2021-11-13,John Doe,Dining,191.4,USD,191.4,0.0,Restaurant meal
+20b47c84-d070-4a3f-8895-213b03b2ea2a,2021-11-23,John Doe,Dining,87.84,USD,87.84,0.0,Restaurant meal
+76cdae00-0694-4498-a4a8-e3b78757afe9,2021-11-12,John Doe,Entertainment,127.3,USD,127.3,0.0,Streaming subscription
+80bbcfb8-7e69-43c2-a9de-f0eb0d58e19a,2021-11-19,John Doe,Dining,124.19,USD,124.19,0.0,Takeaway order
+7befa98c-6ff5-4dfc-be3f-30b6b4e846df,2021-11-25,John Doe,Dining,177.21,USD,177.21,0.0,Cafe purchase
+5d80791c-41d3-42d3-b0f1-26de3da82e6d,2021-11-06,John Doe,Travel,171.7,USD,171.7,0.0,Taxi ride
+c927786e-683a-4474-b244-716f2c8f6689,2021-11-15,John Doe,Entertainment,195.26,USD,195.26,0.0,Streaming subscription
+e34a23b5-38bb-4716-8e7f-f9c039130817,2021-12-01,John Doe,Income,1474.14,USD,0.0,1474.14,
+60eaf45a-2d55-48dd-9eab-fb9c800d2eee,2021-12-01,John Doe,Rent,625.64,USD,625.64,0.0,
+6261b4dd-7222-4b9f-8e00-16ebe7709b94,2021-12-02,John Doe,Utilities,173.79,USD,173.79,0.0,
+efe7a83d-816a-402c-8292-a532eb6a76d5,2021-12-04,John Doe,Travel,58.61,USD,58.61,0.0,Hotel booking
+833717bf-bb76-4ffe-ad30-930aaf91935c,2021-12-03,John Doe,Shopping,122.61,USD,122.61,0.0,Clothing store
+76696863-7635-48dd-986a-056a0aeb4902,2021-12-19,John Doe,Groceries,185.0,USD,185.0,0.0,Supermarket shopping
+cf2b347f-2861-4aeb-90b8-71ee537ea8e0,2021-12-07,John Doe,Entertainment,82.98,USD,82.98,0.0,Concert tickets
+99a79927-05b1-41b7-a670-ff798750db62,2021-12-04,John Doe,Travel,91.5,USD,91.5,0.0,Taxi ride
+8e7145a6-2a2f-4cea-83b8-dd9821252281,2022-01-01,John Doe,Income,2314.46,USD,0.0,2314.46,
+6c14d3be-ae47-43e9-8663-0663ba58596c,2022-01-01,John Doe,Rent,396.34,USD,396.34,0.0,
+84fa69f6-999b-44e8-90f1-32fae8fb88a4,2022-01-02,John Doe,Utilities,299.61,USD,299.61,0.0,
+33f1ab8a-0213-4495-a9ff-fd2bc5c3e2f4,2022-01-24,John Doe,Shopping,183.18,USD,183.18,0.0,Clothing store
+ae890466-06b7-47b7-8365-96ca8802ccbb,2022-01-15,John Doe,Entertainment,147.56,USD,147.56,0.0,Movie tickets
+7264bba7-5cf6-4eb9-81de-7c9550ff4b07,2022-01-09,John Doe,Entertainment,176.71,USD,176.71,0.0,Concert tickets
+9d5201cc-91e9-4f76-bef0-d1f1ea4e302a,2022-01-22,John Doe,Entertainment,117.99,USD,117.99,0.0,Streaming subscription
+119e32a4-5d6d-40b2-9e1e-fa86f5cff4dc,2022-01-19,John Doe,Groceries,188.21,USD,188.21,0.0,Weekly groceries
+e7ecdf5f-0b64-4563-94af-18b00ff5f00b,2022-01-26,John Doe,Groceries,53.16,USD,53.16,0.0,Weekly groceries
+326ccb3e-5f1c-427d-a873-3a05e7e8090d,2022-01-11,John Doe,Shopping,100.23,USD,100.23,0.0,Online purchase
+0584c52f-6c67-4aca-bea1-eab1d326cf20,2022-01-25,John Doe,Entertainment,92.22,USD,92.22,0.0,Concert tickets
+7f5e56d6-b8b0-4b6a-8016-1128a490857f,2022-01-22,John Doe,Shopping,170.41,USD,170.41,0.0,Online purchase
+972889f9-9eee-4387-8e14-13890597a20f,2022-01-21,John Doe,Shopping,178.43,USD,178.43,0.0,Electronics store
+da03ce62-5184-4953-aa66-5e63cc688249,2022-02-01,John Doe,Income,2310.49,USD,0.0,2310.49,
+c87b65c1-01cd-4732-ab26-e7dc33315992,2022-02-01,John Doe,Rent,736.39,USD,736.39,0.0,
+af929cdb-a1e3-4d7b-83f9-dd81055957a8,2022-02-02,John Doe,Utilities,118.01,USD,118.01,0.0,
+85c42d2c-5ba5-45c8-b46c-9f74868cc401,2022-02-26,John Doe,Travel,72.27,USD,72.27,0.0,Taxi ride
+c73652d9-1c11-4449-a4d4-fcdcef325ea1,2022-02-16,John Doe,Entertainment,191.6,USD,191.6,0.0,Movie tickets
+d550cd4d-0088-4ec7-9374-05882f03d9a8,2022-02-20,John Doe,Dining,109.25,USD,109.25,0.0,Restaurant meal
+605a8ca6-74bb-4c98-8a7f-90e168afcf2c,2022-02-17,John Doe,Dining,151.72,USD,151.72,0.0,Takeaway order
+f22214dd-30bd-4880-af2f-8c3f2c6d4aa8,2022-02-08,John Doe,Shopping,84.56,USD,84.56,0.0,Clothing store
+2b36e0ab-09b6-4509-b6cf-f98de60cba00,2022-02-15,John Doe,Dining,164.85,USD,164.85,0.0,Cafe purchase
+f5ba85be-9b4d-409f-922c-0fe22630486f,2022-02-04,John Doe,Entertainment,189.51,USD,189.51,0.0,Movie tickets
+19ed2b79-4c04-4e3f-829f-dfbd0cd92908,2022-02-15,John Doe,Shopping,122.31,USD,122.31,0.0,Clothing store
+522480db-43a9-478b-b59f-525547dd55fa,2022-02-17,John Doe,Travel,75.65,USD,75.65,0.0,Flight ticket
+3594a5b9-eca8-4e5e-bd64-6af9fe4fbb19,2022-02-07,John Doe,Entertainment,84.33,USD,84.33,0.0,Movie tickets
+71fb2888-a60c-4ad8-a6ac-8f7c8195b9aa,2022-03-01,John Doe,Income,2302.42,USD,0.0,2302.42,
+a965439a-9639-471d-a55e-66b1cf03ab7b,2022-03-01,John Doe,Rent,556.89,USD,556.89,0.0,
+8ef17c6a-8c56-465d-99c0-7fd5c3970213,2022-03-02,John Doe,Utilities,296.55,USD,296.55,0.0,
+37d45569-f6ff-4514-a837-621d199a7bb0,2022-03-24,John Doe,Shopping,110.15,USD,110.15,0.0,Clothing store
+074464ab-e9da-40e1-bb41-ff78f874fc01,2022-03-04,John Doe,Entertainment,135.81,USD,135.81,0.0,Concert tickets
+af5865de-4aa7-433d-9243-7a89b78149b2,2022-03-12,John Doe,Dining,190.94,USD,190.94,0.0,Restaurant meal
+d62ae8f4-8ffb-41c5-8959-e85229b337ec,2022-03-04,John Doe,Shopping,192.14,USD,192.14,0.0,Electronics store
+9e8189a4-3cae-4dd6-b8c5-a9f61762292d,2022-03-24,John Doe,Travel,51.91,USD,51.91,0.0,Hotel booking
+7757f260-bcc5-4ebf-ad94-8dea04d152d9,2022-03-23,John Doe,Travel,198.06,USD,198.06,0.0,Flight ticket
+f1a76493-5de5-4df2-82ea-732fd0b1dac4,2022-03-04,John Doe,Dining,174.73,USD,174.73,0.0,Restaurant meal
+b80364d7-b925-4710-b458-782f75ad7836,2022-03-10,John Doe,Dining,64.84,USD,64.84,0.0,Takeaway order
+49ba8519-505e-4238-9f0e-f7a0371c9b60,2022-03-10,John Doe,Travel,121.09,USD,121.09,0.0,Hotel booking
+54fe0665-e84a-47f1-bcb4-71fa8c70b33d,2022-04-01,John Doe,Income,1732.69,USD,0.0,1732.69,
+33c70c90-1830-4f82-a2ac-0c589b8c2c6e,2022-04-01,John Doe,Rent,549.23,USD,549.23,0.0,
+8fd11b48-7d03-4497-ad60-861324d05863,2022-04-02,John Doe,Utilities,137.95,USD,137.95,0.0,
+251a91f5-8568-4738-8b56-a5e06eacaaa8,2022-04-08,John Doe,Groceries,160.52,USD,160.52,0.0,Grocery store purchase
+e2ce7fd8-1cbd-4a7f-8c8f-b7b5a3ad69a5,2022-04-06,John Doe,Dining,116.47,USD,116.47,0.0,Cafe purchase
+b522cfc1-6ce0-4f89-ac81-69bf1d0eb8e0,2022-04-25,John Doe,Shopping,167.84,USD,167.84,0.0,Online purchase
+b4a8fcb2-43b7-430f-8876-290b816ef273,2022-04-25,John Doe,Dining,52.17,USD,52.17,0.0,Takeaway order
+eeed985d-2238-4ca4-aa25-cc6e0270a29a,2022-04-04,John Doe,Shopping,177.16,USD,177.16,0.0,Clothing store
+a9f1ee87-a504-4ce5-a8a5-19f88e5b83f5,2022-04-12,John Doe,Travel,71.39,USD,71.39,0.0,Hotel booking
+82995541-fa11-4572-8529-f4247688f724,2022-04-26,John Doe,Groceries,142.44,USD,142.44,0.0,Weekly groceries
+fb7e7d7b-f4b3-4fcd-a5cc-c541b8291101,2022-05-01,John Doe,Income,2205.85,USD,0.0,2205.85,
+de32eb7c-730c-40d3-8d43-addf13e9d831,2022-05-01,John Doe,Rent,570.19,USD,570.19,0.0,
+f2da387f-655e-42cf-9129-2c1e485757ac,2022-05-02,John Doe,Utilities,215.22,USD,215.22,0.0,
+e1b19931-2343-4ad6-9566-763ffd62a7ad,2022-05-28,John Doe,Shopping,106.97,USD,106.97,0.0,Clothing store
+49a6f8fa-a0bb-4663-a1e7-191a89e9e303,2022-05-22,John Doe,Groceries,117.52,USD,117.52,0.0,Supermarket shopping
+6c87c404-bc82-4afc-a15e-2e6e37b82926,2022-05-26,John Doe,Travel,105.89,USD,105.89,0.0,Taxi ride
+8b4b96e2-167b-451d-b8e1-583664c650b2,2022-05-17,John Doe,Travel,191.96,USD,191.96,0.0,Hotel booking
+2b30d7aa-710b-4cd5-a0d7-1447076ed233,2022-05-21,John Doe,Shopping,161.04,USD,161.04,0.0,Electronics store
+25ea200c-8bed-4040-a4f3-86126cec1e5e,2022-05-16,John Doe,Entertainment,153.18,USD,153.18,0.0,Concert tickets
+68f7cc21-75c4-45af-aa7b-65dd113ab686,2022-05-18,John Doe,Entertainment,136.58,USD,136.58,0.0,Streaming subscription
+2de6d543-1637-49ff-9667-71f920475dfc,2022-05-23,John Doe,Groceries,53.33,USD,53.33,0.0,Grocery store purchase
+93dd5196-99ff-4cb4-a30b-c5c7bc04e516,2022-05-27,John Doe,Shopping,193.44,USD,193.44,0.0,Clothing store
+c664f035-359a-4286-9065-768a63cf6175,2022-06-01,John Doe,Income,1721.21,USD,0.0,1721.21,
+65d6a341-1af9-40bb-908e-47f32c333f55,2022-06-01,John Doe,Rent,678.93,USD,678.93,0.0,
+c96cca5f-7e8d-4652-802b-1e9d8788137a,2022-06-02,John Doe,Utilities,239.8,USD,239.8,0.0,
+fde6f45f-0dc6-42db-8670-97b67cdbfc44,2022-06-12,John Doe,Groceries,68.43,USD,68.43,0.0,Weekly groceries
+122bb402-5758-40ce-83e1-45b59974c902,2022-06-25,John Doe,Travel,116.35,USD,116.35,0.0,Taxi ride
+a8f988a6-22a5-4b41-acd8-5a1ca8ac4038,2022-06-04,John Doe,Groceries,131.04,USD,131.04,0.0,Grocery store purchase
+5a6db103-7b65-45f8-af18-d7624ef50f89,2022-06-17,John Doe,Shopping,57.99,USD,57.99,0.0,Clothing store
+1c487b11-e9d0-46ca-8eb2-f86a35be9a43,2022-06-28,John Doe,Shopping,139.26,USD,139.26,0.0,Electronics store
+2c546c78-0084-43a5-a87f-c40a467b677f,2022-06-13,John Doe,Shopping,132.94,USD,132.94,0.0,Electronics store
+cd5dd9d4-750a-4653-98d8-ad61b3c4597d,2022-07-01,John Doe,Income,2518.37,USD,0.0,2518.37,
+e8b2065f-5c04-40ed-baa7-601ad556e604,2022-07-01,John Doe,Rent,596.99,USD,596.99,0.0,
+9ec4fcd4-46e3-4b8d-b6f7-4db396981fcf,2022-07-02,John Doe,Utilities,130.73,USD,130.73,0.0,
+e894dc43-689f-403c-a5f8-06f6ef4d4988,2022-07-06,John Doe,Entertainment,158.71,USD,158.71,0.0,Streaming subscription
+447b0232-034d-437b-b574-87b8fdce5ec4,2022-07-17,John Doe,Travel,106.88,USD,106.88,0.0,Taxi ride
+23f32e0f-569b-4d1c-99b7-c5646027eb22,2022-07-25,John Doe,Dining,121.46,USD,121.46,0.0,Restaurant meal
+0f06b4ea-6f5b-4282-96f8-07737b384860,2022-07-15,John Doe,Entertainment,194.33,USD,194.33,0.0,Concert tickets
+38d66935-ab14-42ee-8f87-8181933ba95a,2022-07-24,John Doe,Shopping,174.07,USD,174.07,0.0,Electronics store
+4ce601c2-aff9-401b-aa3a-e6f56f64aaee,2022-07-09,John Doe,Shopping,147.01,USD,147.01,0.0,Electronics store
+3faef4eb-da2d-4c6e-8762-c6ddd0f9cd1f,2022-07-14,John Doe,Entertainment,196.32,USD,196.32,0.0,Streaming subscription
+e3de5ecc-dd5b-4946-addf-c87fc924f9fe,2022-07-25,John Doe,Groceries,186.71,USD,186.71,0.0,Weekly groceries
+fd4c26f5-21a8-4c58-a370-a7333e3319f1,2022-07-12,John Doe,Entertainment,78.66,USD,78.66,0.0,Concert tickets
+24dc56fe-602f-4c5c-b4dd-795871856f6a,2022-07-07,John Doe,Shopping,197.56,USD,197.56,0.0,Online purchase
+d4c74bd0-ac90-4b35-8308-e81d58673d80,2022-08-01,John Doe,Income,2226.15,USD,0.0,2226.15,
+4c3942dd-a512-4de6-9733-162f6beb44c2,2022-08-01,John Doe,Rent,768.68,USD,768.68,0.0,
+ba229ba6-37d2-4c5a-a4b8-68ee2697aa4b,2022-08-02,John Doe,Utilities,267.7,USD,267.7,0.0,
+e3f54d51-04f8-4503-83f0-614c5c0d6e43,2022-08-26,John Doe,Dining,187.39,USD,187.39,0.0,Takeaway order
+0523a433-a80c-4e18-8ab2-c960bb02483e,2022-08-10,John Doe,Shopping,100.25,USD,100.25,0.0,Online purchase
+323fe5a6-7074-4e0d-9f42-ae47c06ff098,2022-08-26,John Doe,Shopping,144.15,USD,144.15,0.0,Electronics store
+d08f3920-8e55-40eb-ae22-c0d28a526660,2022-08-17,John Doe,Travel,149.64,USD,149.64,0.0,Flight ticket
+492b5e69-cd13-41e2-aadb-6c133e57af54,2022-08-12,John Doe,Groceries,113.9,USD,113.9,0.0,Supermarket shopping
+5fe20c47-2fb6-4b35-a978-bdfc8e525803,2022-08-13,John Doe,Shopping,92.7,USD,92.7,0.0,Online purchase
+f1550cb3-be92-48ab-b6de-2bc1a5c15d1d,2022-08-22,John Doe,Travel,128.53,USD,128.53,0.0,Hotel booking
+259b97a5-3862-4c36-9e0c-a62e6e3dba06,2022-08-10,John Doe,Entertainment,70.83,USD,70.83,0.0,Concert tickets
+90a17725-fab2-48da-892e-391f1c810f30,2022-09-01,John Doe,Income,1897.28,USD,0.0,1897.28,
+46c0e7d3-c683-4853-ac2a-da00aa52c460,2022-09-01,John Doe,Rent,449.83,USD,449.83,0.0,
+347f571d-f348-4882-9c83-28f7b0f3f951,2022-09-02,John Doe,Utilities,191.21,USD,191.21,0.0,
+d89fcd53-d6ce-40ef-86f2-91811f65aaa8,2022-09-23,John Doe,Groceries,188.43,USD,188.43,0.0,Supermarket shopping
+af70a984-537e-4d26-a78d-6b572a634d59,2022-09-06,John Doe,Dining,104.17,USD,104.17,0.0,Restaurant meal
+7511c58f-01fb-4c33-b676-3ed0ed57dfb2,2022-09-26,John Doe,Shopping,94.61,USD,94.61,0.0,Electronics store
+2707a50b-b7f5-47bb-be7c-4c4908103d54,2022-09-27,John Doe,Shopping,122.12,USD,122.12,0.0,Online purchase
+ab151165-8820-4f25-8d2b-c59db4b1b629,2022-09-24,John Doe,Entertainment,80.85,USD,80.85,0.0,Streaming subscription
+8ef134c7-1d0f-463f-b4ed-80ced6e9fb8b,2022-09-10,John Doe,Entertainment,68.73,USD,68.73,0.0,Concert tickets
+1b4d2518-0548-4d39-a601-48b79d6f7734,2022-09-04,John Doe,Shopping,150.71,USD,150.71,0.0,Electronics store
+de37d758-4ab3-42fb-a751-181b780af3e4,2022-09-23,John Doe,Shopping,146.65,USD,146.65,0.0,Online purchase
+b4cc248f-dabb-4ee7-92ec-316e05b02aac,2022-09-27,John Doe,Shopping,127.49,USD,127.49,0.0,Online purchase
+eb1c9432-4f41-4d55-a8e0-584a4534adfa,2022-10-01,John Doe,Income,1718.98,USD,0.0,1718.98,
+2bca8acc-ec86-4a59-8402-619e93cfa9c4,2022-10-01,John Doe,Rent,622.93,USD,622.93,0.0,
+449c3622-ea8b-496c-bb01-999cbaadc2c6,2022-10-02,John Doe,Utilities,208.41,USD,208.41,0.0,
+87109797-a6b1-4678-9e74-548c712f7e1c,2022-10-13,John Doe,Entertainment,161.86,USD,161.86,0.0,Concert tickets
+13d9fbb2-0c2b-46c6-98c4-b248fb2bcb42,2022-10-24,John Doe,Dining,96.95,USD,96.95,0.0,Cafe purchase
+0b769154-ce4d-406c-abf5-25bcda255ce4,2022-10-08,John Doe,Travel,65.68,USD,65.68,0.0,Flight ticket
+b05d0583-5b02-4a5c-b660-2f7a15ea59dc,2022-10-06,John Doe,Dining,53.99,USD,53.99,0.0,Cafe purchase
+6071d14c-3eef-4c5d-ba1e-311e1eb422df,2022-10-11,John Doe,Groceries,82.68,USD,82.68,0.0,Supermarket shopping
+045d23f9-5538-4dbc-bcea-f7614c417d63,2022-10-13,John Doe,Dining,152.79,USD,152.79,0.0,Restaurant meal
+338df2dc-3d47-424f-99a8-04cd0456d91b,2022-10-10,John Doe,Travel,117.42,USD,117.42,0.0,Flight ticket
+02649fa4-724e-4716-8d81-867af5d01f60,2022-11-01,John Doe,Income,1745.37,USD,0.0,1745.37,
+cd552c99-98e5-48bc-9b4f-3894442fe4da,2022-11-01,John Doe,Rent,542.0,USD,542.0,0.0,
+31515ad1-941a-484a-a3c9-f775a43b98f4,2022-11-02,John Doe,Utilities,179.74,USD,179.74,0.0,
+9e258ab5-7c4a-4f85-b1d2-b246d481e4c8,2022-11-22,John Doe,Entertainment,79.75,USD,79.75,0.0,Streaming subscription
+9fbb7a3d-d92b-4508-a9bc-360006ab98c0,2022-11-26,John Doe,Dining,123.46,USD,123.46,0.0,Cafe purchase
+b6240c58-b4e2-44c6-8802-2dc70693e02f,2022-11-21,John Doe,Shopping,125.58,USD,125.58,0.0,Clothing store
+042df9f8-a58d-490b-ad5d-37b4a29fe173,2022-11-22,John Doe,Dining,106.69,USD,106.69,0.0,Takeaway order
+d5faf8c5-cb30-4900-972b-3401056cfe75,2022-11-08,John Doe,Shopping,134.05,USD,134.05,0.0,Clothing store
+5c424936-2dcf-4ff9-bf7d-683c3dcd0acc,2022-11-08,John Doe,Groceries,64.64,USD,64.64,0.0,Grocery store purchase
+496dcb6b-abe8-4b95-b82e-c4c4650f09d3,2022-11-26,John Doe,Groceries,72.43,USD,72.43,0.0,Weekly groceries
+00d8cd1d-41f7-4f0b-8db6-7b6e987d88b2,2022-11-05,John Doe,Groceries,158.36,USD,158.36,0.0,Grocery store purchase
+bb22a63c-86b8-41d6-8a0a-682b8dfeb975,2022-12-01,John Doe,Income,2107.66,USD,0.0,2107.66,
+3a82ee14-59e4-4360-ac75-0b5217240b4f,2022-12-01,John Doe,Rent,763.59,USD,763.59,0.0,
+508ddfd5-0dd6-41c5-b2b4-3b374773c9bb,2022-12-02,John Doe,Utilities,109.01,USD,109.01,0.0,
+f9adf9d9-14de-4d26-a9c2-d3f361d995de,2022-12-07,John Doe,Travel,194.1,USD,194.1,0.0,Flight ticket
+059d0ee5-ecab-4bba-b608-08ed7ec0e5ff,2022-12-12,John Doe,Shopping,73.68,USD,73.68,0.0,Electronics store
+585ab2dd-5842-44d1-93bc-f71a859da25b,2022-12-23,John Doe,Shopping,167.75,USD,167.75,0.0,Electronics store
+bb877ac0-0782-4605-b4b4-1b2f5ab8f3cd,2022-12-23,John Doe,Shopping,69.26,USD,69.26,0.0,Electronics store
+9a759bc0-5c35-4b7e-a3e3-826f2592f8b5,2022-12-25,John Doe,Dining,70.95,USD,70.95,0.0,Restaurant meal
+bd2f0357-334c-4ea2-9a72-0bf563489311,2022-12-10,John Doe,Shopping,139.95,USD,139.95,0.0,Online purchase
+afab71bb-1ef1-4229-8fd2-fa97c296f4b2,2022-12-10,John Doe,Dining,125.72,USD,125.72,0.0,Restaurant meal
+8068137e-cf32-4841-bb73-687ec5ec629f,2022-12-27,John Doe,Shopping,110.55,USD,110.55,0.0,Clothing store
+c3424b79-b112-4e6d-b646-8ea52df9c30c,2022-12-06,John Doe,Travel,91.49,USD,91.49,0.0,Taxi ride
