@@ -7,6 +7,8 @@ from .serializers import TransactionSerializer
 import pandas as pd
 import os
 from django.conf import settings
+from django.http import JsonResponse
+
 
 @api_view(['POST'])
 def create_transaction(request):
@@ -46,4 +48,19 @@ def summarize_bank_statement(request, bank_statement_uid):
             money_out=row['Money Out'],
             currency=row['Currency']
         )
-    # return render(request, 'summary.html', {'summary': summary_dict})
+    
+    categorised_transactions = CategorisedTransaction.objects.filter(bank_statement_uid=bank_statement_uid)
+    summary_dict = {
+        'categories': [
+            {
+                'category': transaction.category,
+                'total_amount': float(transaction.total_amount),
+                'money_in': float(transaction.money_in) if transaction.money_in else None,
+                'money_out': float(transaction.money_out) if transaction.money_out else None,
+                'currency': transaction.currency
+            }
+            for transaction in categorised_transactions
+        ]
+    }
+    
+    return JsonResponse(summary_dict, status=status.HTTP_200_OK)
