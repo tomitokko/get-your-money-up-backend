@@ -17,7 +17,7 @@ def create_transaction(request):
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 # summarize bank statements based on categories
-def summarize_bank_statement(request, bank_statement_uid):
+def summarize_bank_statement(request, bank_statement_uid='ddb9c0fc-f0c2-4d8e-9073-c156e50f3395'):
     # bank_statement_file_path = os.path.join(settings.MEDIA_ROOT, 'bank_statement.csv')
 
     # Filter transactions based on the provided bank_statement_uid
