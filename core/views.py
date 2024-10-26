@@ -12,3 +12,7 @@ def create_transaction(request):
         serializer.save()
         return Response(serializer.data, status=status.HTTP_201_CREATED)
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+# summarize bank statements based on categories
+def summarize_bank_statement(bank_statement):
+    pass
