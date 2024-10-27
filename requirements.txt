@@ -5,10 +5,13 @@ gunicorn==23.0.0
 numpy==2.1.2
 packaging==24.1
 pandas==2.2.3
+patsy==0.5.6
 psycopg2==2.9.10
 python-dateutil==2.9.0.post0
 pytz==2024.2
+scipy==1.14.1
 six==1.16.0
 sqlparse==0.5.1
+statsmodels==0.14.4
 typing_extensions==4.12.2
 tzdata==2024.2
