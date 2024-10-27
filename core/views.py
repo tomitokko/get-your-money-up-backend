@@ -52,9 +52,16 @@ def forecast_leftover(bank_statement_uid):
         monthly_summary.sort_values('YearMonthPeriod', inplace=True)
         monthly_summary.set_index('YearMonthPeriod', inplace=True)
 
+        monthly_summary['Leftover'] = monthly_summary['Leftover'].astype('int64')
         leftover_series = monthly_summary['Leftover']
     except Exception as e:
         raise ValueError(f"Error processing data: {e}")
+
+
+    data['amount'] = pd.to_numeric(data['amount'], errors='coerce')
+
+    # data['amount'].fillna(0, inplace=True)
+
 
     if leftover_series.empty:
         raise ValueError("No data available to calculate leftovers.")
@@ -65,6 +72,8 @@ def forecast_leftover(bank_statement_uid):
         # Define SARIMA parameters
         order = (2, 1, 2)  # (p, d, q)
         seasonal_order = (1, 1, 1, 12)  # (P, D, Q, s)
+
+        
 
         # Initialize the SARIMA model
         model = SARIMAX(leftover_series, order=order, seasonal_order=seasonal_order)
@@ -94,16 +103,18 @@ def forecast_leftover(bank_statement_uid):
 def savings_info(request, bank_statement_uid):
     forcasted_disposable_income = forecast_leftover(bank_statement_uid)
     average_disposable_income = sum(forcasted_disposable_income)/len(forcasted_disposable_income)
+    average_disposable_income = round(average_disposable_income, 2)
     investment_percent = 0.8
     savings_percent = 0.2
     forcasted_savings_list = []
     accumulated_savings = 0
+    i = 0
 
     for income in forcasted_disposable_income:
-        i = 0
         i = i+1
         current_month_savings = savings_percent*income
         accumulated_savings = accumulated_savings + current_month_savings
+        accumulated_savings = round(accumulated_savings, 2)
         forcasted_savings_list.append([i, accumulated_savings])
 
     savings_dict = {
