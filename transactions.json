@@ -1,0 +1,28 @@
+{
+  "statements": [
+    {
+      "bank_statement_uid": "${ssuid}",
+      "date": "2010-01-01",
+      "time": "00:00:00",
+      "name": "JohnDoe",
+      "category": "Income",
+      "amount": "1904.08",
+      "currency": "USD",
+      "description": "null",
+      "money_out": "0",
+      "money_in": "1904.08"
+    },
+    {
+      "bank_statement_uid": "${ssuid}",
+      "date": "2010-01-01",
+      "time": "00:00:00",
+      "name": "JohnDoe",
+      "category": "Rent",
+      "amount": "408.01",
+      "currency": "USD",
+      "description": "null",
+      "money_out": "408.01",
+      "money_in": "0"
+    }
+  ]
+}

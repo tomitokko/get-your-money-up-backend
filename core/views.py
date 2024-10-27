@@ -14,7 +14,7 @@ import warnings
 
 
 def forecast_leftover(bank_statement_uid):
-    months_ahead = 12
+    months_ahead = 24
     bank_statement_transactions = Transaction.objects.filter(bank_statement_uid=bank_statement_uid)
     bank_statement_dataframe = pd.DataFrame(list(bank_statement_transactions.values()))
     try:
@@ -91,6 +91,27 @@ def forecast_leftover(bank_statement_uid):
     print(forecast_rounded)
     return forecast_rounded
 
+def savings_info(request, bank_statement_uid):
+    forcasted_disposable_income = forecast_leftover(bank_statement_uid)
+    average_disposable_income = sum(forcasted_disposable_income)/len(forcasted_disposable_income)
+    investment_percent = 0.8
+    savings_percent = 0.2
+    forcasted_savings_list = []
+    accumulated_savings = 0
+
+    for income in forcasted_disposable_income:
+        i = 0
+        i = i+1
+        current_month_savings = savings_percent*income
+        accumulated_savings = accumulated_savings + current_month_savings
+        forcasted_savings_list.append([i, accumulated_savings])
+
+    savings_dict = {
+        'average_disposable_income': average_disposable_income,
+        'forcasted_savings_list': forcasted_savings_list
+    }
+
+    return JsonResponse(savings_dict, status=status.HTTP_200_OK)
 
 @api_view(['POST'])
 def create_transaction(request):
